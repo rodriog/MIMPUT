@@ -4,11 +4,11 @@ Peach Untold Tale
 PLEASE READ!!!
 For now, the files are related to XML (i18n), that is, translation of the game assets.
 - ENGLISH already done! Its here in case people want to improve it. The game already has ENGLISH as default inside the engine. 
-- GERMAN: 0%
 - RUSSIAN: 1%
+- GERMAN: 2%
 - SPANISH: 4%
 - FRENCH : 12%
-- PORTUGUESE: 30%
+- PORTUGUESE: 45%
 - (put your XML language here): 0%
 
 Version 0.2! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported! 

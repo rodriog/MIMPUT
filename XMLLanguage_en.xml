@@ -683,7 +683,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="15">(Select a Number)\n1) Cunnilingus   2) Tribadism    3) 69   4) Sit on me!   5) Ass to Ass\n6) Slap and Pussy Fingering  7) Nipple 69   8) Sex with a dildo   9) Go away</p>
 			</scenes>
 			<scenes scene="daisy1">
-				<f i="1">Princess, I want\nsomething from you...</f>
+				<f i="1">{CHARACTER_NAME}, I want\nsomething from you...</f>
 				<p i="1">Daisy..I...I\nI just want to talk...</p>
 				<p i="1a">Daisy..what\'s...\nthat? Why are you getting naked?</p>
 				<p i="2">Daisy, where is\nthe offer? You said you were going to...</p>
@@ -707,7 +707,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="daisy3">
 				<f i="1">What we have\nhere? Your bumhole needs a massage!</f>
 				<p i="1">Daisy..this is\ndirty! Reminds me of a Toad who...</p>
-				<f i="3">Oh Princess, you\ndirty pervert! Losing your decency, aren\'t ya?</f>
+				<f i="3">Oh {CHARACTER_NAME}, you\ndirty pervert! Losing your decency, aren\'t ya?</f>
 				<f i="4">Princess, I will\nsuck you until your hole is swollen!</f>
 				<p i="4">Ohh I can\'t think\nstraight...soo good, I imagine my kingdom sucking all my holes!</p>
 			</scenes>
@@ -1360,7 +1360,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="6">Toadsworth: Almost, Princess. You see, you have to stimulate their erogenous zones. For the women that is their breasts and pussy, but for a man you have to suck their penis. Do you understand, dear?</f>
 				<p i="7">Erhm...I do. I\'ll make sure to do it next time I see someone like that. Thank you for the advice, Toadsworth. See you later!</p>
 				<f i="8">Toadsworth: Hello, my dear Princess! what can I do for you, my dear?</f>
-				<p i="9">(Press a Number)\n1) Any news about Mario?    2) Any idea to save my kingdom?\n3) I fell a...nasty and funny scent.....   SPACE) Go away</p>
+				<p i="9">(Press a Number)\n1) Any news about Mario?    2) Any idea to save my kingdom?\n3) I fell a...nasty and funny scent.....   {NEXTKEY}) Go away</p>
 				<f i="10">Toadsworth: No, my Princess... the toads are still searching for him recklessly around our land.</f>
 				<f i="11">Toadsworth: Well, my dear... Since you are helping us to find Mario, you need some special lessons. I am available. Are you prepared for them?</f>
 				<p i="12">(Press a Number) \n1) What is that?   2) No, I dont want it\n3) Okay, let\'s do it!</p>
@@ -1644,7 +1644,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="1">I better do\nit. He might be angry if I deny it... It\'s bouncy!</p>
 				<f i="2">Suck it, little\nwhore! Don\'t let any drip falling!</f>
 				<p i="2">Sluurp!\nMmmhhnn! Mmhnmph! Slup slup slup!</p>
-				<f i="3">You\'re really\na professional, butty blonde! I may spare your ass.</f>
+				<f i="3">You\'re really\na professional, butty girl! I may spare your ass.</f>
 				<p i="3">Mmmhhnnmhp!\n(it\'s as hot as a STEAM! I am drinking everything!)</p>
 			</scenes>			
 			<scenes scene="donPianta2">
@@ -1891,7 +1891,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	<!--WARIO (he is considered a friend, although as bad as a bullier)-->
 			<scenes scene="wario1">
 				<p i="1">Wario, nooo!\nIt\'s embarrassing, stop doing that, oh my Mushroms!</p>
-				<p i="1a">Wario, stop that\nyou hear this? I am not kidding!</p>
+				<p i="1a">Wario, stop that!\nYou hear this? I am not kidding!</p>
 				<p i="1b">Wario, you\'re\ngoing too far for just coins! Don\'t be mean! Oh!</p>
 				<f i="1">Gimme all\nthe money, slut!</f>
 				<f i="1a">I want MONEY\nup from your ass!</f>
@@ -1973,13 +1973,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Aaaahhh nooo!\nDoes she need to massage my buttocks like this?</p>
 				<f i="3">Just relax.\nThis will remove stress and dirtyness...</f>
 				<p i="3">Oooh, is she\nusing her...boobs on me? It\'s so bouncy and fresh!</p>
-				<p i="4">Hey!!! You d-don\'t\nneed to go that for a m-massage! Ahhhh Oooh!</p>
+				<p i="4">Hey!!! You d-don\'t\nneed to do that for a m-massage! Ahhhh Oooh!</p>
 				<f i="5">Please calm\ndown, let me finish it.. completelly...</f>
 				<p i="5">Aaah, cumming!\nDon\'t ea...drink it! That\'s enough, really...</p>
 			</scenes>			
 
 	<!--SOCKHOPs (green sacks that hops around)-->
-			<scenes scene="jellyfish1">
+			<scenes scene="sockhop1">
 				<p i="1">OOOh, I am\nSTUCK! My little URN, please let me go, umm?</p>
 				<p i="2">Ahhh! Something\nis tucking my twink hole! Oooh must leave!! I am even more stuck!</p>
 				<p i="3">I\'m cumming! My\nholes are dirty!</p>
@@ -2117,7 +2117,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>			
 			<scenes scene="mushroomDicks1">
 				<p i="0">(Press a Number): 1) Get teased!  2) Hand job  3) Suck it\n4) Get fucked in your pussy  5) Get banged in your love button  6) Get fucked in both holes!</p>
-			
 				<p i="1">Oooh, looking\nat those guys...It\'s mesmerizing!</p>
 				<p i="1a">Hmmm...they\'re\nso happy...it makes me want to pleasure them!</p>
 				<p i="2">Ohhhh, I am\nextremelly horny! My both holes are being tenderly fucked!</p>
