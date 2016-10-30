@@ -5305,7 +5305,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HintAnchorDown">Hint: the anchor went down! Climb it to go to Airship level!</text>
 			<text name="ExtraLife">Extra Life</text>
 			<text name="GoAway">Go away</text>
-			<text name="WaitDropCoins">You have to wait the dropping of coins first</text>
+			<text name="WaitDropCoins">You have to wait for the coins to drop</text>
 			<text name="pressToChangeZoom">Press \'-\' key to change ZOOM, and {NEXTKEY} to advance</text>
 			<text name="pressSpaceToAdvance">Press {NEXTKEY} to advance</text>
 			<text name="pressSpaceToHelpHer">Press {NEXTKEY} to help her!</text>
@@ -5365,7 +5365,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="CongratulationsBlueprint">Congratulations!! All blueprint pieces gathered!</text>
 			<text name="CONGRATULATIONS">CONGRATULATIONS!</text>
 
-			<text name="BlueprintFound">A cummed blueprint piece was found! Try to find all of them and give to E.Gadd!</text>
+			<text name="BlueprintFound">A cum stained blueprint piece was found! Try to find all of them and give to E.Gadd!</text>
 			<text name="ToadHouseBonus">Toad House Bonus Level!</text>
 			<text name="YouAreLockedPrison">You are locked in the prison bathroom! Try to find a way out!</text>
 			<text name="itsLOCKED">It\'s LOCKED!</text>
@@ -5405,7 +5405,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="doorNowUnlocked">This door is now unlocked!</text>
 			<text name="doorLockedTalkSomeone">The Door inside is locked. I may need to talk to someone to open it.</text>
 			<text name="princessFarted">The princess FARTED!</text>
-			<text name="bellyEmpty">The belly is now empty!</text>
+			<text name="bellyEmpty">Your belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
 			<text name="thisActionHelpFreeChainball">This action helped you to free yourself from the chain ball!</text>
 			<text name="WorldDoesntExist">WORLD DOESNT EXIST YET! Lumas of the Star Road are making them.</text>
@@ -5546,7 +5546,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="LOOP3xNext">Loop 3X then NEXT</text>
 			<text name="LOOP2xNext">Loop 2X then NEXT</text>
 			<text name="LOOPUntilPRESS">LOOP until PRESS</text>
-			<text name="NOLOOP">Sem Repetir</text>
+			<text name="NOLOOP">No Loop</text>
 
 			<text name="DONE">DONE</text>
 			<text name="AREYOUSURE">ARE YOU SURE ?</text>
@@ -5695,9 +5695,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	
 	<!--SCREENS: PROLOGUE -->
 		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
-		<text name="ButSomethingBad">But something bad is going\nto happen....</text>
+		<text name="ButSomethingBad">But something bad is about\nto happen....</text>
 		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>
-		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHERORMONES...</text>
+		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHEROMONES...</text>
 		<text name="AirshipsInvade">AIRSHIPS INVADE\nMUSHROOM KINGDOM!</text>
 		
 		<text name="DuringTheNight">DURING THE NIGHT...</text>
@@ -5711,8 +5711,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="ScreenPreg_ThatPregHappensOnly">That pregnancy happens only in the end of the game</text>
 
 	<!--SCREEN:PRISON-->
-		<text name="PrincessPrison">The princess in the prison!</text>
-		<text name="PrincessPrisonDesc">The princess will need to do a footjob in order to leave the bathroom. You have to play with this misterious dick until he cums, then you might be able to flee!</text>
+		<text name="PrincessPrison">The princess in prison!</text>
+		<text name="PrincessPrisonDesc">The princess will need to give a footjob in order to leave the bathroom. You\'ll have to play with this misterious dick until he cums, then you might be able to flee!</text>
 		
 	<!--SCREEN:KEYBOARD-->
 		<text name="ScreenKeyboard_Choose">Choose a Keyboard Layout!</text>
@@ -5782,8 +5782,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenPause_PrincessStat3">The Princess is craving for sex!</text>
 			<text name="ScreenPause_PrincessStat4">The Princess is pure</text>
 			<text name="ScreenPause_PrincessStat5">The Princess is still virgin</text>
-			<text name="ScreenPause_PrincessStat6">The Princess popped up her cherry!</text>
-			<text name="ScreenPause_PrincessStat7">The Princess is a virgin who loves dicks!</text>
+			<text name="ScreenPause_PrincessStat6">The Princess popped her cherry!</text>
+			<text name="ScreenPause_PrincessStat7">The Princess is a dick loving virgin!</text>
 			<text name="ScreenPause_PrincessStat8">The Princess is a dick craver!</text>
 			<text name="ScreenPause_PrincessStat9">The Princess is a Nymphomaniac virgin!</text>
 			<text name="ScreenPause_PrincessStat10">The Princess is the Dirtiest Nympho of the kingdom!</text>
@@ -5811,7 +5811,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="g_bobomb">There\'s more than one way to defuse a bomb!</text>
 		<text name="g_lakitu">They love fucking naked damnsels in the clouds!</text>
 		<text name="g_chomp">Be like a dog to them!</text>
-		<text name="g_wrenchguy">Try go to to their hatches!</text>
+		<text name="g_wrenchguy">Try to enter their hatches!</text>
 		<text name="g_flurry">Use all of his ice cream!</text>
 		<text name="g_boo">There\'s more than one way to fuck a Boo</text>
 		<text name="g_shyguy">There\'s more Shyguys to..erhm..fuck</text>
@@ -5839,11 +5839,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="SMB1">Super Mario Bros. 1</text>
 			<text name="SMB1Desc">Mario finally knocked out Bowser Koopa in his grey castle, throwing him in the lava. Now, the savior will release his damnsel.</text>
 		<text name="SMB2">Super Mario Bros. 2</text>
-			<text name="SMB2Desc">Mario, Luigi, Toad and the Princess saved the SubCon world, knocking down Wart, the lizard. Now they deserve some resting in one of the Toad houses, in a magical and calmier clearing...</text>
+			<text name="SMB2Desc">Mario, Luigi, Toad and the Princess saved the SubCon world, knocking down Wart, the lizard. Now they deserve some rest in one of the Toad houses, in a magical and calmier clearing...</text>
 		<text name="SMB3">Super Mario Bros. 3</text>
-			<text name="SMB3Desc">Mario, after using his raccoon powers, finally had beaten up all aiships, removing the curse of all kings. The princess was captive in Bowser castle, waiting for him, who appeared in the large lobby from the left, while she was crying. Both embraced each other and they decided to go to a calmier place using raccoon powers.</text>
+			<text name="SMB3Desc">Mario, after using his raccoon powers, had finally beaten all aiships, removing the curse of all kings. The princess was captive in Bowser castle, waiting for Mario, who appeared in the large lobby from the left, while she was crying. They embraced each other and decided to go to a calmier place using raccoon powers.</text>
 		<text name="SMRPG">Super Mario Bros RPG</text>
-			<text name="SMRPGDesc">After beating Smithy, peace returns to mushroom kingdom, and a parade was made, with all the inhabitants. The princess, embarrassed, asked Mario to follow her and climb the big  star, who is now happy and shining. Both started to flirt each other...</text>
+			<text name="SMRPGDesc">After beating Smithy, peace returns to mushroom kingdom, and a parade was held, with all the inhabitants. The princess, embarrassed, asked Mario to follow her and climb the big star, which is now happy and shining. They started to flirt...</text>
 		<text name="Ending">Ending</text>
 		<text name="NEXTENDING">NEXT ENDING</text>
 		<text name="LASTENDING">LAST ENDING</text>
@@ -5855,22 +5855,22 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="g_ending2">Do you know how SMB2 really ended?</text>
 		<text name="g_ending3">Do you know how SMB3 really ended?</text>
 		<text name="g_endingRPG">Do you know how Super Mario RPG really ended?</text>
-		<text name="g_virgin">Was your virginity intact but not yet fucked Mario?</text>
+		<text name="g_virgin">Was your virginity intact and you didn't yet fuck Mario?</text>
 		<text name="g_nymph">Are you a...NYMPH?</text>
 		
 	<!--SCREEN: ENDINGS in the CASTLE-->
 			<text name="EndingMoreSex">ENDING: \'PRINCESS DISCOVERING MORE SEX\'</text>
 				<text name="EndingMoreSexDesc">explores her growing sexuality every day with the Toads of her kingdom and all of her very horny friends!</text>
 			<text name="EndingOsamaQueen">ENDING: \'PRINCESS AS OSAMA\' S QUEEN\'</text>
-				<text name="EndingOsamaQueenDesc">finishes her quest as being the Queen of Osama! The princess is Pregnant and both are going to fulfill their desires!</text>
+				<text name="EndingOsamaQueenDesc">finishes her quest as being the Queen of Osama! The princess is pregnant and both are fulfilling their desires!</text>
 			<text name="EndingVirginLover">ENDING: \'A VIRGIN PRINCESS WITH HER LOVER\'</text>
 				<text name="EndingVirginLoverDesc">finishes her quest VIRGIN!</text>
 				<text name="EndingVirginLoverDesc2">decides to Marry her (and fuck her relentlessly with love!)</text>
 			<text name="EndingDirtySlut">ENDING: \'DIRTY SLUT\'</text>
-				<text name="EndingDirtySlutDesc">finishes her slutty quest being fucked by all races of creatures of the kingdom, day by day!</text>
+				<text name="EndingDirtySlutDesc">continues her slutty quest being fucked by all races of creatures of the kingdom, day in, day out!</text>
 		
 	<!--SCREEN: NAKED-->
-			<text name="ScreenNaked_Careful">Be careful! You\'re going out in your quest NAKED!</text>
+			<text name="ScreenNaked_Careful">Be careful! You\'re going out on your quest NAKED!</text>
 			
 	<!--SCREEN: OPTIONS-->
 		<text name="ScreenOptions_Options">Options</text>
