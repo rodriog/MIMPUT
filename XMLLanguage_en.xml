@@ -5506,8 +5506,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="princessSQUISHED">The princess was SQUISHED!</text>
 			<text name="princessFellAbyss">The princess fell in a very deep abyss!</text>
 			<text name="CantGoGalleryWhileAction">You can\'t go to the gallery while in an action.</text>
-			<text name="CantGoPauseZooming">Cant go to the pause screen while zooming!</text>
-			<text name="CantGoPauseEnteringDoors">Cant go to the pause screen while entering doors or objects!</text>
+			<text name="CantGoPauseZooming">Can\'t go to the pause screen while zooming!</text>
+			<text name="CantGoPauseEnteringDoors">Can\'t go to the pause screen while entering doors or objects!</text>
 			<text name="PressBarEnableMUSICSOUND">Press \'/\' to re-enable the MUSIC and SOUND</text>
 			<text name="PressRunGrab">Press RUN key to grab it</text>
 			<text name="PressRunGrabDecent">Press RUN key to grab it decently.</text>
@@ -5626,7 +5626,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="GhostHouse">Ghost House</text>
 		<text name="YoshiHouse">Yoshi\'s House</text>
 		<text name="StarHill">Star Hill</text>
-		<text name="MarioPad">Mario's Pad</text>
+		<text name="MarioPad">Mario\'s Pad</text>
 		<text name="EGaddLab">E.Gadd Lab</text>
 		<text name="ToadTown">Toad Town</text>
 		<text name="ToadHouse">Toad House</text>
@@ -5668,7 +5668,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="5-5">Whack Wally</text>
 		<text name="5-6">Fahr Frozen Houses</text>
 		<text name="5-7">North Palace</text>
-		<text name="6-1">Beach\'s Time!</text>
+		<text name="6-1">Beach Time!</text>
 		<text name="6-2">Bay of Nibbles</text>
 		<text name="6-3">Under CumWater</text>
 		<text name="6-4">Delfino Streets</text>
