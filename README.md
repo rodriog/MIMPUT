@@ -8,7 +8,7 @@ For now, the files are related to XML (i18n), that is, translation of the game a
 - GERMAN: 2%
 - SPANISH: 4%
 - FRENCH : 12%
-- PORTUGUESE: 45%
+- PORTUGUESE: 55%
 - (put your XML language here): 0%
 
 Version 0.2! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported! 
