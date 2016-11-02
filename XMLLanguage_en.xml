@@ -4362,28 +4362,28 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 			<scenes scene="levelPalace">
 				<p i="1">Princess: There is no airship anymore. I might have to go to the bunker to go to another world now.</p>
-				<p i="2">Princess: Oh no! I\'m stark naked in the Osama Palace! I have to act quickly!</p>
-				<p i="3">Princess: Oh no! My boobs are out in the open in the Osama Palace!</p>
-				<p i="4">Princess: Oh no! My pussy and ass are totally exposed in the Osama Palace!</p>
-				<p i="5">Princess: Oh! I\'m in the Osama Palace, he is the King of SubCon!</p>
+				<p i="2">Princess: Oh no! I\'m stark naked in Osama\'s Palace! I have to act quickly!</p>
+				<p i="3">Princess: Oh no! My boobs are out in the open in the Osama\'s Palace!</p>
+				<p i="4">Princess: Oh no! My pussy and ass are totally exposed in Osama\'s Palace!</p>
+				<p i="5">Princess: Oh! I\'m in Osama\'s Palace, he is the King of SubCon!</p>
 				<p i="6">This sofa is not mine. It\'s Daisy\'s. I envy it.</p>
 				<p i="7">Ohh, this is a BEAUTIFUL view! Look at those cutie mountains!</p>
 				<p i="8">A Rainbow! It\'s soooo lovely! I\'m blessed with luck!</p>
 				<p i="9">I don\'t understand why my Toads haven\'t made those large windows in my castle.</p>
-				<p i="10">Oh, my large succulent boobs are so sexy! This makes me want to make tribadism to Daisy the whole day!</p>
-				<p i="11">Huh? How my picture ended up there? That\'s indecent! Daisy, it was YOU!</p>
-				<p i="12">He\'s soooo cute! After Mario saved the Nimbus Land, he is rulling the world as the most adorable king!</p>
-				<p i="13">Where is Mallow? Without him, how could I climb the anchor of the airship? The anchor is nowhere to be seen!</p>
-				<f i="14">Welcome to Nimbus Land, Princess! We already know you are arriving here. Please go inside, the king wants to talk to you!</f>
-				<f i="15">Welcome to the Market, Princess! Too bad I don\'t have pans and other items I used to sell before. Perhaps in the future...</f>
-				<p i="16">This is a small pond. Oh it might be warm! I like hot showers. But... wait! It\'s in a public place! Better not!</p>
+				<p i="10">Oh, my large succulent boobs are so sexy! This makes me yearn for... tribbing Daisy all day long!</p>
+				<p i="11">Huh? How did my picture end up there? That\'s indecent! Daisy, YOU did this!</p>
+				<p i="12">He\'s soooo cute! After Mario saved Nimbus Land, he is rulling the world as the most adorable king!</p>
+				<p i="13">Where is Mallow? Without him, how can I climb the anchor of the airship? The anchor is nowhere to be seen!</p>
+				<f i="14">Welcome to Nimbus Land, Princess! We already know you\'ve arrived. Please go inside, the king wants to talk to you!</f>
+				<f i="15">Welcome to the Market, Princess! Too bad I don\'t have the pans and other items I used to sell before. Perhaps in the future...</f>
+				<p i="16">This is a small pond. Oh, it might be warm! I like hot showers. But... wait! This is a public place! Better not!</p>
 				
 				<!--MALLOW-->
 				<p i="17">Hello, Mallow!! I\'m so happy to see you\'re happy and healthy!</p>
 				<p i="18">Hello, Mallow!! I\'m so happy to see you! Please penetrate me...erhm... help me to penetrate the airship!!</p>
-				<f i="19">Hi, Princess! Where is Mario? We are on a siege, but I need to take another snack. The anchor is now ready to be climbed in the throne room! Good luck and thank you!</f>
-				<p i="20">But...I want to talk to you so much! You\'re so cute! I miss you since...</p>
-				<f i="21">I... I don\'t have time, Princess. I\'m hungry, and I\'m in a business with those two nimbus people about a new Tadpole lake. I\'m sorry. You need to hurry!</f>
+				<f i="19">Hi, Princess! Where is Mario? We are under siege, but I need to take another snack. The anchor is now ready to be climbed in the throne room! Good luck and thank you!</f>
+				<p i="20">But...I want to talk to you so much! You\'re so cute! I\'ve missed you since...</p>
+				<f i="21">I... I don\'t have time, Princess. I\'m hungry, and I have business with those two nimbus people about a new Tadpole lake. I\'m sorry. You need to hurry!</f>
 				
 			</scenes>
 			
@@ -5328,7 +5328,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="YouAreStarkNaked">You are stark naked!</text>
 			<text name="NotEnough">Not enough</text>
 			<text name="creaturesWantingToEat">creatures wanting to eat</text>
-			<text name="GotKeyButt">You\'ve got a key! But it entered right into your...erhm....butt.</text>
+			<text name="GotKeyButt">You\'ve got a key! But it\'s sticking in your...erhm....butt.</text>
 			<text name="FoundKey">You found a key!</text>
 			<text name="ThereIs">There is</text>
 			<text name="rosebud">rosebud</text> <!--used for anus-->
@@ -5365,7 +5365,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="CongratulationsBlueprint">Congratulations!! All blueprint pieces gathered!</text>
 			<text name="CONGRATULATIONS">CONGRATULATIONS!</text>
 
-			<text name="BlueprintFound">A cum stained blueprint piece was found! Try to find all of them and give to E.Gadd!</text>
+			<text name="BlueprintFound">You found a cum stained blueprint piece! Try to find all of them and give to E.Gadd!</text>
 			<text name="ToadHouseBonus">Toad House Bonus Level!</text>
 			<text name="YouAreLockedPrison">You are locked in the prison bathroom! Try to find a way out!</text>
 			<text name="itsLOCKED">It\'s LOCKED!</text>
@@ -5764,7 +5764,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenPause_Minus">Minus (not in KEYPAD) or Click her</text>
 			<text name="ScreenPause_Panic">Panic Mode</text>
 			<text name="ScreenPause_FrameSkip">Frame Skip</text>
-			<text name="ScreenPause_AcessInventory">Acess Inventory (in worldmap)</text>
+			<text name="ScreenPause_AcessInventory">Access Inventory (in worldmap)</text>
 			<text name="ScreenPause_QuickSave">Quick SAVE</text>
 			<text name="ScreenPause_QuickLoad">Quick LOAD</text>
 			
