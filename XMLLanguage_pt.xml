@@ -3122,84 +3122,84 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="5">Ei, você! Você é a galinha que Mário estava salvando, certo?</f>
 				<f i="6">Minha PUTINHA rosada! O que está fazendo em MINHA praia?</f>
 				<f i="7">Ei, bunduda, Mário está por perto para me ajudar a encontrar minhas máquinas do cassino?</f>
-				<p i="8">Don Pianta! More manners, please! You owe Mário, he helped you, right?</p>
-				<p i="9">Oh, don\'t talk like that, you\'re so mean!</p>
-				<p i="10">Stop, Mr. Pianta, this makes me...remember of the Koopalings!</p>
-				<f i="11">(Escolha um Número)\n1) Make her suck!   2) Fuck her ass!\n3) Fuck her pussy!  4) Let her go!</f>
+				<p i="8">Don Pianta! Tenha boas maneiras, por favor! Você deve sua vida a Mário, ele o ajudou, viu?</p>
+				<p i="9">Oh, não fale comigo dessa forma, você é tão baixo nível!</p>
+				<p i="10">PARE, Sr. Pianta, isto me faz... lembrar dos Koopalings!</p>
+				<p i="11">(Escolha um Número)\n1) Chupe o seu pauzão!   2) Deixe-o foder sua bundinha!\n3) Deixe-o foder sua buceta!  4) Vá embora!</p>
 			</scenes>			
 			
 			<scenes scene="dialogueYoshi">
-				<p i="1">Oh, you\'re... stark naked! Why? Well, at least I can mount you au natural, right?</p>
-				<p i="2">You might be a female Yoshi! You are so cute!</p>
-				<p i="3">Oh, you\'re a blue male one! I\'ve seen yoshis like you in Yoshi Island!</p>
-				<p i="4">(Escolha um Número)\n1) Ride him!\n2) No way!</p>
-				<p i="5">Ohhh, hello, my dear Yoshi! Do you know where Mário is?</p>
-				<p i="6">I can feel you dont know where he is...</p>
-				<p i="7">What? You are trying to say I can ride you, so you can help me find him?</p>
-				<p i="8">Yoshi, your saddle is really strange...but cute! There is a dick there! Yay! I don\'t mind!</p>
-				<p i="9">But...But...Your saddle is....strange. There is a ...what? A dick there! That\'s indecent!</p>
-				<p i="10">What? You say its for me not to fall? So I am more secure that way? (Escolha um Número)\n1) Ride him!\n2) No way!</p>
+				<p i="1">Oh, você está... peladão! Por quê? Bom, ao menos posso montá-lo natural, certo?</p>
+				<p i="2">Você deve ser uma Yoshi fêmea! Você é tão linda!</p>
+				<p i="3">Oh, você é um yoshi azul! Já vi Yoshis dessa cor na Ilha Yoshi!</p>
+				<p i="4">(Escolha um Número)\n1) Montá-lo!\n2) Ir embora!</p>
+				<p i="5">Ohhh, olá, meu querido Yoshi! Você sabe onde Mário se encontra?</p>
+				<p i="6">Eu sinto que você não sabe onde ele está...</p>
+				<p i="7">O quê? Você está tentando dizer que eu posso montá-lo, assim poderemos achá-lo?</p>
+				<p i="8">Yoshi, sua...sela é bem estranha... mas... agradável de sentar! Mas...tem uma... piroca nele! Eu...não ligo!</p>
+				<p i="9">Mas....mas.... seua sela é...bem estranha! Tem uma coisa que....parece um pênis! Isto é indecente!</p>
+				<p i="10">O quê? Você diz que este mastro é para firmar bem em minhas coxas, assim não cairei? Sou mais segura com ele? (Escolha um Número)\n1) Montá-lo!\n2) Ir embora!</p>
 			</scenes>			
 
 			<scenes scene="dialogueJellyFish">
-				<f i="1">Hello, Princess! It\'s a surprise to see you around here! Want some massaging?</f>
-				<p i="2">(ESCOLHA UM NÚMERO)\n1) Yes, why not?\n2) No, I dont need it.</p>
+				<f i="1">Olá, Princesa! É uma grande surpresa vê-la por aqui! Que tal uma massagem?</f>
+				<p i="2">(ESCOLHA UM NÚMERO)\n1) Sim, por que não?\n2) Não, não preciso.</p>
 			</scenes>			
 
 			<scenes scene="dialogueToad">
-				<f i="airship">Toad: Oh Princess! A huge airship is inside your castle! Toadsworth said you can beat it! Oh, please, princess!</f>
-				<f i="princessAsMário1">Mário!! We need your help! The enemies have.... oh!! Princess, stop disguising from us, hehe!</f>
-				<f i="princessAsMário2">Oh Princess! I\'ve thought you were Mário!</f>
-				<f i="princessAsMário3">Mário?? Finally you\'re b....oh...its you, my dear Princess!</f>
-				<f i="shy1">Princess, I am not seeing you, I promise!</f>
-				<f i="shy2">My royalty, please dress yourself...ohh....</f>
-				<f i="princessDirty1">Princess, I ...I think you\'re .....really soaked with cum!</f>
-				<f i="princessDirty2">Oh Princess, you\'re so dirty!</f>
-				<f i="princessDirty3">Princess!! This drenchness makes me want to...lick you all over</f>
-				<f i="princessCummedButt1">Princess, I ...I see your butt is really soaked!</f>
-				<f i="princessCummedButt2">My royalty, do you need me to...clean your...drenched butt?</f>
-				<f i="greet1">Good morning, Princess! I hope all is well with you! :)</f>
-				<f i="greet2">Do you want to go to my bed? I am sooo scared!</f>
-				<f i="greet3">You give shine to everyone here, you\'re like my mom!</f>
-				<f i="greet4">Where is Mário? He used to bring pizzas to us.</f>
-				<f i="greet5">I am feeling soo alone, my princess!</f>
-				<f i="greet6">Where are we going to eat today, my lady?</f>
-				<f i="greet7">You\'re always beautiful, Princess!</f>
-				<f i="greet8">I am not feeling well, are you taking care of me, Princess?</f>
-				<f i="greet9">I feel so lonely....I need some caressing!</f>
-				<f i="help1">Heeeelp! Our Land is in peril!</f>
-				<f i="help2">Ooooh, please help us, we\'re doomed!</f>
-				<f i="help3">The goombas are everywhere! They are fucking some of us!</f>
-				<f i="help4">Close the doors! They\'re coming! Help us!</f>
-				<f i="help5">Heeelp! I\'m extremelly excited, but I can\'t cum! I am exhausted, help me!</f>
-				<f i="bed1">Hey guys!\nLook at our cute Royal Princess! I can\'t stand anymore, let\'s go!</f>
-				<f i="bed2">Let\'s remove\nher clothes and undies, so she can relax :)</f>
-				<p i="bed3">Ohhh, Mário!\nLick me! Lick my butt like you envisioned! Aahh!</p>
-				<p i="bed4">Mário!! Oh, my love\nwhere are you now? I am masturbating for you!</p>
-				<p i="bed5">Ahhhh! Cumming!\nFill my body with cum, my Moustached man!</p>
+				<f i="airship">Toad: Oh Princesa! Um grandioso navio voador está sobre seu castelo! Toadsworth disse que você pode derrubá-lo! Oh, por favor, salve-nos!</f>
+				<f i="princessAsMario1">Mário!! Precisamos de sua ajuda! Os inimigos estão....Oh, Princesa!! Pare de se fantasiar de Mário!! Hehe!</f>
+				<f i="princessAsMario2">Oh Princesa! Pensei que você era o Mário!</f>
+				<f i="princessAsMario3">Mário?? Você finalmente ve...Oh! É você, querida Princesa!</f>
+				<f i="shy1">Princesa, não estou te vendo, eu juro!</f>
+				<f i="shy2">Minha realeza, por favor vista-se!! Ooh!</f>
+				<f i="princessDirty1">Princesa, eu... eu acho que você... está toda melada de porra!</f>
+				<f i="princessDirty2">Oh Princesa, você está...tão melada!</f>
+				<f i="princessDirty3">Princesa!! Este banho de...porra me faz querer... lambê-la todinha!</f>
+				<f i="princessCummedButt1">Princesa, eu...quero ver se sua bunda está realmente melada!</f>
+				<f i="princessCummedButt2">Minha realeza, você quer que... eu limpe seu...traseiro melado?</f>
+				<f i="greet1">Bom dia, Princesa! Espero que tudo esteja bem contigo :)</f>
+				<f i="greet2">Você quer ir para minha cama? Estou com tannnto medo!</f>
+				<f i="greet3">Você deu esperança a todos aqui! Você como minha mãe!</f>
+				<f i="greet4">Onde está Mário? Ele sempre trazia pizza para a gente!</f>
+				<f i="greet5">Estou me sentindo tão sozinho, Princesa!</f>
+				<f i="greet6">Onde vamos comer hoje, minha donzela?</f>
+				<f i="greet7">Você está SEMPRE bonita, Princesa!</f>
+				<f i="greet8">Não estou me sentindo bem...você cuidará de mim, Princesa?</f>
+				<f i="greet9">Estão tão sozinho...preciso de carícias!</f>
+				<f i="help1">Socooorro! Nosso Lar está em perigo!</f>
+				<f i="help2">Ooooh, por favor nos ajude! Estamos ferrados!</f>
+				<f i="help3">Os goombas estão em todo lugar! Eles estão...fazendo sexo com alguns de nós!</f>
+				<f i="help4">Fechem as portas! Eles estão vindo! Socorro!</f>
+				<f i="help5">Socorro!! Estou...muito exxictado! Mas não consigo gozar! Estou exausto, ajude-me!</f>
+				<f i="bed1">Ei, galera!\nOlhe para nossa Linda princesa! Não aguento mais esperar, vamos!</f>
+				<f i="bed2">Vamos remover\nsuas roupas e lingerie, daí ela vai relaxar :)</f>
+				<p i="bed3">Ohhh, Mário!\nLamba-me! Chupe minha bunda como você esperava! Aahh!</p>
+				<p i="bed4">Mário!! Oh, meu amor\nonde você está agora! Estou batendo uma para você!</p>
+				<p i="bed5">Ahhhh! GOZEI!\nJorre porra no meu corpinho, meu bigodudinho!</p>
 			</scenes>
 			
 			<scenes scene="dialogueBuddy1">
-				<p i="1">Good Morning,\nBobomb Buddy! I\'ve brought the key!</p>
-				<f i="2">Thank you, Princess! Please\nput the key in the computer on the right.</f>
+				<p i="1">Bom dia,\nAmigo Bobomb! Eu trouxe a chave especial!</p>
+				<f i="2">Obrigado, Princesa! Por\nfavor ponha-a no computador à direita.</f>
 			</scenes>
 			<scenes scene="dialogueBuddy2">
-				<f i="1">Hello, Princess! To use our cannon, you have to get a special key.</f>
-				<f i="2">The sovereign of each palace might have them. You can travel to other worlds that way.</f>
+				<f i="1">Olá, Princesa! Para usar o canhão, você tem que achar uma chave especial.</f>
+				<f i="2">O rei de cada palácio devem possuir essa chave. Com ela, você pode viajar a outros mundos.</f>
 			</scenes>
 
 			<scenes scene="dialogueToad1">
-				<f i="1">Princess....I feel you need my help! You...might be having a gaping asshole problem!</f>
-				<f i="2">Princess....I need to do something in....your back thighs!</f>
-				<p i="3">Ask him to... cure my asshole</p>
-				<p i="4">Be lewd so he will play with my butt</p>
-				<p i="5">Help him with my hands</p>
-				<p i="6">What to do?</p>
-				<p i="7">2) Make her suck you  3) Tease her  4) Tease her more\n5) Tease her even more!  6) Slip in her asshole!  7) Let him choose!  ({NEXTKEY}) GO AWAY</p>
+				<f i="1">Princesa...Eu sinto que você precisa de ajuda! Você...parece estar com...seu rabinho arregaçado!</f>
+				<f i="2">Princesa...Eu tenho que fazer algo...atrás das suas coxas, perto de ...seu bumbum!</f>
+				<p i="3">Pedí-lo para...curar minha bundinha</p>
+				<p i="4">Ficar desejosa, fazendo-o brincar com minha bunda</p>
+				<p i="5">Ajudá-lo com minhas mãos</p>
+				<p i="6">O que quer fazer?</p>
+				<p i="7">2) Chupe seu pau 3) Massagem frontal  4) Massagem deitada\n5) Massagem ajoelhada!  6) Aliviar seu cu!  7) Fazê-lo escolher!  ({NEXTKEY}) GO AWAY</p>
 			</scenes>			
 				
 			<scenes scene="dialogueGloryHole">
-				<p i="1">A gloryhole with....a dick!\n1) Play with it  2) Ignore it</p>
+				<p i="1">Um...buraco glorioso com....um pinto!\n1) Brincar com ele  2) Sair</p>
 			</scenes>			
 
 			<scenes scene="dialoguePunyElder">
