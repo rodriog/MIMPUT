@@ -3925,6 +3925,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Choose your action:\n1) Wear it (lose your current powerup)  2) Keep in the Inventory  3) Skip it</p>
 				<p i="3">Princess: Oh...I\'m smelling my Mario\'s scent inside!</p>
 				<p i="4">Oh...are you sure you want me to remove my outfit? (CHOOSE A NUMBER)\n1) YES!\n2) NO!</p>
+					<p i="4a">I...I really need to remove this outfit... I am on fire! (CHOOSE A NUMBER)\n1) REMOVE IT!\n2) NO!</p>
 				<p i="5">You\'re now Fire Princess! Press attack button to throw fireballs!</p>
 				<p i="6">You\'re now a Furry Raccoon! Press \'Run\' in order to fly or \'Attack\' for a statue!</p>
 				<p i="7">You\'re now a Raccoon! Run in order to fly!</p>
@@ -5506,6 +5507,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="princessSQUISHED">The princess was SQUISHED!</text>
 			<text name="princessFellAbyss">The princess fell in a very deep abyss!</text>
 			<text name="CantGoGalleryWhileAction">You can\'t go to the gallery while in an action.</text>
+			<text name="CantDoWhileActionGround">You can\'t do this while in an action or if not touching ground.</text>
 			<text name="CantGoPauseZooming">Can\'t go to the pause screen while zooming!</text>
 			<text name="CantGoPauseEnteringDoors">Can\'t go to the pause screen while entering doors or objects!</text>
 			<text name="PressBarEnableMUSICSOUND">Press \'/\' to re-enable the MUSIC and SOUND</text>

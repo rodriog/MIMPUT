@@ -3171,7 +3171,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="help2">Ooooh, por favor nos ajude! Estamos ferrados!</f>
 				<f i="help3">Os goombas estão em todo lugar! Eles estão...fazendo sexo com alguns de nós!</f>
 				<f i="help4">Fechem as portas! Eles estão vindo! Socorro!</f>
-				<f i="help5">Socorro!! Estou...muito exxictado! Mas não consigo gozar! Estou exausto, ajude-me!</f>
+				<f i="help5">Socorro!! Estou...muito excitado! Mas não consigo gozar! Estou exausto, ajude-me!</f>
 				<f i="bed1">Ei, galera!\nOlhe para nossa Linda princesa! Não aguento mais esperar, vamos!</f>
 				<f i="bed2">Vamos remover\nsuas roupas e lingerie, daí ela vai relaxar :)</f>
 				<p i="bed3">Ohhh, Mário!\nLamba-me! Chupe minha bunda como você esperava! Aahh!</p>
@@ -3203,103 +3203,103 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			</scenes>			
 
 			<scenes scene="dialoguePunyElder">
-				<p i="1">Ohh, who...are...youuu? I don\'t remember...</p>
-				<f i="2">Puny Elder: Princess! I am the Puny Elder, the ruler of Boggly Tree, leader of all Punies</f>
-				<f i="3">Puny Elder: Now, if you can excuse me, I am busy, preparing my meal.</f>
+				<p i="1">Ohh, quem...é....vocêeee? Eu não lembro...</p>
+				<f i="2">Puny Elder: Princesa! Eu sou o Puny Velho, o chefe cacique da árvore Boggly Tree, líder de todos os Punies.</f>
+				<f i="3">Puny Elder: Agora, se você me dá licença, estou ocupado, preparando comida.</f>
 			</scenes>			
 			
 			<scenes scene="dialoguePunio1">
-				<p i="1">I really need to go inside!</p>
-				<p i="2">I...I need to go outside...</p>
-				<p i="3">(Escolha um Número)\n1) Where am I?                2) Where is Mário?</p>
-				<p i="4">Nevermind, thank you!</p>
-				<p i="5">Princess: Oh, what a cute little thing you are!</p>
-				<f i="6">Punio: Oh, hello. Wait, are you Princess {CHARACTER_NAME}?</f>
-				<p i="7">Princess: Well, yes I am, you must be Punio the Puny then?</p>
-				<p i="8">(Escolha um Número)\n1) Where am I?                2) Where is Mário?\n3) I really need to go inside.   4) Nevermind, thank you!</p>
-				<f i="9">Punio: You\'re in the Boggly Woods, and here is my home, Boggly Tree, my princess.</f>
-				<f i="10">Punio: Oh! Is Mário in danger? I need to get some clues about him, so I can help.</f>
-				<f i="11">Princess, to continue on, you need to go inside this hole. You can\'t do it alone. I can help you with that.</f>
-				<p i="12">(Escolha um Número)\n1) Yes, please help me! \n2) No thank you, Punio the Puny...</p>
-				<f i="13">Punio: Ok Princess...Please pardon me...</f>
+				<p i="1">Eu realmente preciso entrar ali!</p>
+				<p i="2">Eu...Eu agora preciso sair...</p>
+				<p i="3">(Escolha um Número)\n1) Onde estou?                2) Onde está Mário?</p>
+				<p i="4">Deixa para lá, obrigada!</p>
+				<p i="5">Princesa: Oh, que coisinha guti-guti você é!</p>
+				<f i="6">Punio: Oh, olá! Espere, você não é a Princesa {CHARACTER_NAME}?</f>
+				<p i="7">Princesa: Bem...sim, sou eu, você é o Punio, da raça Puny?</p>
+				<p i="8">(Escolha um Número)\n1) Onde estou?                2) Onde está Mário?\n3) Eu realmente preciso entrar ali.   4) Deixa para lá, obrigada!</p>
+				<f i="9">Punio: Você está na Madeirama Boggly, e aqui é minha casa, a Árvore Boggly, minha princesa.</f>
+				<f i="10">Punio: Oh! Mário está em perigo? Preciso saber mais sobre seu paradeiro, assim posso ajudar.</f>
+				<f i="11">Princesa, para poder continuar, você tem que entrar neste buraco. Não conseguirá sozinha. Posso ajudá-la.</f>
+				<p i="12">(Escolha um Número)\n1) Sim, por favor me ajude! \n2) Não, obrigada, Punio...</p>
+				<f i="13">Punio: Ok Princesa...Me dê sua licença por favor...</f>
 			</scenes>			
 			
 			<scenes scene="dialogueTux">
-				<p i="1">Oh...you\'re cute! You make me feel free to rush out of these Windows!</p>
+				<p i="1">Oh...você é tão atraente! Você me deixa livre para sair voando bem longe do Windows!</p>
 			</scenes>			
 
 			<scenes scene="dialogueGoombaKing">
-				<f i="1">Goomba King: WHO are there invocating me? Hey, You there!! I order you to suck my balls!</f>
-				<p i="2">(ESCOLHA UM NÚMERO)\n1) Suck his balls\n2) Dance (show your butt to him)</p>
-				<f i="3">Goomba King: GUESS WHAT? I prefer my minions to fuck you instead! Goombas! Go take her!!</f>
+				<f i="1">Rei Goomba: QUEM está a me invocar? Eii, você aí! Eu ordeno que chupe minhas bolas!</f>
+				<p i="2">(ESCOLHA UM NÚMERO)\n1) Chupe as bolas\n2) Dançar (mostre sua bundinha a ele)</p>
+				<f i="3">Rei Goomba: SABE DE UMA COISA? Prefiro que minhas tropas trepem com você! Goombas! Atrás dela!</f>
 			</scenes>			
 			
 			<scenes scene="dialogueFlavio">
-				<f i="1">Flavio: Are you Princess {CHARACTER_NAME}, right? Why are you in MY island? It\'s Flavio land, you know!</f>
-				<p i="2">I am trying to find Mário! Our land is on attack! Did you see him somewhere?</p>
-				<f i="3">Mário? He made Flavio angry! He owns me the red skull gem, the heirloom of the House of Flavio! That plumber had it lost!</f>
-				<p i="4">(ESCOLHA UM NÚMERO)\n1) Mock his nose\n2) Leave him</p>
-				<p i="5">You...you have a very fancy nose! It\'s like a penis!</p>
-				<p i="6">What? What did you say? Why, you little WHORE! Flavio demands satisfaction! You! Me! FUCK in the sand!</p>
+				<f i="1">Flavio: Você é a Princesa {CHARACTER_NAME}, certo? Por que estás na MINHA ilha? É a terra de Flávio (EU), você sabe!</f>
+				<p i="2">Estou tentando encontrar Mário! Nosso reino está sob ataque! Você o viu?</p>
+				<f i="3">Mário? Ele fez Flávio ter muita raiva! Ele me deve a jóia da caveira vermelha, a relíquia da casa dos Flavios! Este encanador perdeu esta pedra!</f>
+				<p i="4">(ESCOLHA UM NÚMERO)\n1) Caçoar de seu nariz\n2) Vá embora</p>
+				<p i="5">Você...você tem um nariz engraçado! É como um pênis!</p>
+				<p i="6">O quê? O que você disse? Por que faz isso, sua PUTA! Flavio pede satisfação! Você! Eu! Treparemos ali na areia!</p>
 			</scenes>			
 			
 			<scenes scene="dialogueLuft">
-				<f i="1">LuftMallow: Hey!! You are taking my coins! But...well, I dont mind...</f>
-				<f i="2">Good morning, Princess!</f>
-				<p i="3">(ESCOLHA UM NÚMERO)\n1) Tell me about you  2) Where is Mário?\n3) Go away</p>
-				<f i="4">LuftMallow: I am Luftmallow. I am a being who helped the architects since PlayShapes era. I love travelling along those endless skies of Mushroom Kingdom.</f>
-				<p i="5">(ESCOLHA UM NÚMERO)\n1) Are you helping me?  2) Ask him to do something nasty\n3) Go away</p>
-				<f i="6">LuftMallow: Sorry, Princess, no. I am guarding this area and Kerbal Space.</f>
-				<f i="7">LuftMallow: Huh? Erhm... Not right now...</f>
-				<f i="8">LuftMallow: I\'ve seen him with Wendy, in a very nasty place full of fire. I dont have any more information, and I WONT go there!</f>
-				<f i="9">LuftMallow: Hey, how about a lift to the end of this level?</f>
-				<p i="10">(ESCOLHA UM NÚMERO)\n1) That sounds lovely! Sure!\n2) I don\'t need it, thank you.</p>
+				<f i="1">LuftMallow: Ei! Você está pegando minhas moedas! Mas...bem, eu não ligo...</f>
+				<f i="2">Bom dia, Princesa!</f>
+				<p i="3">(ESCOLHA UM NÚMERO)\n1) Diga-me mais sobre você   2) Onde está Mário?\n3) Sair</p>
+				<f i="4">LuftMallow: Meu nome é Luftmallow. Sou um ser que ajudou os arquitetos deste jogo, desde os tempos de PlayShapes. Adoro viajar neste infinito céu do Reino do Cogumelo.</f>
+				<p i="5">(ESCOLHA UM NÚMERO)\n1) Você vai me ajudar?  2) Ser pervertida com ele\n3) Sair</p>
+				<f i="6">LuftMallow: Desculpe, Princesa, não. Estou guardando esta área e o jogo Kerbal Space.</f>
+				<f i="7">LuftMallow: Hein?? Ééé... agora não, por favor...</f>
+				<f i="8">LuftMallow: Eu o vi com Wendy, em uma área escura cheia de fogo. Não tenho mais informações, e é certo QUE NÃO IREI LÁ!</f>
+				<f i="9">LuftMallow: Ei, que tal uma carona para o final desta área?</f>
+				<p i="10">(ESCOLHA UM NÚMERO)\n1) Supimpa! Claro que aceito!\n2) Não precisarei, obrigada.</p>
 			</scenes>			
 			
 			<scenes scene="dialogueToadette">
-				<f i="1">Princess!! Please cover yourself, or I\'ll be calling the guards!</f>
-				<f i="2">Oh, Princess!! Do you two want something for the dinner?</f>
-				<f i="3">Oh! You better not walk around like that! The fighters might degust you, dear!</f>
-				<f i="4">Princess? Why are you here? And where is the Great Gonzalez?</f>
-				<f i="5">Good morning, Princess!</f>
-				<f i="6">Good afternoon, my Royalty!</f>
-				<f i="7">Princess!! Why are you wandering like that? Don\'t you dare do....do Nasty Things!</f>
-				<f i="8">Good morning! Please keep dressed and help Toadsworth do their chores in the castle!</f>
-				<f i="9">I just can\'t stop masturbating my insides, Princess!</f>
-				<f i="10">Princess! The toads...erhm... gangbanged me... and I am still horny!</f>
-				<f i="11">Princess!! Why are you wandering like that? Don\'t you dare do....do Nasty Things!</f>
+				<f i="1">Princesa!! Por favor cubra-se, ou estarei chamando os guardas!</f>
+				<f i="2">Oh, Princesa!! Vocês dois querem algo para o jantar?</f>
+				<f i="3">Oh! É melhor não caminhar nua assim! Os lutadores podem querer degustá-la, querida!</f>
+				<f i="4">Princesa? Por que está aqui? E onde está o Grande Gonzalez (Mário)?</f>
+				<f i="5">Bom dia, Princesa!</f>
+				<f i="6">Boa tarde, sua Majestade!</f>
+				<f i="7">Princesa!! Por que você andando por aí assim? Não invente de...fazer coisas pervertidas!</f>
+				<f i="8">Bom dia! Por favor mantenha-se decente e ajude Toadsworth com os afazeres do castelo!</f>
+				<f i="9">Eu não consigo parar de bater uma siririca, Princesa!</f>
+				<f i="10">Princesa! Os toads...ééé...me comeram! E estou...ainda excitadinha!</f>
+				<f i="11">Princesa!! Por que está andando por aí assim? Não invente de...fazer coisas pervertidas!</f>
 			</scenes>			
 			
 			<scenes scene="dialogueToadella">
-				<f i="1">Toadella: Helloow, my dear majesty! What can I do for youuuu?</f>
-				<p i="2">(Escolha um Número)\n1) Ask if she has something to say today\n2) Ask her to bath you (IMMEDIATELY)</p>
+				<f i="1">Toadella: Oláaaa, minha querida majestade! O que posso fazer por vocêeeeee?</f>
+				<p i="2">(Escolha um Número)\n1) Você tem alguma informação hoje?\n2) Por favor, banhe-me (IMEDIATAMENTE)</p>
 				
 				<!--TIPS OF THE DAY-->
-				<f i="3">Yes! Do you know there are many toads who do different tasks in this castle? But some of them keep...doing nasty things while hidden!</f>
-				<f i="4">Yes I do! Have you checked out your swan? Its in one of the towers above. I washed and perfumed it up today</f>
-				<f i="5">I... I was impregnated recently! A toad did that to me once again! We will soon have a new minion to guard your kingdom!</f>
-				<f i="6">Zess wants me to...to get fucked by</f>
-					<f i="6a">toads today. And counting! Oh!! I\'ll end up a... slut!</f>
-				<f i="7">The female toads were with me earlier. Rinni, Krys T, and even Zess T were</f>
-				<f i="8">I\'ve seen a </f>
-					<f i="8a">near our castle today! I\'ve been a bit frightened...and horny!</f>
-				<f i="9">Today I am cleaning up the entire castle! I am not only a bather, I am a great maid. Toadsworth is proud of me! (Giggles)</f>
-				<f i="10">We\'ve having a party today! All the dwellers of your majesty\'s castle are drinking...</f>
-					<f i="10a">and eating</f>
-				<f i="11">Rumors says couple of toads found</f>
-					<f i="11a">running out naked last night. Perhaps she was deprived of her clothes...</f>
-				<f i="12">Last night,</f>
-					<f i="12a">came to our castle searching for you. That story repeats over and over, but no, I\'ve not touched her. This time.</f>
-				<f i="13">Today, Toadsworth were searching for some horny toads who were fucking another female toad. He was clear, he will punish them for indecency!</f>
-				<f i="14">Tonight, </f>
-					<f i="14a">toads have taken me by behind! Oooh it was....divine! We used some leftover</f>
-					<f i="14b">from the last meeting in the royal table. Hmmm!</f>
-				<f i="15">I don\'t remember... Perhaps tomorrow...</f>
-				<f i="16">I do remember now! I have a secret to tell. I am the main breeder of all the Toads in our Kingdom! I am getting fucked everyday! (Oooh!) I am.. I am a nymph!</f>
-				<f i="17">I have nothing to say today...</f>
-				<f i="18">I still need to wash it</f>
-				<f i="19">It\'s still dripping a gooey cum!</f>
-				<f i="20">The Toads fucked my pussy again...</f>
+				<f i="3">Sim! Você sabe que há vários toads que fazem diferentes tarefas no castelo? Mas alguns...continuam sendo bem pervertidos ocultamente!</f>
+				<f i="4">Sim, tenho! Você já visitou seu cisne fêmea? Está em uma das torres do castelo. Eu a lavei e perfurmei hoje mesmo! Está divina!</f>
+				<f i="5">Eu... Eu fui impregnada recentemente! Um toad fez isso de novo comigo! Logo teremos um novo integrante para guardar nosso Reino!</f>
+				<f i="6">Zess quer que...eu seja fodida por...</f>
+					<f i="6a">toads hoje mesmo. E contando! Oh.. acabarei virando uma...PUTA!</f>
+				<f i="7">As toads femininas estiveram comigo horas antes. Rinni, Krys T, e até a Zess T estavam</f>
+				<f i="8">E vi um(a) </f>
+					<f i="8a">perto de nosso castelo hoje! Fiquei assustada... e excitada!</f>
+				<f i="9">Hoje estarei limpando o castelo inteiro! Não sou só uma sinhá, sou também uma dona de casa! Toadsworth tem orgulho de mim, hihi!</f>
+				<f i="10">Teremos uma festa esta noite! Todos os moradores de seu castelo estarão bebendo...</f>
+					<f i="10a">e comendo</f>
+				<f i="11">Rumores dizem que alguns toads encontraram</f>
+					<f i="11a">correndo pelada ontem à noite. Talvez ela se esqueceu de se vestir ou estava tarada...</f>
+				<f i="12">Ontem à noite,</f>
+					<f i="12a">veio ao castelo procurando por você. Sempre tem ocorrido isso... mas não, não a toquei! Por agora!</f>
+				<f i="13">Hoje, Toadsworth estava procurando alguns toads de pau duro que estavam fodendo uma toad. Ele foi bem direto, irá puní-los!</f>
+				<f i="14">Esta noite, </f>
+					<f i="14a">alguns toads me pegaram por trás! Ohhh foi tão.....divino! Usamos o que sobrou de</f>
+					<f i="14b">da última conversa na mesa real. Hmmm!</f>
+				<f i="15">Eu não lembro...talvez amanhã...</f>
+				<f i="16">Lembrei! Eu tenho um segredo para te dizer. Eu... sou a que tem parido todos os toads de nosso Reino! Eu...estou sendo comida todos os dias! (Oooh!) Eu sou...uma ninfomaníaca!</f>
+				<f i="17">Não tenho nada a dizer hoje...</f>
+				<f i="18">Ainda preciso lavar-me</f>
+				<f i="19">Ainda está brotando porra!</f>
+				<f i="20">Os toads foderam minha buceta de novo...</f>
 			</scenes>			
 
 			<scenes scene="dialoguePirateMug">
@@ -3935,6 +3935,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Choose your action:\n1) Wear it (lose your current powerup)  2) Keep in the Inventory  3) Skip it</p>
 				<p i="3">Princess: Oh...I am feeling my Mário scents inside!</p>
 				<p i="4">Oh...are you sure you want me to remove my outfit? (ESCOLHA UM NÚMERO)\n1) YES!\n2) NO!</p>
+					<p i="4a">I...I really need to remove this outfit... I am on fire! (CHOOSE A NUMBER)\n1) REMOVE IT!\n2) NO!</p>
 				<p i="5">You is now Fire Princess! Press attack button to throw fireballs!</p>
 				<p i="6">You is now a Furry Raccoon! Press \'Run\' in order to fly or \'Attack\' for a statue!</p>
 				<p i="7">You is now a Raccoon! Run in order to fly!</p>
@@ -5516,7 +5517,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="SAVEDCLIPBOARD">SALVO na ÁREA DE TRANSFERÊNCIA! Só precisa colar (CTRL+V) num editor de texto e salvar!</text>
 			<text name="princessSQUISHED">A princesa foi ESMAGADA!</text>
 			<text name="princessFellAbyss">A princesa caiu num abismo!</text>
-			<text name="CantGoGalleryWhileAction">Você NÃO pode ir à galeria enquanto numa ação do jogo!</text>
+			<text name="CantGoGalleryWhileAction">Você NÃO pode ir à galeria enquanto estiver em uma ação do jogo!</text>
+			<text name="CantDoWhileActionGround">Você NÃO pode fazer isso enquanto estiver em uma ação do jogo ou não tocando o solo!</text>
 			<text name="CantGoPauseZooming">Não é possível ir à tela de PAUSA enquanto aproximando/afastando a câmera!</text>
 			<text name="CantGoPauseEnteringDoors">Não é possível ir à tela de PAUSA enquanto entra em portas ou objetos!</text>
 			<text name="PressBarEnableMUSICSOUND">Pressione tecla \'/\' para reativar música e sons</text>
