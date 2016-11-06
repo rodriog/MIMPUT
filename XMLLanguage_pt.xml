@@ -5304,6 +5304,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="By">Por</text>
 			<text name="somethingUnlocked">ALGUMA COISA foi destrancada!</text>
 			<text name="TimeIsUp">TEMPO ESGOTADO! A princesa se ferrou!</text>
+			<text name="REMOVEDCLOTHESPRESS">RETIROU SUAS ROUPAS! - TECLE</text>
+			<text name="PRESSDOWNWEAR">Tecle \'BAIXO\' para TENTAR vestir-se</text>
+			<text name="CantRetrieveOutfitsAnymore">Você não pode mais vestir. Está danificado e colado no chão!</text>
 			<text name="Oh">Oh</text>
 			<text name="DescribeIt">Mostrar/Esconder Estória da Cena</text>
 			<text name="PressMinusZoomArea">Pressione tecla \'-\' (menos) para aproximar/afastar esta área!</text>
@@ -5618,6 +5621,32 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="MainMenu">Menu Principal</text>
 			<text name="BadOrUnknownFile">Arquivo com Problemas!</text>
 
+	<!--Drinkable/Edible items-->
+			<text name="redWine">vinho tinto</text>
+			<text name="rottenWater">água rôta</text>
+			<text name="cum">porra</text>
+			<text name="blooperOil">óleo de Blooper</text>
+			<text name="inTheFountainOfYouth">na fonte da juventude</text>
+			<text name="anAncienBeer">uma cerveja viking</text>
+			
+			<text name="pizza">pizza</text>
+			<text name="oldBread">pão velho</text>
+			<text name="royalBread">pão Real</text>
+			<text name="pussies">bucetas</text>
+			<text name="pasta">macarrão</text>
+			<text name="candies">doces</text>
+			<text name="apples">maçãs</text>
+			<text name="strawberries">morangos</text>
+			<text name="cherries">cerejas</text>
+			
+	<!--Phrases to be constructed in certain dialogues like Toadella-->
+			<text name="phraseTappingButtCheeks">dando tapinha na minha bunda</text>
+			<text name="phraseFingeringMyAsshole">dedando meu cuzinho</text>
+			<text name="phraseMakingPoochyFuckMe">fazendo Poochy me foder</text>
+			<text name="phraseTellingSecretsAbout">dizendo-me os segredos de sua indecência</text>
+			<text name="phraseExpectingNastier">esperando-me ser mais pervertida</text>
+			<text name="phraseMakingCakeWithMilk">fazendo um bolo com o leitinho de minhas mamas</text>
+			<text name="phraseWashingAllDirtyClothes">lavando toda sua roupa sujinha</text>
 	
 	<!--WORLD NAMES -->
 		<text name="world1">Reino dos Cogumelos</text>

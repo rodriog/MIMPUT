@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--PLEASE READ!!!
 - NEW! SOON, ACCENTS (tilde, acute, grave...) for French, Portuguese, German, and Cyrilic (Russian) characters is now supported!
-- Version 0.2! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like \'㡢 ࡧ\' are not supported-. 
+- Version 0.5! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like \'㡢 ࡧ\' are not supported-. 
 - Although too early, it already covers up 99% of the game (more than 5,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery are NOT in the XML yet.
 - UTF8 chars NOT supported because fonts used in the game is NOT UTF8, please use LATIN (ASCII) only.
 - You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
@@ -555,7 +555,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Ahhh, I\'m...\ncumming...and being sucked dry!</p>
 				<p i="3">Ahhh, I\'m...\ncumming...and being sucked in my C cups!</p>
 				<p i="4">Ahhh, I\'m...\ncumming...and being sucked dry in my DD cups!</p>
-                                <p i="5">He removed\nAhhh...his dick, but it\'s too late, my ass is overflowing!</p>
+                <p i="5">He removed\nAhhh...his dick, but it\'s too late, my ass is overflowing!</p>
 			</scenes>
 			<scenes scene="wiggler7">
 				<p i="1">Wigglie...\nAre you fucking...Oh...my ass again?!</p>
@@ -5294,6 +5294,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="By">By</text>
 			<text name="somethingUnlocked">Something has been unlocked!</text>
 			<text name="TimeIsUp">TIME IS UP! The princess is busted!</text>
+			<text name="REMOVEDCLOTHESPRESS">REMOVED HER CLOTHES! - PRESS</text>
+			<text name="PRESSDOWNWEAR">PRESS DOWN to TRY TO WEAR IT</text>
+			<text name="CantRetrieveOutfitsAnymore">You can\'t retrieve it anymore. It\'s damaged and glued in the floor!</text>
 			<text name="Oh">Oh</text>
 			<text name="DescribeIt">Describe it (SHOW/HIDE)</text>
 			<text name="PressMinusZoomArea">Press \'-\' (minus) key to zoom in that area!</text>
@@ -5606,6 +5609,33 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="GameOptions">Game Options</text>
 			<text name="MainMenu">Main Menu</text>
 			<text name="BadOrUnknownFile">Bad or Unknown File!</text>
+
+	<!--Drinkable/Edible items-->
+			<text name="redWine">red wine</text>
+			<text name="rottenWater">rotten water</text>
+			<text name="cum">cum</text>
+			<text name="blooperOil">blooper\'s oil</text>
+			<text name="inTheFountainOfYouth">in the fountain of youth</text>
+			<text name="anAncienBeer">an ancient beer</text>
+			
+			<text name="pizza">pizza</text>
+			<text name="oldBread">old bread</text>
+			<text name="royalBread">royal Bread</text>
+			<text name="pussies">pussies</text>
+			<text name="pasta">pasta</text>
+			<text name="candies">candies</text>
+			<text name="apples">apples</text>
+			<text name="strawberries">strawberries</text>
+			<text name="cherries">cherries</text>
+			
+	<!--Phrases to be constructed in certain dialogues like Toadella-->
+			<text name="phraseTappingButtCheeks">tapping my butt cheeks</text>
+			<text name="phraseFingeringMyAsshole">fingerind my asshole</text>
+			<text name="phraseMakingPoochyFuckMe">making Poochy fuck me</text>
+			<text name="phraseTellingSecretsAbout">telling me secrets about your indecency</text>
+			<text name="phraseExpectingNastier">expecting me to be nastier</text>
+			<text name="phraseMakingCakeWithMilk">making a cake with my breast milk</text>
+			<text name="phraseWashingAllDirtyClothes">washing all of your dirty clothes</text>
 
 	
 	<!--WORLD NAMES -->

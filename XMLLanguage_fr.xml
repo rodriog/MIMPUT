@@ -5293,6 +5293,9 @@ Enjoy!
 			<text name="By">By</text>
 			<text name="somethingUnlocked">Something has been unlocked!</text>
 			<text name="TimeIsUp">TIME IS UP! The princess is busted!</text>
+			<text name="REMOVEDCLOTHESPRESS">REMOVED HER CLOTHES! - PRESS</text>
+			<text name="PRESSDOWNWEAR">PRESS DOWN to TRY TO WEAR IT</text>
+			<text name="CantRetrieveOutfitsAnymore">You can\'t retrieve it anymore. It\'s damaged and glued in the floor!</text>
 			<text name="Oh">Oh</text>
 			<text name="DescribeIt">Describe it (SHOW/HIDE)</text>
 			<text name="PressMinusZoomArea">Press \'-\' (minus) key to zoom in that area!</text>
@@ -5599,6 +5602,33 @@ Enjoy!
 			<text name="GameOptions">Game Options</text>
 			<text name="MainMenu">Main Menu</text>
 			<text name="BadOrUnknownFile">Bad or Unknown File!</text>
+			
+	<!--Drinkable/Edible items-->
+			<text name="redWine">red wine</text>
+			<text name="rottenWater">rotten water</text>
+			<text name="cum">cum</text>
+			<text name="blooperOil">blooper\'s oil</text>
+			<text name="inTheFountainOfYouth">in the fountain of youth</text>
+			<text name="anAncienBeer">an ancient beer</text>
+			
+			<text name="pizza">pizza</text>
+			<text name="oldBread">old bread</text>
+			<text name="royalBread">royal Bread</text>
+			<text name="pussies">pussies</text>
+			<text name="pasta">pasta</text>
+			<text name="candies">candies</text>
+			<text name="apples">apples</text>
+			<text name="strawberries">strawberries</text>
+			<text name="cherries">cherries</text>
+			
+	<!--Phrases to be constructed in certain dialogues like Toadella-->
+			<text name="phraseTappingButtCheeks">tapping my butt cheeks</text>
+			<text name="phraseFingeringMyAsshole">fingerind my asshole</text>
+			<text name="phraseMakingPoochyFuckMe">making Poochy fuck me</text>
+			<text name="phraseTellingSecretsAbout">telling me secrets about your indecency</text>
+			<text name="phraseExpectingNastier">expecting me to be nastier</text>
+			<text name="phraseMakingCakeWithMilk">making a cake with my breast milk</text>
+			<text name="phraseWashingAllDirtyClothes">washing all of your dirty clothes</text>
 
 	
 	<!--WORLD NAMES -->
