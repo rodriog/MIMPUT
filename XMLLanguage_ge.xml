@@ -3497,7 +3497,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 			<scenes scene="dialogueLocker">
 				<p i="1">Princess: This one is locked. Errr...is that.. CUM?</p>
-				<p i="1">Princess: I\'m so pretty!</p>
+				<p i="2">Princess: I\'m so pretty!</p>
 			</scenes>
 			
 			<scenes scene="dialogueChair">
