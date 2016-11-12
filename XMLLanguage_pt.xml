@@ -2239,7 +2239,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<e i="10c">Ooooh! Ssssimmmm! Porra quente é tri-bom! Eu quero... aaaaah não consigo pensar! Que incrível!</e>
 				<p i="11">Agora é a chance!\nIrei prender--e....Opa!! Estou caindo!</p>
 				<e i="11">Uauuu! Estou tão cansada! Nunca gozei tanto e... Opa! O que é...</e>
-				<p i="11a">Agora é a chance!\nIrei despistá-lo!</e>
+				<p i="11a">Agora é a chance!\nIrei despistá-lo!</p>
 				<e i="11a">Uauuu! Estou tão cansada! Nunca gozei tanto e... Opa! O que é...</e>
 				<p i="11b">Ooh! O pintão\ndele brotou com tudo! Vamos continuar, então, hihi!!</p>
 				<e i="11b">Uauuu! Estou tão cansada! Nunca gozei tanto e... Opa! O que é...</e>
@@ -2259,8 +2259,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<e i="14">Oh cara! Talvez nunca consiga gozar assim de novo! Queria que não tivesse fim!</e>
 				<p i="14a">Oooh! Estou gozan-\ndo DE NOVO! Que putaria! Tanta porra dentro de mim!</p>
 				<e i="14a">E é isso! Ooh!\nEsta foi a última gota! Favor deixe eu ir embora agora!</e>
-				<p i="14b">Oooh. Não\nposso gozar mais! Posso morrer feliz agora!</p>
-				<e i="14b">Oooh! Estou gozan-\ndo DE NOVO! Tanta porra dentro de mim!</p>
+				<e i="14b">Oooh. Não\nposso gozar mais! Posso morrer feliz agora!</e>
+				<p i="14b">Oooh! Estou gozan-\ndo DE NOVO! Tanta porra dentro de mim!</p>
 				<p i="15">Vamos, ENFIA\na boca na minha xana! Isto é a punição por atacar meu Reino E A MIM!</p>
 				<e i="15">Uuuhh! Eii! Você\nestá jogando porra na minha cara!</e>
 				<p i="15a">Já tive\ntoda sua porra no meu rostinho desde o começo! Agora CHUPA enquanto sugo sua última gozada!</p>
@@ -2431,7 +2431,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<e i="4a">Sim! Desse Jeito!\nAproveitando que está aí, você VAI bater uma bronha para mim!</e>
 				<e i="4b">Sim! Desse Jeito!!\nComo você está sedenta, deixarei você brincar com meu trecão aqui!</e>
 				<p i="4">Farei TUDO para\nsalvar meu Reino! Espero que fique satisf-- Oh, UAU! Não consigo segurar com as duas mãos!</p>
-				<p i="4a">Trabalhar com\nessa coisa enorme não vai ser fácil! Eu mal consigo segurar com minhas duas mãos!<p>
+				<p i="4a">Trabalhar com\nessa coisa enorme não vai ser fácil! Eu mal consigo segurar com minhas duas mãos!</p>
 				<p i="4b">Droga, você é detalhista\ndemais! Se você quer que eu faça, tem que me dar espaço para minhas habilidades! Você se sentirá no céu!</p>
 				<e i="5">Isso mesmo, donzela, BRINQUE com meu PAU duro. Irei explodir muita porra em todo esse rosto tímido.</e>
 				<e i="5a">Isso mesmo, princesa, BRINQUE com meu PAU duro. Irei explodir muita porra em todio esse rosto majestoso.</e>
@@ -3522,7 +3522,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="dialogueSofa">
 				<p i="1">Princess: Its a sofa, a gift from Prince Peasley.</p>
 				<p i="2">Princess: Why my.... fleshy thing is there? I\'m sure I wasn\'t using it these days.</p>
-				<p i="2">Princess: What? In my.... why? I dont need to do...THAT right now...</p>
+				<p i="3">Princess: What? In my.... why? I don\'t need to do...THAT right now...</p>
 			</scenes>
 			
 			<scenes scene="dialogueThrone"> <!--used in many thrones-->
@@ -5459,6 +5459,19 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ButtCum">Sêmen na Bunda</text>
 			<text name="LegsCum">Sêmen nas Pernas</text>
 			<text name="ArmsCum">Sêmen nos Braços</text>
+			
+			<!--DIALOGUE OPTIONS-->
+			<text name="D_TakeAShower">Take A Shower</text>
+			<text name="D_CleanAll">Clean All</text>
+			<text name="D_Body">Body</text>
+			<text name="D_Face">Face</text>
+			<text name="D_Legs">Legs</text>
+			<text name="D_Tits">Tits</text>
+			<text name="D_Pussy">Pussy</text>
+			<text name="D_AssSide">Ass Side</text>
+			<text name="D_AssBack">Ass Back</text>
+			<text name="D_PussyFront">Pussy Front</text>
+			<text name="D_Lay">Lay</text>
 			
 			<text name="noMorePages">Não há páginas</text>
 			<text name="nextPage">Próxima Página</text>
