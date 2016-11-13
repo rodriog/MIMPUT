@@ -5284,6 +5284,7 @@ Enjoy!
 			<text name="None">None</text>
 			<text name="layer">layer</text>
 			<text name="layers">layers</text>
+			<text name="Random">Random</text>
 			
 			<text name="OoohNo">Ooooh nooo!</text>
 			<text name="Background">Background</text>
@@ -5783,7 +5784,7 @@ Enjoy!
 			<text name="ScreenOutfit_NippleSize">Nipple Size</text>
 			<text name="ScreenOutfit_NippleType">Nipple Type</text>
 			<text name="ScreenOutfit_AttentionOutfits">Attention: Outfits and stocking/garter/gloves/heels changes will be set only upon taking a powerup along the level</text>
-			<text name="ScreenOutfit_ClickOnTheIcons">Click on the icons to set the current costume to them</text>
+			<text name="ScreenOutfit_ClickOnTheIcons">Click on the icons to set the current costume, click again for RANDOM</text>
 			<text name="ScreenOutfit_ClickSeeMorePoses">Click to see more poses!</text>
 			<text name="ScreenOutfit_SizeChanges">Size changes just for showroom</text>
 			<text name="ScreenOutfit_SameCostume">Same Costume to all</text>

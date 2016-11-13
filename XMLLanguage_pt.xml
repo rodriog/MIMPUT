@@ -5295,6 +5295,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="None">Nenhum</text>
 			<text name="layer">camada</text>
 			<text name="layers">camadas</text>
+			<text name="Random">Aleatório</text>
 			
 			<text name="OoohNo">Oooh nãaao!</text>
 			<text name="Background">Fundo</text>
@@ -5800,7 +5801,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOutfit_NippleSize">Tam. Mamilos</text>
 			<text name="ScreenOutfit_NippleType">Tipo Mamilos</text>
 			<text name="ScreenOutfit_AttentionOutfits">Atenção: Roupas e Sapatos/Meiões/Presilhas/Luvas só são trocados quando achar roupagens/poderes na fase!</text>
-			<text name="ScreenOutfit_ClickOnTheIcons">Clique nos ícones para configurar a roupa de cada</text>
+			<text name="ScreenOutfit_ClickOnTheIcons">Clique nos ícones para configurar a roupa atual. Clique de novo para ALEATÓRIO</text>
 			<text name="ScreenOutfit_ClickSeeMorePoses">Clique para ver mais poses dela!</text>
 			<text name="ScreenOutfit_SizeChanges">Tamanhos só mudam nesta tela!</text>
 			<text name="ScreenOutfit_SameCostume">Mesma roupagem para todos</text>
