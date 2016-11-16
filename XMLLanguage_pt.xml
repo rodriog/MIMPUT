@@ -693,7 +693,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="15">(ESCOLHA UM NÚMERO)\n1) Cunilíngua   2) Xana na xana    3) 69   4) Sente em mim!   5) Cu no cu\n6) Bater e dedar a xana  7) 69 de Mamilos   8) Sexo com dildo   9) Ir embora</p>
 			</scenes>
 			<scenes scene="daisy1">
-				<f i="1">{CHARACTER_NAME}, Quero\nde algo de você...</f>
+				<f i="1">{CHARACTER_NAME}, Quero\nalgo de você...</f>
 				<p i="1">Daisy...Eu...Eu\nsó quero conversar...</p>
 				<p i="1a">Daisy...o que é\nisso? Porquê você está tirando a roupa?</p>
 				<p i="2">Daisy, o que você\nquer de fato? Você disse que estámos indo...</p>
@@ -708,11 +708,11 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Os lábios tem sabor\nde mel adocicado! Não consigo...me controlar!</p>
 				<f i="3">Está sentindo?!\nMinha buceta já está te beijando, como lábios de nossas bocas!</f>
 				<p i="3">Ohhh!! Hummm\nMais, Daisy....Ohh, por favor, esfregue mais!</p>
-				<p i="4">Ai, meu Rei!\nA cerejinha dela é excitante, Ahhh! Chupando meus mini lábios como mamilos!</p>
+				<p i="4">Ai, meu Rei! A cere-\njinha dela é excitante, Ahhh! Chupando meus mini lábios como mamilos!</p>
 				<f i="5">Estou polvilhando\ntodo meu amor em sua rachinha, Princesa! \u2665</f>
 				<p i="5">Daisy...Estou....\ngo-gozando...você me fez ficar tarada! Ooooooh!</p>
-				<f i="6">Ooh Princesa, Eu sempre\nquis fazer isso...</f>
-				<p i="6">Eu realmente... gostei, Daisy...\nNunca imaginei que estar com outra mulher me fizesse tão bem!</p>
+				<f i="6">Ooh Princesa, sempre\nquis fazer isso...</f>
+				<p i="6">Eu realmente... gostei, Daisy... Nunca imaginei que estar com outra mulher me fizesse tão bem!</p>
 			</scenes>
 			<scenes scene="daisy3">
 				<f i="1">O que temos\naqui? Seu cuzinho precisa de uma massagem!</f>
@@ -724,9 +724,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="daisy4">
 				<p i="1">Daisy, aaah, not\nthat! You are sucking my cherry!</p>
 				<f i="2">So Princess, you\nneed more stimuli right there! A great massage, see?</f>
-				<p i="2">Eitaaa, ele está agora\ndedando meu cuzinho. Oooh ela realmente deseja ir bem longe!</p>
+				<p i="2">Eitaaa, ela está\nagora dedando meu cuzinho. Oooh ela realmente deseja ir bem longe!</p>
 				<f i="3">Seu \'suco\' é\ntão cremoso, Princesa!</f>
-				<p i="3">Ooooh estuo gozando!\nEla pôs o dedo totalmente dentro de meu cu!</p>
+				<p i="3">Ooooh estou gozando!\nEla pôs o dedo totalmente dentro de meu cu!</p>
 			</scenes>
 			<scenes scene="daisy5">
 				<p i="1">Daisy...Isto está\nme deixando esquisita! Ahhh!</p>
@@ -751,9 +751,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="1">Daisy, o que\nestá fazendo? Você...</p>
 				<f i="2">Princesa, por\nfavor relaxe! \u2665 \u2665 Deixe-me fazer, ok?</f>
 				<p i="2">Daisy, faz cócegas!\nOh, isto está me excitando...</p>
-				<p i="3">Daisy, oooh não,\não lamba aí! É... sujo!</p>
+				<p i="3">Daisy, oooh não,\nnão lamba aí! É... sujo!</p>
 				<f i="4">Mmhmmph! (*Chupa*)\nEu sei que você adora (*Chupa*) isto, {CHARACTER_NAME}!</f>
-				<p i="4">Quêeeet? Ahhhh,\nOoooh seja gentil com minha florzinha! É vergonhoso!</p>
+				<p i="4">Quêeeet Ahhhh,\nOoooh seja gentil com minha florzinha! É vergonhoso!</p>
 				<f i="5">(*Chupa*) seu cuzinho\n e xaninha SÃO MEUS!</f>
 				<p i="5">Aaahhhh!\nEstou gozando como uma cadela! Que safadeza!</p>
 			</scenes>
@@ -2683,8 +2683,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 	<!--BOSS - Koopaling Wendy-->
 			<!--Generally, those a,b,c for boss scenes are for normal and nymph Peach, but it can also refer to ass being swollen or other variable. Well, its only a matter to translate trying to guess the context-->
 			<scenes scene="koopalingWendy1">
-				<e i="1">Ué, é realmente a Princesa! Estou tão \'feliz\' em vê-la! Já estou molhadona por você!</e>
-				<p i="1">Wendy! Estou aqui para evitar que- Oh\nnão! Por que está peladona?</p>
+				<e i="1">Hein?? Você por aqui, Princesa? Já estou molhadona por você!</e>
+				<p i="1">Wendy! Estou\naqui para evitar que- Oh\nnão! Por que está peladona?</p>
 				<p i="1a">Bem, eu\nacho que posso...ficar com você se parar de atacar meu Reino.</p>
 				<p i="1b">Eu sei!\nEu sinto seu odor de sexo daqui! É delicioso!</p>
 				<e i="2">Hummm\nAcho que vou te bater uma siririca para aquecer!</e>
@@ -2704,9 +2704,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="4a">\nUoou! Seus\ndedos são mágicos! Não posso esperar para sentir sua língua também!</p>
 				<p i="4b">\nUoou! Seus dedos são tão espessos como pirocas! Será que seu clitóris é assim?</p>
 				<e i="5">Lamba minha buce-\ntona! Está pingando como mel velho!</e>
-				<p i="5">\nBem, eu,...Mhmnph!\nHmmmmnh mmhmnph! Mhhmnhmp! *Lambe*</p>
+				<p i="5">\nBem, eu,...Mhmnph!\nHmmmmnh mmhmnph! *Lambe*</p>
 				<e i="6">Puxe meus peitos!\nOhh me sinto tão parada! Acho que posso fazer algo...</e>
-				<p i="6">\n*Lambe*\nHmmmmnh mmhmnph! Mhhmnhmp! *Lambe*</p>
+				<p i="6">\n*Lambe*\nHmmmmnh mmhmnph! *Lambe*</p>
 				<!--loop 7 was skipped, there is no balloons-->
 				<e i="8">Oh Bunda! Estou\ngozando! Chupadas me deixam doida!</e>
 				<p i="8">*glut glut* Ooh!\nEste gozo é tão macio e cremoso! O que eu estava perdendo?</p>
@@ -2810,8 +2810,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="37">Ohhh...lamba\nminha... minha buceta! Mas... não OLHE para ela! Aaaaah!</p>
 				<p i="37a">Lamba minha!\nxana! Isso!! Assim!! Ahh, não paaaaare!</p>
 				<p i="37b">Lamba minha\nbuceta como uma égua faminta! Não pare! Vá até eu gozar, porra!</p>
-				<e i="38">*LAMBE* Hnmph!\nHmmmm *Lambe* Hmmhnnmph! *Lambe* Hmmmmph! *GASP*</e>
-				<p i="38">Isto...não\né suficiente? Estou GOZANDO extremamente! Ahh! Estou quase desmaiando!</p>
+				<e i="38">*LAMBE* Hnmph!\nHmmmm *Lambe* Hmmhnnmph! *Lambe* Hmmph!</e>
+				<p i="38">Isto...não\né suficiente? Estou GOZANDO extremamente! Ahh! Estou quase...</p>
 				<p i="38a">Você não para?\nEstou me sentindo uma Rainha Imunda! Que sujas somos!</p>
 				<p i="38b">Continue lam-\nbendoi aí! Agora chupe meu clitóris! Cuspa nele! Lamba ele! Ahh!</p>
 				<e i="39">Aaaah!\nSou uma puta, uma porca!!! Não paro de gozar!! Ooooh!</e>
@@ -4930,7 +4930,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 											The orgy lasted more than an hour, while the gentle snowfall started to accumulate over Peach\'s naked, horny body. She came time and time again 
 											on their cold, hard dicks, which showed no sign of stopping. Breathlessly, the princess panted, \'Oh, this will take longer that I imagined\'...</f>
 											
-				<f i="medal20"></f> <!--RAWK-->
+				<f i="medal20"></f> <!--GANGBANG WENDY DAISY ROSALINA-->
 					<f i="desc20">AINDA NÃO FEITO!</f>
 				
 				<!--More Later-->
@@ -5979,7 +5979,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_Force169">Forçar 16:9 se máximo</text>
 				<text name="ScreenOptions_LastResortIf169">(Última tentativa se precisar 16:9 à força)</text>
 			<text name="ScreenOptions_Header_CPUFPS">CPU+: FPS</text>
-			<text name="ScreenOptions_Header_BlitBackground">CPU+: Pixelar nas telas fundo</text>
+			<text name="ScreenOptions_Header_BlitBackground">CPU+: Pixelar no fundo</text>
 				<text name="ScreenOptions_BackObjWillPixelize">(Objetos de fundo não animarão. Surtirá efeito em nova fase)</text>
 			<text name="ScreenOptions_Header_Stationary">CPU+: Câm. Estacionária</text>
 				<text name="ScreenOptions_CameraWillMoveTouch">(Câmera só moverá se ela tocar as bordas!)</text>
@@ -6000,12 +6000,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<text name="ScreenOptions_IfSheAlreadyDrenched">(Se já tiver melada, ação só ocorrerá se você limpá-la por aí primeiro)</text>
 			<text name="ScreenOptions_Header_CleanIfLevelEnds">Banhar-se no fim de fase</text>
 			<text name="ScreenOptions_Header_CleanCumUnderwater">Limpar gozo se na água</text>
-			<text name="ScreenOptions_Header_AutoClean">Auto limpar ao usar chuveiros</text>
+			<text name="ScreenOptions_Header_AutoClean">Limpar ao usar chuveiros</text>
 			<text name="ScreenOptions_Header_InternalCumShots">Ver dentro da buceta</text>
 			<text name="ScreenOptions_Header_AllowAnal">Cenas Anais</text>
-				<text name="ScreenOptions_IfNoUseHerAss">(Se NÃO, ela só poderá usar a bunda em diálogos que explicite isso)</text>
+				<text name="ScreenOptions_IfNoUseHerAss">(Se NÃO, ela só poderá usar a bunda quando é informado)</text>
 			<text name="ScreenOptions_Header_AssholeState">Estado do cuzinho</text>
-				<text name="ScreenOptions_IfAutoOpenSwell">(Se AUTO, situações no jogo podem arrombar o buraquinho)</text>
+				<text name="ScreenOptions_IfAutoOpenSwell">(Se AUTO, situações no jogo podem fodê-lo!)</text>
 			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads podem fodê-la imediatamente</text>
 				<text name="ScreenOptions_IfNoOnlyFuckCommand">(Se NÃO, só poderão comê-la ao escolher um número)</text>
 			<text name="ScreenOptions_Header_Personality">Personalidade</text>
