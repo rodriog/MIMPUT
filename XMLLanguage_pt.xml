@@ -9,7 +9,7 @@ Mas nem tudo são flores. Devido à limitação de fontes como 'Mário font', ca
 - Você NÃO precisa traduzir textos dentro de <!-  ->
 - Por favor TOME CUIDADO sobre fechar tags e outros esquecimentos. Erros XML podem gerar 'Error XML' no jogo ou pior, deixá-lo travado. Neste caso, clique RESET SAVES na primeira tela.
 - Não é possível mudar certos nomes, como 'Princess Peach'. Tentar mudar para 'Princesa Pêssego' pode até funcionar nos textos que tem 'Princess' escrito. Mas ao mudar de personagem, por exemplo, você pode ver que ali fica fixo em inglês. Se eu descobrir como fazer isso no futuro, eu atualizarei o XML.
-- \\u é um caracter unicode. Geralmente uso para plotar um coração (está funcionando!)
+- \\u ou \u é um caracter unicode. Não use este comando. Cole o caractere diretamente!
 - Por favor observe os locais de \n e procure traduzir de forma a ficar quase do mesmo tamanho de letras, ou a quebra de linha pode não funcionar. Não remova os \n. São usados para ajudar a centralizar o texto nos balões de texto. 
 Se você traduzir alguns e notar que o texto está ultrapassando a borda do balão, é so trazer o \n para a palavra anterior. Se o texto é pequeno e o balão é grande o suficiente, você pode usar outro \n. Não use <br/>!
 Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos não serão mostrados ou ultrapassarão limites dos balões, esteja avisado.
@@ -41,16 +41,16 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="1a">Você vai...\nfazer isso mesmo comigo?</p>
 				<p i="2">Eu quero\ntocá-lo...</p>
 				<p i="2a">Aqui vou eu,\nminha criaturinha linda...</p>
-				<p i="2b">Ei, há algo\nque preciso verificar...\u2665</p>
-				<p i="3">Não é uma coisa\ntão nojenta! Ele tem um cogumelinho, vou esfregar! \u2665</p>
+				<p i="2b">Ei, há algo\nque preciso verificar...♥</p>
+				<p i="3">Não é uma coisa\ntão nojenta! Ele tem um cogumelinho, vou esfregar! ♥</p>
 				<p i="3a">Toadella não vai\ngostar de me ver fazendo isso...</p>
 				<p i="3b">Posso fazer\ntudo que eu quiser...</p>
 				<p i="4">Sinto-me lotada,\né uma bananinha daquelas!</p>
-				<p i="4a">Imagino uma fileira\nCHEIA de meus Toads pelados a me servir, hihi \u2665</p>
+				<p i="4a">Imagino uma fileira\nCHEIA de meus Toads pelados a me servir, hihi ♥</p>
 				<p i="4b">Sinto-me segura\ncom esta carne dentro de minha bica.</p>
-				<p i="4c">Minha boca vai\ne volta de uma forma inebriante! \u2665</p>
+				<p i="4c">Minha boca vai\ne volta de uma forma inebriante! ♥</p>
 				<p i="4d">Se meu microfone\nde madeira fosse como isso, não pararia de fazer oratórias!</p>
-				<p i="5">\nHuuum! \u2665</p>
+				<p i="5">\nHuuum! ♥</p>
 				<p i="5a">\nDelicioso! Este foi perfeito!</p>
 				<p i="5b">\nNão tão gostoso, mas quero mais depois!</p>
 				<p i="5c">\nNãaao, eu não disse para parar!</p>
@@ -84,18 +84,18 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2a">Você está\ntentando...</p>
 				<p i="2b">Isto é\nalgo que realmente precisa fazer?</p>
 				<p i="3">Ohh, ele\ndecidiu foder minha bunda...lentamente!</p>
-				<p i="3a">Aaai, poderia\nficar nesta posição para sempre...\u2665</p>
+				<p i="3a">Aaai, poderia\nficar nesta posição para sempre...♥</p>
 				<p i="3b">Espero que\nninguem veja...é tão pervertido...</p>
-				<p i="3c">Isto é como...\nfazer um bolo! Mas na minha bunda! \u2665</p>
+				<p i="3c">Isto é como...\nfazer um bolo! Mas na minha bunda! ♥</p>
 				<p i="3d">Ele está fodendo\n...está fodendo meu cu!</p>
 				<p i="4">Aai...o\nbolo está ficando pronto! Humm!</p>
 				<p i="4a">Se alguem apa-\nrecer em frente a nós, tentarei te esconder!</p>
 				<p i="4b">Ahhh, con-\ntinue enfiando firme, por favor! Que gostoso! Ahh!</p>
-				<p i="4c">Eu te amo, Ohhh,\n Toad! \u2665 Estou super excitada!</p>
+				<p i="4c">Eu te amo, Ohhh,\n Toad! ♥ Estou super excitada!</p>
 				<p i="4d">Que banana\ndeliciosa, Ahhhh, ela está entrando e saindo, entran...</p>
-				<p i="5">\nAhhhh que\ngozada forte! \u2665</p>
+				<p i="5">\nAhhhh que\ngozada forte! ♥</p>
 				<p i="5a">\nEle está me enchen-\ndo de baunilha tórrida!</p>
-				<p i="5b">\nEstou repleta\nde gozo! \u2665 Não consigo me concentrar!</p>
+				<p i="5b">\nEstou repleta\nde gozo! ♥ Não consigo me concentrar!</p>
 				<p i="5c">\nEstou.....tontinha, oooohh, é demais!</p>
 				<p i="5d">\nPor favor, oooh, saque fora! Tira, tira, nãaaao!</p>
 			</scenes>
@@ -138,7 +138,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2a">O que você está\ntentando fa....Ooooh!</p>
 				<p i="2b">Aaaah, demorei!\nEle está dedando minha buceta, estou amando isso!</p>
 				<p i="3">Ohh, ele está\nfodendo com os dedos, estou excitada!</p>
-				<p i="3a">Ahhh, eu poderia\nficar nessa posição o resto da vida...\u2665</p>
+				<p i="3a">Ahhh, eu poderia\nficar nessa posição o resto da vida...♥</p>
 				<p i="3b">Espero que ninguem\nesteja nos assistindo! Parecemos um casal beijando...</p>
 				<p i="4">\nAhhhh, estou GOZANDO\nnas MÃOS dele!!!</p>
 			</scenes>
@@ -224,12 +224,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2b">Nãoo, AHH! O povo pode dar conta do que estamos fazendo! Aí é meu cu! Ahhh!</p>
 				<p i="3">Ahhh! Estou sentindo\nsua piroca, seu pervertido! Não aguento, foda minha buceta! Oooh!</p>
 				<p i="3a">Eii!! O que você está\nfazendo com esta piroca? Estou tão excitada! Você está fodendo meu cu!</p>
-				<p i="3b">Ahhh! OOooh! Ahhhh!\nThats not fair! He is making me cum right here! \u2665</p>
-				<p i="4">Ahhh! Está enfiando\num cogumelão carnudo dentro de meu cuzinho! \u2665</p>
+				<p i="3b">Ahhh! OOooh! Ahhhh!\nThats not fair! He is making me cum right here! ♥</p>
+				<p i="4">Ahhh! Está enfiando\num cogumelão carnudo dentro de meu cuzinho! ♥</p>
 				<p i="4a">Ooooh, isto está indo\nmuito longe! Estou sendo fodida sem dó no olho da minha bunda!</p>
 				<p i="4b">Você pode...Ahh!\nPode..removê-lo agora? Por favor seja rápido! OOooooh!</p>
-				<p i="5">Ooooh, eu gozei!\nMinha bunda está coçando e tremendo tanto! Eu...adorei! \u2665</p>
-				<p i="5a">Ahhh, Estou GOZANDO! Agora eu sinto minha bundinha tão desprotegida...\u2665</p>
+				<p i="5">Ooooh, eu gozei!\nMinha bunda está coçando e tremendo tanto! Eu...adorei! ♥</p>
+				<p i="5a">Ahhh, Estou GOZANDO! Agora eu sinto minha bundinha tão desprotegida...♥</p>
 			</scenes>
 			<scenes scene="toad25"> <!--DOC scene-->
 				<f i="1">Princesa! Eu preciso\n...éee..tocar seu ânus!! Fique calma, é rápido!</f>
@@ -709,7 +709,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="3">Está sentindo?!\nMinha buceta já está te beijando, como lábios de nossas bocas!</f>
 				<p i="3">Ohhh!! Hummm\nMais, Daisy....Ohh, por favor, esfregue mais!</p>
 				<p i="4">Ai, meu Rei! A cere-\njinha dela é excitante, Ahhh! Chupando meus mini lábios como mamilos!</p>
-				<f i="5">Estou polvilhando\ntodo meu amor em sua rachinha, Princesa! \u2665</f>
+				<f i="5">Estou polvilhando\ntodo meu amor em sua rachinha, Princesa! ♥</f>
 				<p i="5">Daisy...Estou....\ngo-gozando...você me fez ficar tarada! Ooooooh!</p>
 				<f i="6">Ooh Princesa, sempre\nquis fazer isso...</f>
 				<p i="6">Eu realmente... gostei, Daisy... Nunca imaginei que estar com outra mulher me fizesse tão bem!</p>
@@ -735,7 +735,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="3">Ouu, Daisy...\nMeu cuzinho está My asshole está entrando \'no cio\'!</p>
 				<f i="3">{CHARACTER_NAME}, just\nenjoy it, concentrate on it!</f>
 				<p i="4">Ahhhh Ouuu\nEstou gozando como louca! Oh não, estamos enganchadas!</p>
-				<f i="4">Oh {CHARACTER_NAME}! \u2665\nFomos feitos uma para a outra! \u2665</f>
+				<f i="4">Oh {CHARACTER_NAME}! ♥\nFomos feitos uma para a outra! ♥</f>
 			</scenes>
 			<scenes scene="daisy6">
 				<f i="1">{CHARACTER_NAME}, cale\n-se, apenas curta, viu?</f>
@@ -744,12 +744,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Ahhhh! (SLAP!)\nEla parece saber meu ponto fraco! Ah!</p>
 				<f i="3">Sua buceta é\ntão macia, querida!</f>
 				<p i="3">Ooooh foda-me!\nFoda-me, Daisy! Preciso...err...gozar!</p>
-				<f i="4">Goze por mim,\nminha princesinha safada! \u2665</f>
+				<f i="4">Goze por mim,\nminha princesinha safada! ♥</f>
 				<p i="4">Ooooh GOZEI!\nEla acabou dedando lá dentro de minha xana!</p>
 			</scenes>
 			<scenes scene="daisy7">
 				<p i="1">Daisy, o que\nestá fazendo? Você...</p>
-				<f i="2">Princesa, por\nfavor relaxe! \u2665 \u2665 Deixe-me fazer, ok?</f>
+				<f i="2">Princesa, por\nfavor relaxe! ♥ Deixe-me fazer, ok?</f>
 				<p i="2">Daisy, faz cócegas!\nOh, isto está me excitando...</p>
 				<p i="3">Daisy, oooh não,\nnão lamba aí! É... sujo!</p>
 				<f i="4">Mmhmmph! (*Chupa*)\nEu sei que você adora (*Chupa*) isto, {CHARACTER_NAME}!</f>
@@ -819,11 +819,11 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="3">Oh Mário, Aaah!\nFoda-me, foda-me bem! Pegue seu prêmio! Me lambuze!</p>
 				<p i="3a">Oh querido! Oohh!\nVocê está me fodendo forte! Irei te dar meu gôzo!</p>
 				<p i="4">AAAAAAAhhhh!\nGozando!! Mário, eu gozei!!</p>
-				<p i="4a">AAAAAAAhhhh!\nGozando!! Mário, EU TE AMO!! \u2665</p>
+				<p i="4a">AAAAAAAhhhh!\nGozando!! Mário, EU TE AMO!! ♥</p>
 			</scenes>
 			<scenes scene="mario3">
 				<p i="1">Meu heroi!\nFoda meu cu! Eu sou só tua! Sou sua pizza!</p>
-				<p i="2">Ahhhhh! Oooh\nMário...Você está todo dentro de minha...bunda! \u2665</p>
+				<p i="2">Ahhhhh! Oooh\nMário...Você está todo dentro de minha...bunda! ♥</p>
 				<p i="3">AHHHHH!\nEstamos gozando em pleno restaurante!</p>
 			</scenes>
 			<scenes scene="mario4">
@@ -1182,8 +1182,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Ahhh! Estou tentando\nme esquivar... Mas ele já está me fodendo!</p>
 				<p i="2a">Ohhh! Fode, fode!\nFode minha buceta! Não posso sair...</p>
 				<p i="2b">Fode mais! Minha\nvagina está piscando, entre mais!</p>
-				<p i="3">Uoooou! Entrou\nFUNDO agora! Senti meu útero! \u2665</p>
-				<p i="3a">Oooh, ele...\nele GOZOU! Não sinto mais nada! \u2665</p>
+				<p i="3">Uoooou! Entrou\nFUNDO agora! Senti meu útero! ♥</p>
+				<p i="3a">Oooh, ele...\nele GOZOU! Não sinto mais nada! ♥</p>
 			</scenes>
 			<scenes scene="monty5">
 				<p i="1">Oh Seu Toupeira... Não...\nNão toque minha bucetinha assim!</p>
@@ -2038,7 +2038,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="7">\nVenha,\nPrincesa!</f>
 				<p i="8">Espere! Espe...\nO que está fazendo comigo? Estou ficando excitada!</p>
 				<p i="9">Eiii! Você está\npegando ingredientes...dentro de mim?</p>
-				<p i="9a">Você está me\nmelando! \u2665</p>
+				<p i="9a">Você está me\nmelando! ♥</p>
 				<p i="9b">Não sou mais\ndo que um adoçante agora?</p>
 				<p i="9c">Delicioso...\nEu acho...</p>
 				<f i="10">Isso dará conta do\nrecado! Pegue o avental e limpe tudo!</f>
@@ -2112,7 +2112,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			</scenes>			
 			<scenes scene="mushroomBig1">
 				<p i="1">Ohh Preciso\num pouco disso...Serei rápida!</p>
-				<p i="2">Ahhh\nGOZANDO! Sinto-me melhor...TE AMO! \u2665</p>
+				<p i="2">Ahhh\nGOZANDO! Sinto-me melhor...TE AMO! ♥</p>
 			</scenes>
 			<scenes scene="mushroomBig2">
 				<p i="1">Espero que NINGUEM\npassa por aqui! Tenho que ser rápida!</p>
@@ -3373,7 +3373,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			
 			<scenes scene="dialogueBlacksmith">
 				<p i="1">Hello there!</p>
-				<p i="2">Are you.....going to fuck me? I am right here for you! \u2665 \u2665</p>
+				<p i="2">Are you.....going to fuck me? I am right here for you! ♥</p>
 				<p i="3">Please don\'t look! I am naked!</p>
 				<p i="4">Why are you always hiding from me? You\'re not saying a word about it! Oh, ok then...</p>
 			</scenes>			
@@ -3791,7 +3791,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="h7">Ahh, Oooh, he\'s\nfucking my...</p>
 					<p i="h7a">Its huuge! Ooooh!</p>
 				<p i="h8">Whopsie! I am\nslipping it deeper! Better not to cum now! Ahhh!</p>
-				<p i="h9">Ooooh, God...\nIt seems I am stuck into it! \u2665</p>
+				<p i="h9">Ooooh, God...\nIt seems I am stuck into it! ♥</p>
 				<p i="h10">Ooooh, I am\nooo screwed! But.. he haven\'t cum inside me....</p>
 				<p i="h11">Ahhh, I am\ncuuuuuming! That is so embarassing!</p>
 				<p i="h12">Oooh yeeees!\nI am cumming like a pirate whore in heat!</p>
@@ -3876,7 +3876,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="slut4">\nPound me more!</p>
 				<p i="slut5">\nOh God! It\'s so good!</p>
 				<p i="slut6">\nWow! What a dick!</p>
-				<p i="slut7">\nWhat a cute little mushroom! \u2665 \u2665</p>
+				<p i="slut7">\nWhat a cute little mushroom! ♥</p>
 				<p i="slut8">\nIt\'s so addictive! Oooh!</p>
 				<p i="slut9">\nI may need to repeat this all day!</p>
 				<p i="slut10">\nSo wonderful!</p>
@@ -3889,9 +3889,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="slut17">\nHurry up and give me your cum!</p>
 				<p i="slut18">\nI\'m becoming addicted to this!</p>
 				
-				<p i="climax1">\nOhhhhhhh! \u2665</p>
+				<p i="climax1">\nOhhhhhhh! ♥</p>
 				<p i="climax2">\nAhhhh!</p>
-				<p i="climax3">\nI\'ts...hot\ninside my.....honey pot! \u2665</p>
+				<p i="climax3">\nI\'ts...hot\ninside my.....honey pot! ♥</p>
 				<p i="climax4">\nOhhh he doesn\'t stop cumming!</p>
 				<p i="climax5">\nThe smell is making me so horny!</p>
 				<p i="climax6">\nHow embarrassing! It\'s filthy!</p>
@@ -3900,25 +3900,25 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="climax9">\nI\'m a dirty princess!</p>
 				<p i="climax10">\nHaaah...I could use a shower soon.</p>
 				<p i="climax11">\nI wonder if this will drip out while I\'m walking...</p>
-				<p i="climax12">\nAhhh I LOVE you! \u2665</p>
+				<p i="climax12">\nAhhh I LOVE you! ♥</p>
 				
-				<p i="climaxSlut1">\nThis smell just makes me want to go WILD! \u2665</p>
+				<p i="climaxSlut1">\nThis smell just makes me want to go WILD! ♥</p>
 				<p i="climaxSlut2">\nHe\'s making me cum harder than I\'ve ever cum before!</p>
 				<p i="climaxSlut3">\nGod, I need more of that pleasure!</p>
 				<p i="climaxSlut4">Mm! That was\ngood!  I may want to search for more of these guys!</p>
 				<p i="climaxSlut5">\nYou\'re MY king and I\'m YOUR slut!</p>
 				<p i="climaxSlut6">\nI want you\ninside me much more!</p>
 				<p i="climaxSlut7">\nWith cocks like these, who needs Mário?</p>
-				<p i="climaxSlut8">\nAhhh! It feels so good inside me! \u2665</p>
+				<p i="climaxSlut8">\nAhhh! It feels so good inside me! ♥</p>
 				<p i="climaxSlut9">\nI want you more inside my holes!</p>
 				<p i="climaxSlut10">\nThere\'s so much cum inside me now!</p>
 				<p i="climaxSlut11">\nOh god! The cum is starting to overflow!</p>
 				<p i="climaxSlut12">\nAll this cum is making me so horny!</p>
 				<p i="climaxSlut13">\nMmmm...I never knew saving the kingdom was this much fun...</p>
-				<p i="climaxSlut14">\nKeep it cumming! \u2665</p>
+				<p i="climaxSlut14">\nKeep it cumming! ♥</p>
 				<p i="climaxSlut15">\nYes! Cum all over my slutty body!</p>
 				<p i="climaxSlut16">\nI want more cum! I NEED more cum!</p>
-				<p i="climaxSlut17">\nI need this dick all the time! \u2665</p>
+				<p i="climaxSlut17">\nI need this dick all the time! ♥</p>
 				<p i="climaxSlut18">\nThis is causing me to shiver with odor!</p>
 				
 				<p i="boob1">\nOoh, my boobies\nare sooo dirty!</p>
@@ -4015,9 +4015,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="42">Ah, it\'s a cloudy day, I like to be lounging naked in my bedroom when its rainy!</p>
 				<p i="43">Oh...Today is a frightening day! It\'s all deeply shadowy!</p>
 				<p i="44">Today is a shining day in my castle!</p>
-				<p i="45">I can\'t wait to go outside being fucked by everyone! \u2665 \u2665</p>
-				<p i="46">I imagine if all inhabitants find me out walking around naked! It would be...sooo indecent. \u2665 \u2665</p>
-				<p i="47">I should search for my dear Mário in this huge magical world I am in. \u2665 \u2665</p>
+				<p i="45">I can\'t wait to go outside being fucked by everyone! ♥</p>
+				<p i="46">I imagine if all inhabitants find me out walking around naked! It would be...sooo indecent. ♥</p>
+				<p i="47">I should search for my dear Mário in this huge magical world I am in. ♥</p>
 				<p i="48">Oh, I am exposed! I imagine if anyone outside could see me here! Like you, my cute happy cloud! I don\'t mind you seeing me!</p>
 				<p i="49">I dont mind anyone looking at me from this distance. I am also clothed enough. Hmm, hey, you, my cute happy cloud! Are you with me?</p>
 				<p i="50">It\'s out of order! I called Luigi to fix it. He\'s a plumber, right? But it seems my toads will end up fixing it so I can use it tomorrow.</p>
@@ -5666,7 +5666,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		<text name="world1">Reino dos Cogumelos</text>
 		<text name="world2">Região Seca</text>
 		<text name="world3">Reino Subcon</text>
-		<text name="world4">Floresta Bunda</text>
+		<text name="world4">Florestal</text>
 		<text name="world5">Colinas Geladas</text>
 		<text name="world6">Praia Delfino</text>
 		<text name="world7">Ceus Macios</text>
@@ -5690,7 +5690,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		
 		<text name="1-1">Rota Cogumelo</text>
 		<text name="1-2">Mamma Mia!</text>
-		<text name="1-3">Floresta</text>
+		<text name="1-3">A Floresta</text>
 		<text name="1-4">Aguaceiro</text>
 		<text name="1-5">Planície</text>
 		<text name="1-6">Castelo Cru</text>
