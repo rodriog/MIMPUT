@@ -1112,7 +1112,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!--BIRDOES (the dragons from SMB3)-->
 			<scenes scene="birdo1">
-				<p i="1">Hmmmmph!\nHey! Don\'t kissing me right away! Stop!</p>
+				<p i="1">Hmmmmph!\nHey! Don\'t kiss me right away! Stop!</p>
 				<p i="2">Such a seductive glance!\nYou really like me, don\'t you? I\'m getting horny!</p>
 				<p i="3">Hey, calm\ndown! Ohhh down there! Yes! Blow me out!</p>
 			</scenes>
