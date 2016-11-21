@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--POR FAVOR LEIA!!!
 - Versão 0.2! Este trabalho foi um dos MAIORES da produção do jogo! Finalmente poderemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) Brasileiros dominam o mundo!
-Mas nem tudo são flores. Devido à limitação de fontes como 'Mário font', caracteres UTF8 não é suportado.
 - Apesar deste XML ser muito recente, já compreende 99% do jogo (mais de 5000 linhas!) e já abrange TODAS as cenas de criaturas (bom, exceções podem ocorrer, e por isso me avisem!)
 - Mas é bom reforçar: certas TELAS, certos NOMES De criaturas e cenas na galeria ainda NÃO estão no XML.
-- Como disse, UTF8 não é suportado pelas fontes não suportarem. Só LATIN (ASCII). Talvez idiomas como RUSSO seja possível, não sei.
+-  UTF8 é suportado parcilamente. Só LATIN (ASCII) e alguns caracteres cirílicos. RUSSO é possível, mas não o grego.
 - É recomendável usar um bom editor de XML como Notepad++, pois ele colore e ajuda a verificar TAGS XML, facilitando seu trabalho.
 - Você NÃO precisa traduzir textos dentro de <!-  ->
 - Por favor TOME CUIDADO sobre fechar tags e outros esquecimentos. Erros XML podem gerar 'Error XML' no jogo ou pior, deixá-lo travado. Neste caso, clique RESET SAVES na primeira tela.
@@ -23,8 +22,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
  - Ah, e claro! Usem o GITHUB (https://github.com/ivanaedler/MIMPUT). Vocês poderão fazer pull requests, e eu vou atualizando o XML lá no GITHUB, assim todos terão a versão mais recente. Versões melhores podem ser votadas e postas no GITHUB, e poderemos ter versões alternativas, c
  omo XMLLanguage_pt.xml, XMLLanguage_pt2.xml, XMLLanguage_brMELHOR.xml, etc. Não há problemas em ter versões diferentes por lá. Mas eu elegerei a principal.
  
- - Há regionalismos. Ex: Uso 'buceta' ao invés de 'boceta' de propósito, porque é um termo mais sexy ainda em mtos locais do Brasil. E uso 'racha' porque tem sentido de vagina no sul do país, e é bom para variar os nomes e deixar mais formal. E outros exemplos.  
- - Fui! Saudações aos brazukas! ;)
+ - Há regionalismos. Ex: Uso 'buceta' ao invés de 'boceta' de propósito, porque é um termo mais sexy ainda em mtos locais do Brasil. E uso 'racha' porque tem sentido de vagina no sul do país, e é bom para variar os nomes e deixar mais formal. E outros exemplos. 
+  (Sinônimos: periquita, pepeca, tchebs, perereca, pitchulinha, perseguida, procurada, xereca, pombinha, xana) 
+ - Fui! Saudações aos brazukas! ;) 
 -->
 
 		<game>
