@@ -4249,12 +4249,17 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="13">Security: NOBODY ENTERS HERE WITHOUT RAWK\'S PERMISSION!</f>
 			</scenes>
 			
-			<scenes scene="level7-5">
+			<scenes scene="level7-6">
 				<f i="1">Oh! A castle in the sky! But I feel a bad omen...Am I going to explore it?</f>
 				<f i="2">Oh, my naked mom! This castle is dangerous! But I\'ve heard about treasures there! Be careful!</f>
 				<f i="3">Princess, This castle is dangerous! But I\'ve heard about treasures there! Be careful!</f>
 			</scenes>
 			
+			<scenes scene="level8-1">
+				<p i="1">Waaah!? This is a terrible world. I see darkness, fire and bombs! I feel in peril!</p>
+				<p i="2">Hmmm? What are you doing here in this despicable world?</p>
+			</scenes>
+
 			<scenes scene="level9-1">
 				<p i="1">There are many buttons. I\'ve pressed some of them but nothing happens.</p>
 				<p i="2">Erhhhm...You dont suppose I know how to operate those computers... Right?</p>
@@ -5300,6 +5305,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="TimeIsUp">TIME IS UP! The princess is busted!</text>
 			<text name="REMOVEDCLOTHESPRESS">REMOVED HER CLOTHES! - PRESS</text>
 			<text name="PRESSDOWNWEAR">PRESS DOWN to TRY TO WEAR IT</text>
+			<text name="orClickEXITToGoAway">or click in EXIT button to go away</text>
 			<text name="CantRetrieveOutfitsAnymore">You can\'t retrieve it anymore. It\'s damaged and glued in the floor!</text>
 			<text name="Oh">Oh</text>
 			<text name="DescribeIt">Describe it (SHOW/HIDE)</text>

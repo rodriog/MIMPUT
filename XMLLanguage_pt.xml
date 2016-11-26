@@ -3,7 +3,7 @@
 - Versão 0.2! Este trabalho foi um dos MAIORES da produção do jogo! Finalmente poderemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) Brasileiros dominam o mundo!
 - Apesar deste XML ser muito recente, já compreende 99% do jogo (mais de 5000 linhas!) e já abrange TODAS as cenas de criaturas (bom, exceções podem ocorrer, e por isso me avisem!)
 - Mas é bom reforçar: certas TELAS, certos NOMES De criaturas e cenas na galeria ainda NÃO estão no XML.
--  UTF8 é suportado parcilamente. Só LATIN (ASCII) e alguns caracteres cirílicos. RUSSO é possível, mas não o grego.
+-  UTF8 é suportado parcialmente. Só LATIN (ASCII) e alguns caracteres cirílicos. RUSSO é possível, mas não o grego.
 - É recomendável usar um bom editor de XML como Notepad++, pois ele colore e ajuda a verificar TAGS XML, facilitando seu trabalho.
 - Você NÃO precisa traduzir textos dentro de <!-  ->
 - Por favor TOME CUIDADO sobre fechar tags e outros esquecimentos. Erros XML podem gerar 'Error XML' no jogo ou pior, deixá-lo travado. Neste caso, clique RESET SAVES na primeira tela.
@@ -1369,7 +1369,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="6">Toadsworth: Quase isso, Princesa. Sabe, você também tem que estimular suas zonas erógenas. Para as mulheres são os seios e vagina, mas para os homens, você deve... chupar o seu pênis. Você entendeu, querida?</f>
 				<p i="7">Erhm...acho que sim. Vou me lembrar de fazê-lo se eu vir alguem assim. Er...Obrigada pelos conselhos, Toadsworth. Tchauzinho!</p>
 				<f i="8">Toadsworth: Olá, minha querida princesinha! O que posso fazer por você?</f>
-				<p i="9">(Escolha um Número)\n1) Alguma notícia do Mário?    2) Alguma ideia para salvar o Reino?\n3) Eu sinto... um odor tão forte de...sexo...   {NEXTKEY) Go away</p>
+				<p i="9">(Escolha um Número)\n1) Alguma notícia do Mário?    2) Alguma ideia para salvar o Reino?\n3) Eu sinto... um odor tão forte de...sexo...   {NEXTKEY) Ir embora</p>
 				<f i="10">Toadsworth: Não, minha realeza... os toads estão ainda procurando-o, dia e noite, em todos os mundos.</f>
 				<f i="11">Toadsworth: Bom, querida... Já que você está nesta missão de encontrar o Mário, você precisa de lições. Estou disponível para ensiná-las. Você está pronta?</f>
 				<p i="12">(Escolha um Número) \n1) O que são essas lições?   2) Não, não quero agora!\n3) Ok, vamos lá!</p>
@@ -3195,7 +3195,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="4">Ficar desejosa, fazendo-o brincar com minha bunda</p>
 				<p i="5">Ajudá-lo com minhas mãos</p>
 				<p i="6">O que quer fazer?</p>
-				<p i="7">2) Chupe seu pau 3) Massagem frontal  4) Massagem deitada\n5) Massagem ajoelhada!  6) Aliviar seu cu!  7) Fazê-lo escolher!  ({NEXTKEY}) GO AWAY</p>
+				<p i="7">2) Chupe seu pau 3) Massagem frontal  4) Massagem deitada\n5) Massagem ajoelhada!  6) Aliviar seu cu!  7) Fazê-lo escolher!  ({NEXTKEY}) IR EMBORA</p>
 			</scenes>			
 				
 			<scenes scene="dialogueGloryHole">
@@ -4256,10 +4256,15 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="13">Security: NOBODY ENTERS HERE WITHOUT RAWK\'S PERMISSION!</f>
 			</scenes>
 			
-			<scenes scene="level7-5">
+			<scenes scene="level7-6">
 				<f i="1">Oh! A castle in the sky! But I feel a bad omen...Am I going to explore it?</f>
 				<f i="2">Oh, my naked mom! This castle is dangerous! But I\'ve heard about treasures there! Be careful!</f>
 				<f i="3">Princess, This castle is dangerous! But I\'ve heard about treasures there! Be careful!</f>
+			</scenes>
+			
+			<scenes scene="level8-1">
+				<p i="1">O quê!? Que mundo terrível eu vim parar! Eu vejo descuridão, fogo e bombas! Eu...me sinto em perigo!</p>
+				<p i="2">Hummm? O que você está fazendo aqui neste mundo deplorável, amiguinho?</p>
 			</scenes>
 			
 			<scenes scene="level9-1">
@@ -5307,6 +5312,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="TimeIsUp">TEMPO ESGOTADO! A princesa se ferrou!</text>
 			<text name="REMOVEDCLOTHESPRESS">RETIROU SUAS ROUPAS! - TECLE</text>
 			<text name="PRESSDOWNWEAR">Tecle \'BAIXO\' para TENTAR vestir-se</text>
+			<text name="orClickEXITToGoAway">ou clique no botão SAIR para ir embora</text>
 			<text name="CantRetrieveOutfitsAnymore">Você não pode mais vestir. Está danificado e colado no chão!</text>
 			<text name="Oh">Oh</text>
 			<text name="DescribeIt">Mostrar/Esconder Estória da Cena</text>
@@ -5462,17 +5468,17 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ArmsCum">Sêmen nos Braços</text>
 			
 			<!--DIALOGUE OPTIONS-->
-			<text name="D_TakeAShower">Take A Shower</text>
-			<text name="D_CleanAll">Clean All</text>
-			<text name="D_Body">Body</text>
-			<text name="D_Face">Face</text>
-			<text name="D_Legs">Legs</text>
-			<text name="D_Tits">Tits</text>
-			<text name="D_Pussy">Pussy</text>
-			<text name="D_AssSide">Ass Side</text>
-			<text name="D_AssBack">Ass Back</text>
-			<text name="D_PussyFront">Pussy Front</text>
-			<text name="D_Lay">Lay</text>
+			<text name="D_TakeAShower">Tomar Banho</text>
+			<text name="D_CleanAll">Limpar-se</text>
+			<text name="D_Body">Corpo</text>
+			<text name="D_Face">Rosto</text>
+			<text name="D_Legs">Pernas</text>
+			<text name="D_Tits">Peitos</text>
+			<text name="D_Pussy">Xana</text>
+			<text name="D_AssSide">Bunda Lado</text>
+			<text name="D_AssBack">Bunda Costas</text>
+			<text name="D_PussyFront">Xana Frente</text>
+			<text name="D_Lay">Deitar</text>
 			
 			<text name="noMorePages">Não há páginas</text>
 			<text name="nextPage">Próxima Página</text>
