@@ -3439,9 +3439,14 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="5">When I look at this I....feel a need to pee and....masturbate myself?</p>
 				<p i="6">This wooden thing makes me remember my old castle...I\'ve had only one, and it used to lock my butt in it. It was embarrassing to call the toads...</p>
 				<p i="7">It\'s a...toilet! I hope I wouldnt need it...</p>
-				<p i="8">(Press a Number)\n1) Use the toilet  2) Go away</p>
+				<p i="8">(Press a Number)\n1) Use the toilet  2) Look at it\n3) Go away</p>
+					<p i="8a">It\'s a really clean toilet. The water is pure, at least.</p>
+					<p i="8b">This isn\'t a clean toilet. I have fears of what might be inside!</p>
+					<p i="8c">This water is...strange... it appears to be... rotten jelly! Gross!</p>
+					<p i="8d">Why I am doing this again? Perhaps there something valuable inside?</p>
+					<p i="8e">I don\'t know why, but... I feel myself so exposed in this pose...</p>
 				<p i="9">It\'s a...toilet! But it\'s out of order!</p>
-				<p i="10">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing(YES/NO)   7) Fart (may diminish Belly size)  8) Exit</p>
+				<p i="10">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing(YES/NO)   7) Fart (may diminish Belly size)   {NEXTKEY}) Exit</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -5333,7 +5338,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="GoAway">Go away</text>
 			<text name="WaitDropCoins">You have to wait the dropping of coins first</text>
 			<text name="pressToChangeZoom">Press \'-\' key to change ZOOM, and {NEXTKEY} to advance</text>
+			<text name="pressToTalkTEC">Press {NEXTKEY} to talk to TEC-XXX</text>
 			<text name="pressSpaceToAdvance">Press {NEXTKEY} to advance</text>
+			<text name="pressSpaceToLeave">Press {NEXTKEY} to leave</text>
 			<text name="pressSpaceToHelpHer">Press {NEXTKEY} to help her!</text>
 			<text name="pressSpaceToSeeOptions">Keep pressing {NEXTKEY} to see options</text>
 			<text name="pressSPACEorClickButtons">Press {NEXTKEY} to advance or click the buttons to specify areas you want</text>
@@ -5352,6 +5359,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="clickCreature">Click in the creature or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
 			<text name="OrGivenNumber">or a given number to advance</text>
 			<text name="YouAreStarkNaked">You are stark naked!</text>
+			<text name="YourCumWasCleaned">Your cum was cleaned!</text>
 			<text name="NotEnough">Not enough</text>
 			<text name="creaturesWantingToEat">creatures wanting to eat</text>
 			<text name="GotKeyButt">You\'ve got a key! But it entered right into your...erhm....butt.</text>

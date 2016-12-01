@@ -3448,9 +3448,14 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="5">When I look at this I....feel a need to pee and....masturbate myself?</p>
 				<p i="6">This wooden thing makes me remember my old castle...I\'ve had only one, and it used to lock my butt in it. It was embarrassing to call the toads...</p>
 				<p i="7">It\'s a...toilet! I hope I wouldnt need it...</p>
-				<p i="8">(Escolha um Número)\n1) Use the toilet  2) Go away</p>
+				<p i="8">(Press a Number)\n1) Use the toilet  2) Look at it\n3) Go away</p>
+					<p i="8a">É uma privada bem limpinha... a água está pura, pelo menos...</p>
+					<p i="8b">Esta não é uma privada...decente. Tenho medo do que pode ter aí dentro!</p>
+					<p i="8c">Este líquido é...estranho... ele parece com... geléia podre! Eca!</p>
+					<p i="8d">Por que estou fazendo isso de novo? Talvez exista algo de valor aqui?</p>
+					<p i="8e">Não sei porquê,\n mas me sinto bem exposta nessa posição!</p>
 				<p i="9">It\'s a...toilet! But it\'s out of order!</p>
-				<p i="10">(Escolha um Número)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing(YES/NO)   7) Fart (may diminish Belly size)  8) Exit</p>
+				<p i="10">(Escolha um Número)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing(YES/NO)   7) Fart (may diminish Belly size)   {NEXTKEY}) Exit</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -4956,8 +4961,6 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 					
 				<!--More Later-->
 			</scenes>
-				
-			</scenes>
 			
 			
 	<!--DIARY: In this case, each line must have \n, because the diary pages use a different system.-->
@@ -5344,7 +5347,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="GoAway">Vá embora</text>
 			<text name="WaitDropCoins">Você deve esperar as moedas serem removidas primeiro.</text>
 			<text name="pressToChangeZoom">Pressione tecla \'-\' para aproximar/afastar câmera, ou {NEXTKEY} para avançar a cena</text>
+			<text name="pressToTalkTEC">Pressione {NEXTKEY} para conversar com TEC-XXX</text>
 			<text name="pressSpaceToAdvance">Pressione {NEXTKEY} para avançar</text>
+			<text name="pressSpaceToLeave">Pressione {NEXTKEY} para sair</text>
 			<text name="pressSpaceToHelpHer">Pressione {NEXTKEY} para ajudá-la!</text>
 			<text name="pressSpaceToSeeOptions">Mantenha pressionando {NEXTKEY} para ver opções</text>
 			<text name="pressSPACEorClickButtons">Pressione {NEXTKEY} para avançar ou clique nos botões para informar áreas desejadas</text>
@@ -5363,6 +5368,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="clickCreature">Clique na criatura ou pressione a tecla \'-\' key para aproximar câmera, ou {NEXTKEY} para avançar</text>
 			<text name="OrGivenNumber">ou um número desejado para avançar</text>
 			<text name="YouAreStarkNaked">Você está totalmente PE-LA-DA!</text>
+			<text name="YourCumWasCleaned">Seu corpinho cheio de porra foi limpo!</text>
 			<text name="NotEnough">Insuficiente</text>
 			<text name="creaturesWantingToEat">criaturas querendo comer</text>
 			<text name="GotKeyButt">Você achou uma chave! Mas ela entrou...direto em sua bundinha!</text>
