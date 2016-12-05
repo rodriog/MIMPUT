@@ -3064,6 +3064,23 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="5">(Escolha um Número)\n1) Cheire sua flor\n2) Vá embora</p>
 			</scenes>			
 			
+			<scenes scene="dialogueCuriousChain">
+				<p i="pre">Oh, as algemas! Lembro de que brincava com elas (*risos*)! Eles são pesados e...enferrujados!</p>
+				<p i="pre2">(PRESSIONE UM NÚMERO):\n1) Brincar\n2) Sair</p>
+				<p i="1">Acho que não\né uma boa ideia...</p>
+				<p i="2">Tenho que... sair destas correntes... Oh, estou ficando fraca!</p>
+				<p i="3">Toad?? É\nvocê? P-por favor retire isto de mim!</p>
+				<f i="3">Princesa! O que está\nfazendo aí?</f>
+				<p i="4">Por favor não!\nolhe! Apenas retire..."</p>
+				<f i="4">Oh me desculpe!\nNão foi minha intenção... Bem...ok!</f>
+				<p i="5">Por favor, Toad, Oh!\nApenas faça seu trabalho!</p>
+				<f i="5">Primeiro eu\ntenho que cuidar destas algemas... Essas pernas...</f>
+				<p i="6">Oooopa!\nMinha bunda... escorregou em sua cabeça! Me desculpe!</p>
+				<f i="6">La... Lala... Rilala...\nHummm!</f>
+				<f i="7">Este é mais difícil,\nfique paradinha!</f>
+				<f i="8">Ohhh, Eu...Mhhhmph!\nHmmm! Mmph Ahhh!</f>
+			</scenes>			
+
 			<scenes scene="dialogueCharlieton">
 				<f i="0a">Roupas Íntimas (50 coins)</f>
 				<f i="0b">Vestido de Noiva (150 coins)</f>
@@ -3417,7 +3434,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="30">Elvin Gadd: Good morning, Princess! Thats it, girl! The spaceship is fixed up! Now, please enter on it for me to activate the engines!</f>
 				<f i="31">Elvin Gadd: You may, but I will need some lubrication before it can launch!</f>
 				<p i="32">What?? I would NEVER ask that for him! You pervert!</p>
-				<f i="33">(Escolha um Número)\n1) Lubricate!!!\n2) Go away</f>
+				<p i="33">(Escolha um Número)\n1) Lubricate!!!\n2) Go away</p>
 			</scenes>			
 			
 			<scenes scene="dialogueJinx">

@@ -3057,6 +3057,23 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="5">(Press a Number)\n1) Sniff his flower\n2) Go away.</p>
 			</scenes>			
 			
+			<scenes scene="dialogueCuriousChain">
+				<p i="pre">Oh, the restraints! I remember playing with them (*giggles*)! They\'re rusty and heavy!</p>
+				<p i="pre2">(PRESS A NUMBER):\n1) Play with the chains\n2) Leave</p>
+				<p i="1">I think it was\nnot a good idea...</p>
+				<p i="2">I need to... get free from those... oooh! I am getting weak!</p>
+				<p i="3">Toad?? Is it\nyou? P-Please remove those from me!</p>
+				<f i="3">Princess! What are\nyou...doing?</f>
+				<p i="4">Please dont look!\nJust Remove them..."</p>
+				<f i="4">Oh I am sorry!\nIt was not my intention... Well, okay then...</f>
+				<p i="5">Please, Toad, just\ndo your job! Ooh!</p>
+				<f i="5">First I have\nto take care of those chains... Oh those legs...</f>
+				<p i="6">Whooopsie!\nMy butt has... touched your head! I am sorry!</p>
+				<f i="6">Dun... De... Dun....\nHmmmmm!</f>
+				<f i="7">This one is harder,\nplease stand still!</f>
+				<f i="8">Ohhh, I...Mhhhmph!\nHmmm! Mmph Ahhh!</f>
+			</scenes>			
+			
 			<scenes scene="dialogueCharlieton">
 				<f i="0a">Lingerie Pack (50 coins)</f>
 				<f i="0b">Wedding Dress (150 coins)</f>
@@ -3410,7 +3427,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="30">Elvin Gadd: Good morning, Princess! Thats it, girl! The spaceship is fixed up! Now, please enter on it for me to activate the engines!</f>
 				<f i="31">Elvin Gadd: You may, but I will need some lubrication before it can launch!</f>
 				<p i="32">What?? I would NEVER ask that for him! You pervert!</p>
-				<f i="33">(Press a Number)\n1) Lubricate!!!\n2) Go away</f>
+				<p i="33">(Press a Number)\n1) Lubricate!!!\n2) Go away</p>
 			</scenes>			
 			
 			<scenes scene="dialogueJinx">
@@ -4315,7 +4332,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="45">TEC-XXX: You need to retrieve the disk, then put in Grodus computer, Princess</f>
 				<p i="46">Ok, enough of this! I\'ll take a rest in that ...bed.</p>
 				<p i="47">(HINT): You need to masturbate in the brown bed in the left until cumming in order to sleep, so TEC may talk to you later!</p>
-				<f i="48">TEC-XXX: Good morning, Princess</f>
+				<f i="48">TEC-XXX: Good morning, Princess!</f>
 				<p i="49">(Sign) Did you analyse the disk?</p>
 				<f i="50">TEC-XXX: Yes, Princess. Please go to my room now.</f>
 				<p i="51">Ok...</p>
