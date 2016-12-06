@@ -3671,8 +3671,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>	
 			
 			<scenes scene="dialogueVegetable">
-				<p i="1">Peach: They\'re vegetables for the next meal.</p>
-				<p i="2">Peach: I wonder if I can put them on my....my table?</p>
+				<p i="1">Princess: They\'re vegetables for the next meal.</p>
+				<p i="2">Princess: I wonder if I can put them on my....my table?</p>
 			</scenes>	
 			
 			<scenes scene="dialogueSwan">
@@ -3684,7 +3684,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 			<scenes scene="dialogueMerlee">
 				<f i="1">Your lover is not on danger, although his enemies have anger. He\'s naked, but not touched. I feel he\'s not afraid, but horny, as his face is red.</f>
-				<f i="2">Your lover is captive in Wendy\'s dungeon. He is fed like a king, an angel as white as his cum. His manhood shivers, while whiile touching the mistress\'s skin.</f>
+				<f i="2">Your lover is captive in Wendy\'s dungeon. He is fed like a king, an angel as white as his cum. His manhood shivers, while touching the mistress\'s skin.</f>
 				<f i="3">Merlee: Hi, my pristine woman. Don\'t have fear, I am no man.</f>
 				<p i="4">(Press a Number)\n1) WHO....are....you?\n2) Where is Mario?</p>
 				<f i="5">Merlee: I am Merlee (LeeLee for you). I am a fortune teller, see, and I am protecting you!</f>
@@ -3965,7 +3965,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="19">You are in Peril! Horny bar is zero!</p>
 				<p i="20">Your last shreddable part is lost! Any more hit will make you lose the powerup/outfit!</p>
 				<p i="21">You lost the powerup!</p>
-				<p i="22">Choose your action:\n1) Wear it (lose your current powerup)\n2) Skip it</p>
 				
 				<!--Custom phrases according to outfits-->
 				<p i="23a">Hmm... I love that sling bikini! I feel entirely naked while being still clothed! This IS a bikini!</p>
@@ -5447,6 +5446,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="MyMushroomDiary">My Mushroom Diary</text>
 			<text name="DontYouDareToTouchIt">Don\'t you dare to touch it!!</text>
 			<text name="PrincessDiary">Princess\' Diary</text>
+			<text name="PrincessIsMyBitch">{CHARACTER_NAME} is my bitch</text>
 			<text name="Princess">Princess</text>
 			<text name="PrincessWroteDiary">You wrote in your diary!</text>
 			

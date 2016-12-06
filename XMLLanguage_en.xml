@@ -3965,7 +3965,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="19">You are in Peril! Horny bar is zero!</p>
 				<p i="20">Your last shreddable part is lost! Any more hit will make you lose the powerup/outfit!</p>
 				<p i="21">You lost the powerup!</p>
-				<p i="22">Choose your action:\n1) Wear it (lose your current powerup)\n2) Skip it</p>
 				
 				<!--Custom phrases according to outfits-->
 				<p i="23a">Hmm... I love this sling bikini! I feel entirely naked while still being clothed! THIS is a bikini!</p>
@@ -5448,6 +5447,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="MyMushroomDiary">My Mushroom Diary</text>
 			<text name="DontYouDareToTouchIt">Don\'t you dare to touch it!!</text>
 			<text name="PrincessDiary">Princess\' Diary</text>
+			<text name="PrincessIsMyBitch">{CHARACTER_NAME} is my bitch</text>
 			<text name="Princess">Princess</text>
 			<text name="PrincessWroteDiary">You wrote in your diary!</text>
 			
