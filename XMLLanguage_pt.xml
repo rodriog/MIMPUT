@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--POR FAVOR LEIA!!!
-- Versão 0.5! Este trabalho foi um dos MAIORES da produção do jogo! Finalmente poderemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) Brasileiros dominam o mundo!
+<!--POR FAVOR LER!!
+- Versão Inicial do Portugues de Portugal, baseado no Português Brasileiro. Este arquivo deve ser adaptado ao Portugues Europeu.
+- Este trabalho foi um dos MAIORES da produção do jogo! Finalmente podemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) 
 - Apesar deste XML ser muito recente, já compreende 99% do jogo (mais de 5000 linhas!) e já abrange TODAS as cenas de criaturas (bom, exceções podem ocorrer, e por isso me avisem!)
 - Mas é bom reforçar: certas TELAS, certos NOMES De criaturas e cenas na galeria ainda NÃO estão no XML.
--  UTF8 é suportado parcialmente. Só LATIN (ASCII) e alguns caracteres cirílicos. RUSSO é possível, mas não o grego.
+- UTF8 é suportado parcialmente. Só LATIN (ASCII) e alguns caracteres cirílicos. RUSSO é possível, mas não o grego.
 - É recomendável usar um bom editor de XML como Notepad++, pois ele colore e ajuda a verificar TAGS XML, facilitando seu trabalho.
 - Você NÃO precisa traduzir textos dentro de <!-  ->, não fará efeito no jogo. Só se quiser deixar até as descrições em portugues (como este próprio texto, dãaa hehe).
 - Por favor TOME CUIDADO sobre fechar tags e outros esquecimentos. Erros XML podem gerar erros no jogo ou pior, deixá-lo travado. Neste caso, clique RESET SAVES na primeira tela ou carregue outro XML na tela principal de onde a princesa aparece fora do castelinho do Mário (depois da primeira tela preta de carregamento).
@@ -22,10 +23,10 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
  - Ah, e claro! Usem o GITHUB (https://github.com/ivanaedler/MIMPUT). Vocês poderão fazer pull requests, e eu vou atualizando o XML lá no GITHUB, assim todos terão a versão mais recente. Versões melhores podem ser votadas e postas no GITHUB, e poderemos ter versões alternativas, c
  omo XMLLanguage_pt.xml, XMLLanguage_pt2.xml, XMLLanguage_brMELHOR.xml, etc. Não há problemas em ter versões diferentes por lá. 
  
- - Há regionalismos. Ex: Uso 'buceta' ao invés de 'boceta' de propósito, porque é um termo mais sexy ainda em mtos locais do Brasil. E uso 'racha' porque tem sentido de vagina no sul do país, e é bom para variar os nomes e deixar mais formal. E outros exemplos. 
+ - Há regionalismos. Ex: Uso 'buceta' ao invés de 'boceta' de propósito, porque é um termo mais sexy ainda em mtos locais do Brasil (logicamente os portugueses podem mudar isto, conforme usado em seu país). Eu também tenho usado 'racha' porque tem sentido de vagina no sul do Brasil, e é bom para variar os nomes e deixar mais formal. E outros exemplos. 
   (Sinônimos: periquita, priquita, pepeca, tchebs, perereca, pitchulinha, perseguida, procurada, xereca, pombinha, xana, racha, grelho, grelhinho) 
  
- - Fui! Saudações aos brazukas! ;) 
+ - Até mais ver, gajos! ;) 
 -->
 
 		<game>
@@ -3195,6 +3196,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="bed3">Ohhh, Mário!\nLamba-me! Chupe minha bunda como você esperava! Aahh!</p>
 				<p i="bed4">Mário!! Oh, meu amor\nonde você está agora! Estou batendo uma para você!</p>
 				<p i="bed5">Ahhhh! GOZEI!\nJorre porra no meu corpinho, meu bigodudinho!</p>
+				<f i="treasure">Princesa, você\npode abrir uma dessas arcas, caso queira um bônus.</f>
 			</scenes>
 			
 			<scenes scene="dialogueBuddy1">
@@ -5579,7 +5581,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			
 			<text name="HardModeCantMasturbate">JOGO DIFÍCIL! Você NÃO pode se masturbar assim!</text>
 			<text name="AutoSavedToSlot">Auto Salvo ao Item</text>
-			<text name="SavedToSlot">SALVO\nNO ITEM!</text>
+			<text name="SavedToSlot">SALVO\nNO  ITEM!</text>
 			<text name="SAVED">SALVO</text>
 			<text name="SAVEDCLIPBOARD">SALVO na ÁREA DE TRANSFERÊNCIA! Só precisa colar (CTRL+V) num editor de texto e salvar!</text>
 			<text name="princessSQUISHED">A princesa foi ESMAGADA!</text>

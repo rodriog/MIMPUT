@@ -29,7 +29,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 -->
 
 		<game>
-			<lang>Português</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
+			<lang>Brasileiro</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
