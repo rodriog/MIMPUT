@@ -2012,12 +2012,15 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 	<!--SIR GRODUS (From PAPER MARIO II)-->
 			<scenes scene="grodus">
 				<f i="1">Sir Grodus: Ei!! O que é isso?? Sua PUTA, quem você acha que é para simplesmente entrar na minha sala? Você se FERROU!!!</f>
-				<f i="1">Sir Grodus: Princesa! Eu quero O MAPA dos Cristais!</f>
-				<p i="1">ESCOLHA UM NÚMERO:\n1) Princesa: Eu não tenho! \n2) Princesa: LIBERTE-ME AGORA!</p>
-				<f i="1">Sir Grodus: Então vou te jogar de volta a seu aposento!</f>
-				<f i="1">Sir Grodus: Não sem antes foder seu corpo, vadia!</f>
+				<f i="2">Sir Grodus: Princesa! Eu quero O MAPA dos Cristais!</f>
+				<p i="3">ESCOLHA UM NÚMERO:\n1) Princesa: Eu não tenho! \n2) Princesa: LIBERTE-ME AGORA!</p>
+				<f i="4">Sir Grodus: Então vou te jogar de volta a seu aposento!</f>
+				<f i="5">Sir Grodus: Não sem antes foder seu corpo, vadia!</f>
 			</scenes>			
 			<scenes scene="grodus1">
+				<f i="talk1">Grodus: Ei! O que você está fazendo, sua puta! Vou te ensinar uma lição!</f>
+				<f i="talk2">Grodus: O que é isso? Sua melada que fede a porra! Você NÃO vai atrapalhar minhas tropas!</f>
+				<f i="talk3">Grodus: Hein? Então você está corrompendo meu computador? Vou bater nessa bunda fedida!</f>
 				<p i="1">Hein?? Ei! Não\nbata no meu bumbumzinho! Ponha-me no chão! Eu ordeno!</p>
 				<e i="1">Você vai\né APRENDER! Sou eu quem manda aqui, Princesa!</e>
 				<p i="2">Aaaaahhh nãoo!\nEstá doendo! Hummm mas estou ficando tarada!</p>
@@ -3499,7 +3502,6 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="dialogueGrodusShelf">
 				<p i="1">Cadê o disco?</p>
 				<p i="2">(ESCOLHA UM NÚMERO)\n1) Primeira prateleira   2) Segunda prateleira   3) Terceira prateleira   4) Quarta prateleira\n5) Sair</p>
-				<p i="3">Eu não tenho o disco!</p>
 				<p i="4">ACHEI!</p>
 				<p i="5">Não está aqui...</p>
 			</scenes>
@@ -3959,7 +3961,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Escolha um número:\n1) Usá-lo (seu poder atual será perdido)  2) Guardar no inventário (limite de 5)\n3) Ignorar</p>
 				<p i="3">Princesa: Oh...Estou sentindo o cheiro de piroca do meu Mário!</p>
 				<p i="4">Oh...tem certeza que deseja que eu fique pelada? (ESCOLHA UM NÚMERO)\n1) SIM!\n2) NÃO!</p>
-					<p i="4a">Aiii, que CALOR! Preciso retirar estas roupas. Estou para incendiar! (ESCOLHA UM NÚMERO)\n1) FICAR PELADA!\n2) NÃO!</p>
+					<p i="4a">Aiii, que CALOR! Preciso retirar estas roupas. (ESCOLHA UM NÚMERO)\n1) FICAR PELADA!\n2) NÃO!</p>
 				<p i="5">Agora você é a Princesa de Fogo! Tecle \'botão ataque\' para lançar bolas de fogo!</p>
 				<p i="6">Você agora é um Guaxinim! Tecle \'Correr\' para voar ou \'Ataque\' para virar estátua!</p>
 				<p i="7">Você agora tem rabo e orelha de Guaximim! Corra e pule quando todas as setas forem vermelhas para poder voar!</p>
@@ -4416,6 +4418,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="14">Bem vindo ao Palácio Nimbus, Princesa! Já sabíamos que você viria desde dias atrás! Por favor, entre! O rei quer falar com vossa majestade!</f>
 				<f i="15">Bem vindo ao mercado, Princesa! Que pena que não tenho panelas ou outros itens que costumava vender... Talvez no futuro breve...</f>
 				<p i="16">Isto é uma pequena piscina. Oh, me parece estar quentinha! Eu adoro banhos quentes. Mas...espere! É um local público!</p>
+				<p i="16a">(ESCOLHA UM NÚMERO):\n1) Fica nuazinha e se banhe\n2) Desistir</p>
+				<p i="16b">Não! Eu não estou... preparada para tanto...</p>
+				<p i="16c">Eu-Eu só farei isso porque... estou realmente excitadinha!</p>
 				
 				<!--MALLOW-->
 				<p i="17">Oláaa, Mallow!! Estou tão feliz em saber que está feliz e com saúde!</p>

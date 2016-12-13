@@ -2005,12 +2005,15 @@ Enjoy!
 	<!--SIR GRODUS (From PAPER MARIO II)-->
 			<scenes scene="grodus">
 				<f i="1">Sir Grodus: Hey!! What\'s that?? You slut, who do you think you are to invade my room? You are in a BIG trouble!!!</f>
-				<f i="1">Sir Grodus: Princess! I want the MAP!</f>
-				<p i="1">Press a Number:\n1) Princess: I don\'t have it! \n2) Princess: My request is: RELEASE ME!</p>
-				<f i="1">Sir Grodus: Then I will throw you back into your ROOM!</f>
-				<f i="1">Sir Grodus: Not after me screwing you up!</f>
+				<f i="2">Sir Grodus: Princess! I want the MAP!</f>
+				<p i="3">Press a Number:\n1) Princess: I don\'t have it! \n2) Princess: My request is: RELEASE ME!</p>
+				<f i="4">Sir Grodus: Then I will throw you back into your ROOM!</f>
+				<f i="5">Sir Grodus: Not after me screwing you up!</f>
 			</scenes>			
 			<scenes scene="grodus1">
+				<f i="talk1">Grodus: Hey! What are you doing, you whore! I\'ll teach you a lesson!</f>
+				<f i="talk2">Grodus: What's that? You nasty skirt who pees cum!! You\'re not going to embarrass my minions!</f>
+				<f i="talk3">Grodus: Ehhh? So you are corrupting my computer? I will do a good spanking in that nasty ass!</f>
 				<p i="1">Huh?? Hey! Don\'t\nslap my butt! Put me down! I am ordering you!</p>
 				<e i="1">You will\nlearn! I am the ruler here, Princess!</e>
 				<p i="2">Aaaaahhh nooo!\nIt\'s hurting....hmmm it\'s...making me horny!</p>
@@ -3188,6 +3191,7 @@ Enjoy!
 				<p i="bed3">Ohhh, Mario!\nLick me! Lick my butt like you envisioned! Aahh!</p>
 				<p i="bed4">Mario!! Oh, my love\nwhere are you now? I am masturbating for you!</p>
 				<p i="bed5">Ahhhh! Cumming!\nFill my body with cum, my Moustached man!</p>
+				<f i="treasure">Princess, you\ncan take one item of these treasure chests if you want.</f>
 			</scenes>
 			
 			<scenes scene="dialogueBuddy1">
@@ -3490,7 +3494,6 @@ Enjoy!
 			<scenes scene="dialogueGrodusShelf">
 				<p i="1">Where is the disk?</p>
 				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n5) Leave</p>
-				<p i="3">I don\'t have the disk!</p>
 				<p i="4">I got it!</p>
 				<p i="5">It\'s not here...</p>
 			</scenes>
@@ -4404,6 +4407,9 @@ Enjoy!
 				<f i="14">Welcome to Nimbus Land, Princess! We already know you are arriving here. Please go inside, the king wants to talk to you!</f>
 				<f i="15">Welcome to the Market, Princess! Too bad I dont have pans and other items I used to sell before. Perhaps in the future...</f>
 				<p i="16">This is a small pond. Oh it might be warm! I like hot showers. But... wait! Its in a public place!</p>
+				<p i="16a">(CHOOSE A NUMBER):\n1) Remove clothes and bath yourself\n2) Leave</p>
+				<p i="16b">No! I am not... lewd enough to do this...</p>
+				<p i="16c">I-I will only do it because... I am really excited!</p>
 				
 				<!--MALLOW-->
 				<p i="17">Hello, Mallow!! I am so happy to see you\'re happy and healthy!</p>
