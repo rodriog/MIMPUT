@@ -4086,16 +4086,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>			
 			
 			<scenes scene="levelInner">
-				<p i="1">Princess: What's that? Happy mushrooms?</p>
-				<p i="2">Oh! This is a place where people marry! I remember when I kissed Mario's cheeks while Booster tried to.... marry and fuck me...</p>
+				<p i="1">Princess: What\'s that? Happy mushrooms?</p>
+				<p i="2">Oh! This is a place where people marry! I remember when I kissed Mario\'s cheeks while Booster tried to.... marry and fuck me...</p>
 				<p i="3">Ok this might be a tavern! Is Mario here?</p>
 				<p i="4">Ohhh...no doors!</p>
 				<p i="5">Hey, I hope you wont be peeping me, little buddy!</p>
 				<p i="6">Princess: Mario?? Are you here?</p>
 			</scenes>			
-
+			
 			<scenes scene="levelToadTown">
-				<p i="1">This sink is smelly! And it's out of water!</p>
+				<p i="1">This sink is smelly! And it\'s out of water!</p>
 				<f i="2">My naked beauty! Wanna drink? (my bitch!)</f>
 				<f i="3">My Princess, welcome! want a drink?</f>
 				<f i="4">Welcome to our village, nude Princess! I hope you will enjoy your stay!</f>
