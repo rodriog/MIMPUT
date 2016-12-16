@@ -39,7 +39,7 @@ Enjoy!
 				<p i="2a">J\'y vais,\nma petite chose...</p>
 				<p i="2b">Hey, il y a\nquelque chose que je dois verifier...♥</p>
 				<p i="3">Ce n\'est pas une chose sale\nil a un champignon, c\'est comestible. ♥</p>
-				<p i="3a">Toadella n\'aime\npas que je fasse ces choses...</p>
+				<p i="3a">Toadette n\'aime\npas que je fasse ces choses...</p>
 				<p i="3b">Je peux faire ca\nquand je veux...</p>
 				<p i="4">Je me sens si pleine,\nc\'est une tendre banane.</p>
 				<p i="4a">J\'imagine une file\npleine de mes chers toads nus, en train de me servir! ♥</p>
@@ -3777,6 +3777,8 @@ Enjoy!
 				<p i="10">(CHOOSE A NUMBER)\n1) Masturbate/Cancel         2) Go outside!\n3) Show your butt!</p>
 				<p i="11">(CHOOSE A NUMBER)\n1) Masturbate/Cancel\n2) Go inside!</p>
 				<p i="12">I... I cant leave! I... I am stuck! The only way is by breaking the cake! May I? (CHOOSE):</p>
+				<f i="13">Ohhh! The princess\nis playing inside the cake NAKED! She is really a pervert!</f>
+				<p i="14">It..it couldn\'t\nbe! A male toad is out there! Ohhhh!</p>
 			</scenes>
 
 			<scenes scene="dialogueSackToad"><!--sack where toads are freed-->
@@ -4080,6 +4082,26 @@ Enjoy!
 				<f i="poochie1">Arf Woof! (I like this corridor, the toads give me cookies all the time...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (I like the breeze of the roof, I feel so free...)</f>
 				<f i="poochie3">Woof Woof Waf! (Its hard to reach this place...there are many mice I like to lick...)</f>
+			</scenes>			
+			
+			<scenes scene="levelInner">
+				<p i="1">Princess: What's that? Happy mushrooms?</p>
+				<p i="2">Oh! This is a place where people marry! I remember when I kissed Mario's cheeks while Booster tried to.... marry and fuck me...</p>
+				<p i="3">Ok this might be a tavern! Is Mario here?</p>
+				<p i="4">Ohhh...no doors!</p>
+				<p i="5">Hey, I hope you wont be peeping me, little buddy!</p>
+				<p i="6">Princess: Mario?? Are you here?</p>
+			</scenes>			
+
+			<scenes scene="levelToadTown">
+				<p i="1">This sink is smelly! And it's out of water!</p>
+				<f i="2">My naked beauty! Wanna drink? (my bitch!)</f>
+				<f i="3">My Princess, welcome! want a drink?</f>
+				<f i="4">Welcome to our village, nude Princess! I hope you will enjoy your stay!</f>
+				<f i="5">Welcome to our village, Princess! I hope you will enjoy your stay!</f>
+				<f i="6">You might be an exhibitionist, Princess!</f>
+				<f i="7">I can be like this all day! Lalalalalalala</f>
+				<f i="8">Please leave me alone, Princess...</f>
 			</scenes>			
 			
 			<scenes scene="level1-1">
@@ -5377,6 +5399,8 @@ Enjoy!
 			<text name="ClickOnce">Click Once</text>
 			<text name="ClickBothPressZoom">Click in both or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
 			<text name="clickCreature">Click in the creature or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
+			<text name="heWentAway">He went away!</text>
+			<text name="sheWentAway">She went away!</text>
 			<text name="OrGivenNumber">or a given number to advance</text>
 			<text name="YouAreStarkNaked">You are stark naked!</text>
 			<text name="YourCumWasCleaned">Your cum was cleaned!</text>

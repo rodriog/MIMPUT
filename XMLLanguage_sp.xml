@@ -18,7 +18,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 -->
 
 		<game>
-			<lang>Espanol</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
+			<lang>Español</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
@@ -34,7 +34,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2b">Hey, there is\nsomething I need to check...♥</p>
 				<p i="2b">Hey, aqui hay\nalgo que necesito ver...♥</p>
  				<p i="3">Esto\no es algo\nsucio, tiene una seta, es\comestible. ♥</p>
- 				<p i="3a">A Toadella no le\ngusta que haga esto...</p>
+ 				<p i="3a">A Toadette no le\ngusta que haga esto...</p>
  				<p i="3b">Puedo hacer eso\ncuando YO quiera...</p>
  				<p i="4">Me siento tan llena,\nes una banana tierna.</p>
  				<p i="4a">Me imagino una fila\nllena de mis queridos Toads desnudos, todos sirviendome! ♥</p>
@@ -3778,6 +3778,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="10">(CHOOSE A NUMBER)\n1) Masturbate/Cancel         2) Go outside!\n3) Show your butt!</p>
 				<p i="11">(CHOOSE A NUMBER)\n1) Masturbate/Cancel\n2) Go inside!</p>
 				<p i="12">I... I cant leave! I... I am stuck! The only way is by breaking the cake! May I? (CHOOSE):</p>
+				<f i="13">Ohhh! A princesa\nestá zoando com o bolo PELADA! É uma vadia!</f>
+				<p i="14">Não...não pode ser!\nTem um macho está lá fora! Ohhhh!</p>
 			</scenes>
 
 			<scenes scene="dialogueSackToad"><!--sack where toads are freed-->
@@ -4083,6 +4085,26 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="poochie1">Arf Woof! (I like this corridor, the toads give me cookies all the time...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (I like the breeze of the roof, I feel so free...)</f>
 				<f i="poochie3">Woof Woof Waf! (Its hard to reach this place...there are many mice I like to lick...)</f>
+			</scenes>			
+			
+			<scenes scene="levelInner">
+				<p i="1">Princesa: O que é isso? cogumelos doidões?</p>
+				<p i="2">Oh! Este é um castelo onde as pessoas se casam! Eu lembro quando beijei as bochechas de Mário quando Booster tentou... casar e...me foder...</p>
+				<p i="3">Ok, isto deve ser um bar! Será que Mário está aqui?</p>
+				<p i="4">Ohhh...não há portas!</p>
+				<p i="5">Eiii, espero que você não esteja me espionando, garoto!</p>
+				<p i="6">Princesa: Mario?? Você está aqui?</p>
+			</scenes>			
+
+			<scenes scene="levelToadTown">
+				<p i="1">Esta pia fede! E está faltando água!</p>
+				<f i="2">Minha linda peladinha! Quer beber algo? (minha vadia!)</f>
+				<f i="3">Minha princesa, bem vinda! Quer beber alguma coisa?</f>
+				<f i="4">Bem vindo à nossa vila, Princesa nua! Espero que curta tudo por aqui!</f>
+				<f i="5">Bem vindo à nossa vila, Princesa! Espero que curta tudo por aqui!</f>
+				<f i="6">Você deve ser uma exibicionista, Princesa!</f>
+				<f i="7">Eu posso ficar assim sem parar! Lalalalalalala!</f>
+				<f i="8">Por favor me deixe sozinho, Princesa...</f>
 			</scenes>			
 			
 			<scenes scene="level1-1">
@@ -5381,6 +5403,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ClickOnce">Click Once</text>
 			<text name="ClickBothPressZoom">Click in both or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
 			<text name="clickCreature">Click in the creature or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
+			<text name="heWentAway">Ele foi embora!</text>
+			<text name="sheWentAway">Ele foi embora!</text>
 			<text name="OrGivenNumber">or a given number to advance</text>
 			<text name="YouAreStarkNaked">You are stark naked!</text>
 			<text name="YourCumWasCleaned">Your cum was cleaned!</text>

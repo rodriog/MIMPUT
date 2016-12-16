@@ -44,7 +44,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2a">Aqui vou eu,\nminha criaturinha linda...</p>
 				<p i="2b">Ei, há algo\nque preciso verificar...♥</p>
 				<p i="3">Não é uma coisa\ntão nojenta! Ele tem um cogumelinho, vou esfregar! ♥</p>
-				<p i="3a">Toadella não vai\ngostar de me ver fazendo isso...</p>
+				<p i="3a">Toadette não vai\ngostar de me ver fazendo isso...</p>
 				<p i="3b">Posso fazer\ntudo que eu quiser...</p>
 				<p i="4">Sinto-me lotada,\né uma bananinha daquelas!</p>
 				<p i="4a">Imagino uma fileira\nCHEIA de meus Toads pelados a me servir, hihi ♥</p>
@@ -3786,6 +3786,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!</p>
 				<p i="11">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar\n2) Entrar!</p>
 				<p i="12">Eu... Não consigo sair! Eu... Estou ENTALADA! A única forma é se eu quebrar o bolo! Eu posso? (ESCOLHA):</p>
+				<f i="13">Ohhh! A princesa\nestá zoando com o bolo PELADA! É uma vadia!</f>
+				<p i="14">Não...não pode ser!\nTem um macho está lá fora! Ohhhh!</p>
 			</scenes>
 
 			<scenes scene="dialogueSackToad"><!--sack where toads are freed-->
@@ -4091,6 +4093,26 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="poochie1">Arf Woof! (Eu gosto desse corredor, os Toads me dão biscoitos toda a hora...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (Eu gosto da brisa do telhado, sinto-me livre...)</f>
 				<f i="poochie3">Woof Woof Waf! (Como é difícil chegar aqui... há tantos ratos amigos que gosto de lamber...)</f>
+			</scenes>			
+			
+			<scenes scene="levelInner">
+				<p i="1">Princesa: O que é isso? cogumelos doidões?</p>
+				<p i="2">Oh! Este é um castelo onde as pessoas se casam! Eu lembro quando beijei as bochechas de Mário quando Booster tentou... casar e...me foder...</p>
+				<p i="3">Ok, isto deve ser um bar! Será que Mário está aqui?</p>
+				<p i="4">Ohhh...não há portas!</p>
+				<p i="5">Eiii, espero que você não esteja me espionando, garoto!</p>
+				<p i="6">Princesa: Mario?? Você está aqui?</p>
+			</scenes>			
+			
+			<scenes scene="levelToadTown">
+				<p i="1">Esta pia fede! E está faltando água!</p>
+				<f i="2">Minha linda peladinha! Quer beber algo? (minha vadia!)</f>
+				<f i="3">Minha princesa, bem vinda! Quer beber alguma coisa?</f>
+				<f i="4">Bem vindo à nossa vila, Princesa nua! Espero que curta tudo por aqui!</f>
+				<f i="5">Bem vindo à nossa vila, Princesa! Espero que curta tudo por aqui!</f>
+				<f i="6">Você deve ser uma exibicionista, Princesa!</f>
+				<f i="7">Eu posso ficar assim sem parar! Lalalalalalala!</f>
+				<f i="8">Por favor me deixe sozinho, Princesa...</f>
 			</scenes>			
 			
 			<scenes scene="level1-1">
@@ -5392,6 +5414,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ClickOnce">Clique uma vez</text>
 			<text name="ClickBothPressZoom">Clique em ambos ou pressione a tecla \'-\' para aproximar câmera, ou {NEXTKEY} para avançar</text>
 			<text name="clickCreature">Clique na criatura ou pressione a tecla \'-\' key para aproximar câmera, ou {NEXTKEY} para avançar</text>
+			<text name="heWentAway">Ele foi embora!</text>
+			<text name="sheWentAway">Ele foi embora!</text>
 			<text name="OrGivenNumber">ou um número desejado para avançar</text>
 			<text name="YouAreStarkNaked">Você está totalmente PE-LA-DA!</text>
 			<text name="YourCumWasCleaned">Seu corpinho cheio de porra foi limpo!</text>
