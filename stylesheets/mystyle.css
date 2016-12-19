@@ -47,10 +47,3 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-.boxed {
-    hight: 500pc;
-    width: 300px;
-    border: 2px solid black;
-    padding: 25px;
-    margin: 25px;
-} 
