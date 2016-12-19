@@ -48,5 +48,9 @@ li.dropdown {
     display: block;
 }
 .boxed {
-  border: 1px solid black ;
+    hight: 500pc;
+    width: 300px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
 } 
