@@ -37,15 +37,15 @@ li a, .dropbtn {
     text-decoration: none;
 }
 
-li a:hover, .dropdownmenu:hover .dropbtn {
+li a:hover, .dropdown:hover .dropbtn {
     background-color: red;
 }
 
-li.dropdownmenu {
+li.dropdown {
     display: inline-block;
 }
 
-.dropdownmenu-content {
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
@@ -53,7 +53,7 @@ li.dropdownmenu {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.dropdownmenu-content a {
+.dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -61,6 +61,6 @@ li.dropdownmenu {
     text-align: left;
 }
 
-.dropdownmenu-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #f1f1f1}
 
 .show {display:block;}
