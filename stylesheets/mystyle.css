@@ -50,7 +50,7 @@ li.dropdown {
 .boxed {
     hight: 500pc;
     width: 300px;
-    border: 25px solid black;
+    border: 2px solid black;
     padding: 25px;
     margin: 25px;
 } 
