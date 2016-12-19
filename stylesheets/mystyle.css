@@ -1,6 +1,4 @@
 ul {
-    -webkit-transform: scaleY(1);
-    transform: scaleY(1);
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,6 +27,8 @@ li.dropdown {
 }
 
 .dropdown-content {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
     display: none;
     position: absolute;
     background-color: #f9f9f9;
