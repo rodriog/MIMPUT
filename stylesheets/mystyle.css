@@ -35,8 +35,6 @@ li.dropdown {
 }
 
 .dropdown-content a {
-    -webkit-transform: scaleY(100);
-    transform: scaleY(100);
     color: black;
     padding: 12px 16px;
     text-decoration: none;
