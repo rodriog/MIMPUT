@@ -1379,6 +1379,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="14">Toadsworth: Oh Princesa, por favor! Você deve estar preparada para o pior. Como um tutor, devo dar a minha pir... orientação para seu êxito.</f>
 				<f i="15">Toadsworth: Bem, meu p... meu pa... meu pequeno membro precisa de uma ajuda. Você sabe, o fornicamento. É um processo saudável.</f>
 				<f i="16">Toadsworth: Olá, querida! Posso... posso perguntar algo para você?</f>
+					<p i="16a">Sim, claro, Toadsworth...</p>
 				<f i="17">Toadsworth: Por favor, princesa, mostre-me seus seios por um instante... Preciso sentir-me bem para minhas tarefas hoje. Daí poderá ir.</f>
 				<p i="18">(ESCOLHA UM NÚMERO)\n1) Obedeça-o... \n2) Ignore-o (vá embora)</p>
 				<p i="19">(ESCOLHA UM NÚMERO): 1) Tentar fechar as pernas   2) Deixá-lo por uma mão na sua buceta\n3) Ser cheirada lá!  4) Lamber sua buceta  5) Tocar uma bronha  6) Excitá-la de frente\n 7) Forçar uma pirocada na buceta   8) Trepar contigo!  9) Trepar mais rápido!</p>
@@ -3784,11 +3785,13 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="7">Eu não posso simplesmente tirar minha roupa aqui! O chão está sujo e quente do forno próximo, e Zess está perto! Ou eu tiro tudo de uma vez (usar ícone do HUD) ou voltar aqui já peladinha...</p>
 				<p i="8">Mas como? É muito pequeno... O máximo que posso fazer é...sentar nele com minha bundinha e melá-la (*Risos*)</p>
 				<p i="9">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar    2) Entrar!</p>
-				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!</p>
+				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!  4) Um toad está vindo!   5) Dois toads levarão o bolo!</p>
 				<p i="11">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar\n2) Entrar!</p>
 				<p i="12">Eu... Não consigo sair! Eu... Estou ENTALADA! A única forma é se eu quebrar o bolo! Eu posso? (ESCOLHA):</p>
 				<f i="13">Ohhh! A princesa\nestá zoando com o bolo PELADA! É uma vadia!</f>
-				<p i="14">Não...não pode ser!\nTem um macho está lá fora! Ohhhh!</p>
+				<f i="13a">Ei, amigo, vamos\nlevar o bolo! A festa vai começar! Ajuda aqui!</f>
+				<p i="14">Não...não pode ser!\nTem um macho lá fora! Ohhhh!</p>
+				<p i="15">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!</p>
 			</scenes>
 
 			<scenes scene="dialogueSackToad"><!--sack where toads are freed-->
@@ -4115,6 +4118,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="7">Eu posso ficar assim sem parar! Lalalalalalala!</f>
 				<f i="8">Por favor me deixe sozinho, Princesa...</f>
 			</scenes>			
+
+			<scenes scene="worldmap9">
+				<f i="xnaut1">X-Naut: Pare!! Você não pode ultrapassar! Levante as mãos, você está presa!!</f>
+				<p i="xnaut2">Nãoooo! Espere... Eu estava tentando ajudar E.Gadd, um cientista do Reino dos Cogumelos que...</p>
+				<f i="xnaut3">X-Naut: Não quero saber! Venha comigo!</f>
+			</scenes>			
 			
 			<scenes scene="level1-1">
 				<f i="1">Princesa! Ficar andando desse jeito fará os goombas ficarem loucões com certeza!</f>
@@ -4400,7 +4409,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="80">Princesa: O que é... isto?</p>
 				<f i="81">Isto é meu conector de força, Princesa. O Senhor Grodus o utiliza para programar computadores menores à minha base.</f>
 				<p i="82">(ESCOLHA UM NÚMERO)\n1) Chupe-o (!?)  2) Use os seios (!?) \n3) Foda-o (!?)  4) Sair</p>
-				<p i="83">Você está de volta a seu quarto. Você tem que lembrar da próxima tarefa. Você pode tentar ir à sala do TEC ou no laboratório de poções.</p>
+				<p i="83">Você está de volta a seu quarto. Você tem que lembrar da próxima tarefa, como ir à sala do TEC!</p>
 				<p i="84">Isto tem cheiro de...porra quente e forte!</p>
 				<p i="85">Isto tem cheiro de...LEITE!</p>
 				<p i="86">Isto tem cheiro de...minha bucetinha?!</p>
@@ -5399,11 +5408,16 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="pressToTalkTEC">Pressione {NEXTKEY} para conversar com TEC-XXX</text>
 			<text name="pressSpaceToAdvance">Pressione {NEXTKEY} para avançar</text>
 			<text name="pressSpaceToLeave">Pressione {NEXTKEY} para sair</text>
+			<text name="pressSpaceToStandUp">Pressione {NEXTKEY} para se levantar</text>
+			<text name="pressSpaceToUsePipe">Presssione {NEXTKEY} para usar o cano</text>
+			<text name="pressRUNToPutAssHole">Pressione \'CORRER\' para enfiar lá dentro de seu cuzinho!</text>
 			<text name="pressSpaceToHelpHer">Pressione {NEXTKEY} para ajudá-la!</text>
 			<text name="pressSpaceToSeeOptions">Mantenha pressionando {NEXTKEY} para ver opções</text>
 			<text name="pressSPACEorClickButtons">Pressione {NEXTKEY} para avançar ou clique nos botões para informar áreas desejadas</text>
 			<text name="orPressUpDown">ou pressione \'CIMA\' ou \'BAIXO\'</text>
 			<text name="orPressUp">ou pressione \'CIMA\'</text>
+			<text name="SPACE">ESPAÇO</text>
+			<text name="SHIFT">SHIFT</text>
 			<text name="toInteract">para INTERAGIR</text>
 			<text name="toBeFucked">para ser COMIDA</text>
 			<text name="toEnter">para ENTRAR</text>

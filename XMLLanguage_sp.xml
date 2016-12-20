@@ -1370,6 +1370,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="14">Toadsworth: Oh Princess, please! You should be really prepared for the worst. As a tutor, I\'ll give you my di.....my hands for our success!</f>
 				<f i="15">Toadsworth: Well, my... my di....my little thing needed some care. You know, the wanking process. You should know its healthy.</f>
 				<f i="16">Toadsworth: Hello, my dear! Can I...Can I ask something from you?</f>
+					<p i="16a">Sim, claro, Toadsworth...</p>
 				<f i="17">Toadsworth: Please, Princess, show me your boobs a bit... I need to feel great for my duties today. Then you can go.</f>
 				<p i="18">(Press a Number)\n1) Obey him... \n2) Just ignore it (go away)</p>
 				<p i="19">(Press a Number): 1) Try to close legs,  2) Let him put a hand in your pussy\n3) Be sniffed by him  4) Lick your pussy  5) Teasing with his dick  6) Frontside teasing\n 7) Force dick in your pussy   8) Fuck you  9) Fuck you faster</p>
@@ -3067,7 +3068,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">I need to... get free from those... oooh! I am getting weak!</p>
 				<p i="3">Toad?? Is it\nyou? P-Please remove those from me!</p>
 				<f i="3">Princess! What are\nyou...doing?</f>
-				<p i="4">Please dont look!\nJust Remove them..."</p>
+				<p i="4">Please dont look!\nJust Remove them...</p>
 				<f i="4">Oh I am sorry!\nIt was not my intention... Well, okay then...</f>
 				<p i="5">Please, Toad, just\ndo your job! Ooh!</p>
 				<f i="5">First I have\nto take care of those chains... Oh those legs...</f>
@@ -3775,11 +3776,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="7">I cant just remove my clothes here! The floor is dirty and hot, and Zess T is nearby! I can either drop it all at once (HUD icon) or return to here already nekkid...</p>
 				<p i="8">But how? Its too small... the maximum I can do is...sit on it with my lovely butt (*Giggles*)</p>
 				<p i="9">(CHOOSE A NUMBER)\n1) Masturbate/Cancel    2) Go inside!</p>
-				<p i="10">(CHOOSE A NUMBER)\n1) Masturbate/Cancel         2) Go outside!\n3) Show your butt!</p>
+				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!  4) Um toad está vindo!   5) Dois toads levarão o bolo!</p>
 				<p i="11">(CHOOSE A NUMBER)\n1) Masturbate/Cancel\n2) Go inside!</p>
 				<p i="12">I... I cant leave! I... I am stuck! The only way is by breaking the cake! May I? (CHOOSE):</p>
 				<f i="13">Ohhh! A princesa\nestá zoando com o bolo PELADA! É uma vadia!</f>
-				<p i="14">Não...não pode ser!\nTem um macho está lá fora! Ohhhh!</p>
+				<f i="13a">Ei, amigo, vamos\nlevar o bolo! A festa vai começar! Ajuda aqui!</f>
+				<p i="14">Não...não pode ser!\nTiene un hombre lá fora! Ohhhh!</p>
+				<p i="15">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!</p>
 			</scenes>
 
 			<scenes scene="dialogueSackToad"><!--sack where toads are freed-->
@@ -4107,6 +4110,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="8">Por favor me deixe sozinho, Princesa...</f>
 			</scenes>			
 			
+			<scenes scene="worldmap9">
+				<f i="xnaut1">X-Naut: Pare!! Você não pode ultrapassar! Levante as mãos, você está presa!!</f>
+				<p i="xnaut2">Nãoooo! Espere... Eu estava tentando ajudar E.Gadd, um cientista do Reino dos Cogumelos que...</p>
+				<f i="xnaut3">X-Naut: Não quero saber! Venha comigo!</f>
+			</scenes>			
+
 			<scenes scene="level1-1">
 				<f i="1">Princess! Walking like that will let all the Goombas go Crazy for sure!</f>
 				<f i="2">Use Mushrooms to grow bigger! The Goombas will like that!</f>
@@ -5387,10 +5396,15 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="pressToTalkTEC">Presione {NEXTKEY} para hablar con TEC-XXX</text>
 			<text name="pressSpaceToAdvance">Press {NEXTKEY} to advance</text>
 			<text name="pressSpaceToLeave">Press {NEXTKEY} to leave</text>
+			<text name="pressSpaceToStandUp">Pressione {NEXTKEY} para se levantar</text>
+			<text name="pressSpaceToUsePipe">Presssione {NEXTKEY} para usar o cano</text>
+			<text name="pressRUNToPutAssHole">Pressione \'CORRER\' para enfiar lá dentro de seu cuzinho!</text>
 			<text name="pressSpaceToHelpHer">Press {NEXTKEY} to help her!</text>
 			<text name="pressSpaceToSeeOptions">Keep pressing {NEXTKEY} to see options</text>
 			<text name="pressSPACEorClickButtons">Press {NEXTKEY} to advance or click the buttons to specify areas you want</text>
 			<text name="orPressUpDown">or Press \'UP\' or \'DOWN\'</text>
+			<text name="SPACE">ESPAÇO</text>
+			<text name="SHIFT">SHIFT</text>
 			<text name="orPressUp">or Press \'UP\'</text>
 			<text name="toInteract">to INTERACT</text>
 			<text name="toBeFucked">to be FUCKED</text>
