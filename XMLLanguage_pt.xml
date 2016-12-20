@@ -4357,6 +4357,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="28">TEC-XXX:  Bem-vinda de volta, Princesa.</f>
 				<p i="29">Bem-vinda? Você não notou que estou visível de novo? Sinto-me totalmente exposta! Por que fez isso comigo?</p>
 				<f i="30">TEC-XXX: Não foi culpa minha, Princesa.</f>
+					<p i="30a">Princesa: Oh não!! O armário está...TRANCADO!</p>
 				<p i="31">O armário não está abrindo! Por favor me ajude!</p>
 				<f i="32">TEC-XXX: Desculpe, mas o armário não está conectado à rede! Não posso fazer nada, Princesa!</f>
 				<p i="33">Ohhhh, e o que eu posso fazer?</p>

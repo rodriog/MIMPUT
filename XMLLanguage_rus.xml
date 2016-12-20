@@ -4361,6 +4361,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="28">TEC-XXX:  Welcome back, Princess.</f>
 				<p i="29">Welcome back? Did you notice I\'m visible again? Why did you do this to me?</p>
 				<f i="30">TEC-XXX: That\'s not my fault, Princess.</f>
+					<p i="30a">Princess: Oh my!! The locker..is LOCKED!</p>
 				<p i="31">The locker isn\'t opening! Please help me!</p>
 				<f i="32">TEC-XXX: Sorry but that locker isn\'t connected to the network! I can\'t do anything, Princess!</f>
 				<p i="33">Ohhhh what can I do?</p>
