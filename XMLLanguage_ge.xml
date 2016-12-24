@@ -3946,7 +3946,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="boob3">\nOh, no! I let my\nbare boobies leak!</p>
 				<p i="boob4">\nIt\'s too much for\n my melons!</p>
 				
-				<p i="sex1">\nHe\'s eating...mee!</p>
+				<p i="sexVaginal1">\nHe\'s eating...mee!</p>
+				<!--More to be done later-->
+				<p i="sexAnal1">He\'s eating...my ass!</p>
 				<!--More to be done later-->
 			</scenes>
 			
@@ -4956,7 +4958,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 											the suit, marking her earlier misadventure. She still felt a bit dizzy when she came upon a group of igloos with steam pouring out of their 
 											chimneys. Peach\'s stomach rumbled and she wondered if they were cooking something, but desperately felt the need to bathe first.\n
 
-											She crept closer to the igloos, not seeing anyone around but some strange chubby snowmen someone had made. Peach poked her head into some of the 
+											She walked closer to the igloos, not seeing anyone around but some strange chubby snowmen someone had made. Peach poked her head into some of the 
 											igloos, but didn\'t find anything except for some warm fires and personal belongings. Behind one of the igloos, she found a thick wooden shower 
 											stall with a small green pipe. \'At last! A shower!\' Peach cheered in delight. She looked around again for onlookers, then stripped off her soiled 
 											penguin suit. Feeling the cold winter air against her sweaty, naked skin made her tremble with desire. She giggled, \'Mmm, I love the crisp 
@@ -5638,6 +5640,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="FxAndMusic">FX AND MUSIC</text>
 			<text name="NoMusic">NO MUSIC</text>
 			<text name="AllMuted">ALL MUTED</text>
+
+			<text name="ChooseScene">Choose Scene</text>
+			<text name="ReplayScene">Replay Scene</text>
+			<text name="PreviousScene">Previous Scene</text>
+			<text name="NextScene">Next Scene</text>
 			
 			<text name="NOTIMPL">*NOT YET IMPLEMENTED*</text>
 			<text name="or">or</text>
@@ -6047,11 +6054,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_ClassicNymphGait">Classic Nymph Gait</text>
 				<text name="ScreenOptions_SluttyWalkClassic">(If YES, her \'slutty\' walk will change to classic)</text>
 			<text name="ScreenOptions_Header_Protection">Protection (Blink)</text>
+				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(If NO, no protection after using doors, pipes, or after a erotic scene. Doesn\'t affect Starman)</text>
 			<text name="ScreenOptions_Header_LingerieCanShred">Lingerie can be shred</text>
 				<text name="ScreenOptions_LingerieCanShredDescription">(If NO, she won\'t lose her garter, heels, stockings and gloves when hit. BEWARE, she will lose a life if hit while her horny bar is zero)</text>
+			<text name="ScreenOptions_Header_NewPeachPortrait">Teen Peach Portrait</text>
+			<text name="ScreenOptions_Header_NewKrystalPortrait">Teen Krystal Portrait</text>
 				<text name="ScreenOptions_NewPortraitDescription">(YES: Young version. NO: Dirty Monkey version)</text>
-			<text name="ScreenOptions_Header_NewPeachPortrait">New Peach Portrait</text>
-				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(If NO, no protection after using doors, pipes, or after a erotic scene. Doesn\'t affect Starman)</text>
 		<text name="ScreenOptions_Title_ENGINE">ENGINE</text>
 			<text name="ScreenOptions_Header_FullScreen">FullScreen Mode</text>
 			<text name="ScreenOptions_Header_Quality">CPU+: Quality</text>

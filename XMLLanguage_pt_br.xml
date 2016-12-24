@@ -621,7 +621,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="vine1">
 				<p i="1">Eiii! Não...\nme derrube! Ooooh, não!</p>
 				<p i="2">Ei, Ahhhh, PARE!\nAhh! Você está... comendo meu cu!?</p>
-				<p i="3">Ahhhhhh!! Meu rabinho já engoliu tudo! Oooh! Então...faça-me gozar ao menos!</p>
+				<p i="3">Ahhhhhh!! Meu\nrabinho já engoliu tudo! Oooh! Então...faça-me gozar ao menos!</p>
 				<p i="4">Ooooh finalmente!!\nGozei como uma puta desinibida! Ai meu cuzinho...</p>
 			</scenes>
 			<scenes scene="vine2">
@@ -3373,7 +3373,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="25">Minha mãe é minha modelo! Apesar de ser agora uma vendedora, eu me tornei uma parideira de todos os tempos como ela, e ganhei os recordes dela...Ou quase todos!</f>
 				
 				<p i="26">(ESCOLHA UM NÚMERO)\n1) \'Quem é você\'?           2) \'O QUÊ é você?\'\n3) \'De onde você é\'?    4) Ir embora</p>
-				<f i="27">Shygirl: Eu? Meu nome é Myuu! Eu controlo este quisque como a dona, a empregadora e assistente dos necessitados! Este último é o que faço mais!</f>
+				<f i="27">Shygirl: Eu? Meu nome é Myuu! Eu controlo este quiosque como a dona, a empregadora e assistente dos necessitados! Este último é o que faço mais!</f>
 				<f i="28">Shygirl: Eu sou uma Shygirl! Você não nos vê por aí comumente. Você pode achar que os Goombas são as tropas básicas do Bowser, mas de onde acha que eles vieram? Hihi! Minhas irmãs me enviam papiros com imagens de vez em quando!</f>
 				<f i="29">Shygirl: Aqui é a Vila Shyguy, burrinha! Bom, este nome é o que as outras falam da cidade. Para ser honesta, podia ter nascido em qualquer lugar! É provavelmente um acordo para nomear assim, ou uma conspiração!</f>
 			</scenes>
@@ -3957,7 +3957,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="boob3">\nOh, não! Deixei\nmeus seios nus vazarem!</p>
 				<p i="boob4">\nÉ porra demais\npara meus melões!</p>
 				
-				<p i="sex1">\nEle está...me FODENDO TODA!</p>
+				<p i="sexVaginal1">\nHe\'s eating...mee!</p>
+				<!--More to be done later-->
+				<p i="sexAnal1">He\'s eating...my ass!</p>
 				<!--More to be done later-->
 			</scenes>
 			
@@ -5435,7 +5437,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="YouAreStarkNaked">Você está totalmente PE-LA-DA!</text>
 			<text name="YourCumWasCleaned">Seu corpinho cheio de porra foi limpo!</text>
 			<text name="NotEnough">Insuficiente(s)</text>
-			<text name="creaturesWantingToEat"> querendo comer</text>
+			<text name="creaturesWantingToEat">querendo comer</text>
 			<text name="GotKeyButt">Você achou uma chave! Mas ela entrou...direto em sua bundinha!</text>
 			<text name="FoundKey">Você achou uma chave!</text>
 			<text name="ThereIs">Isto é</text>
@@ -5547,7 +5549,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ChangeCharacter">Mudar Personagem</text>
 			<text name="ChangeCostume">Mudar Roupa</text>
 			<text name="Play">Jogar</text>
-			<text name="BoobSizes">Tamanho: Peitos</text>
+			<text name="BoobSizes">Tam. Peitos</text>
 			<text name="HairCum">Sêmen no Cabelo</text>
 			<text name="HeadCum">Sêmen no Rosto</text>
 			<text name="BodyCum">Sêmen no Corpo</text>
@@ -5653,6 +5655,11 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="FxAndMusic">Som/MUS</text>
 			<text name="NoMusic">Sem MUS</text>
 			<text name="AllMuted">Tudo MUDO</text>
+
+			<text name="ChooseScene">Escolher Cena</text>
+			<text name="ReplayScene">Repetir Cena</text>
+			<text name="PreviousScene">Cena Anterior</text>
+			<text name="NextScene">Próxima Cena</text>
 			
 			<text name="NOTIMPL">*NÃO FEITO AINDA*</text>
 			<text name="or">ou</text>
@@ -6062,11 +6069,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_ClassicNymphGait">Caminhada Clássica</text>
 				<text name="ScreenOptions_SluttyWalkClassic">(Se SIM e ela tiver PUTA, sua caminhada mudará)</text>
 			<text name="ScreenOptions_Header_Protection">Proteção (Pisca)</text>
+				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(Se NÃO, não haverá proteção depois de usar portas, canos ou depois de cenas)</text>
 			<text name="ScreenOptions_Header_LingerieCanShred">Lingerie podem rasgar</text>
 				<text name="ScreenOptions_LingerieCanShredDescription">(Se NÃO, ela não pederá luvas, sapatos, meiões, etc. Mas ela PODE PERDER VIDA se tiver só com eles com a excitação em 0%)</text>
-				<text name="ScreenOptions_NewPortraitDescription">(SIM: Versão JOVEM. NÃO: Versão Madura)</text>
 			<text name="ScreenOptions_Header_NewPeachPortrait">Novo Avatar da Peach</text>
-				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(Se NÃO, não haverá proteção depois de usar portas, canos ou depois de cenas)</text>
+			<text name="ScreenOptions_Header_NewKrystalPortrait">Novo Avatar da Peach</text>
+				<text name="ScreenOptions_NewPortraitDescription">(SIM: Versão JOVEM. NÃO: Versão Madura)</text>
 		<text name="ScreenOptions_Title_ENGINE">CONFIG</text>
 			<text name="ScreenOptions_Header_FullScreen">Modo Tela Cheia</text>
 			<text name="ScreenOptions_Header_Quality">CPU+: Qualidade</text>
