@@ -3865,94 +3865,102 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="die1">You will lose a life. This is mostly used if you are stuck or a game bug. Are you sure?\n1)YES\n2)NO</f>
 				<f i="die2">Attempt failed! Please press ENTER (Panic Screen) and click to \'Go Back to Worldmap\'</f>
 				
-				<!--BALLOONS (random dialogues depending on her state)-->
-				<p i="restrain1">\nMy cherryslit is acting funny with this gooey thing!</p>
-				<p i="restrain2">\nWhat if Toadsworth sees me like that?</p>
-				<p i="restrain3">\nHey....What are you doing...</p>
-				<p i="restrain4">\nHey, don\'t touch me there!</p>
-				<p i="restrain5">\nPlease DON\'T!</p>
-				<p i="restrain6">\nDon\'t look!</p>
-				<p i="restrain7">\nDo I really need to do this?</p>
-				<p i="restrain8">\nAh, ah aaah!</p>
-				<p i="restrain9">\nOH!</p>
-				<p i="restrain10">Am I an\nexhibitionist doing this all in the open?</p>
-				<p i="restrain11">Shouldn\'t we\ndoing this at least in an hidden place?</p>
-				<p i="restrain12">\nNooooo!</p>
-				<p i="restrain13">\nOhh no!</p>
-				<p i="restrain14">\nErhm, YES!</p>
-				<p i="restrain15">\nI\'m so ashamed!</p>
-				<p i="restrain16">\nWhy haven\'t I experienced this before?</p>
-				<p i="restrain17">\nI\'ve never had it this good!</p>
-				<p i="restrain18">\nI hope nobody else ...ooh..is watching!</p>
-				<p i="restrain19">\nMmm! My pussy feels so good!</p>
-				<p i="restrain20">\nI\'m gonna cum! I\'m gonna cum!</p>
-				<p i="restrain21">\nIt\'s slippery!</p>
-				<p i="restrain22">\nIt\'s stinky!</p>
-				<p i="restrain23">\nMy...pussy is...itching!</p>
-				<p i="restrain24">\nI\'m acting like a dirty slut!</p>
-				<p i="restrain25">\nI can\'t wait to have this in my pussy!</p>
-				<p i="restrain26">\nDon\'t!</p>
+				<!--BALÕES DE TEXTO (diálogos aleatórios dependendo do estado dela: restrain, slut, climax...)-->
+				<!--PODE-SE INCLUIR MAIS ITENS ABAIXO!-->
+				<p i="look">\nO quê?? Isto está me deixando... excitada!</p>
+				<p i="look">\nMas o que é isso? Minha nossa! Eu... Er...</p>
 				
-				<p i="slut1">\nDon\'t dare forgetting my hole!</p>
-				<p i="slut2">\nYes! Yes!</p>
-				<p i="slut3">\nPlease Fuck me! Do it dirty!</p>
-				<p i="slut4">\nPound me more!</p>
-				<p i="slut5">\nOh God! It\'s so good!</p>
-				<p i="slut6">\nWow! What a dick!</p>
-				<p i="slut7">\nWhat a cute little mushroom! ♥</p>
-				<p i="slut8">\nIt\'s so addictive! Oooh!</p>
-				<p i="slut9">\nI may need to repeat this all day!</p>
-				<p i="slut10">\nSo wonderful!</p>
-				<p i="slut11">I can\'t stand still\n seeing this dick banging along!</p>
-				<p i="slut12">I\'m acting\nlike a dirty slut but it feels so good!</p>
-				<p i="slut13">\nHow about this in my ass!</p>
-				<p i="slut14">\nI want this\ninside of me so bad!</p>
-				<p i="slut15">\nMmm! This is sooo good!</p>
-				<p i="slut16">\nThis is making me so hot!</p>
-				<p i="slut17">\nHurry up and give me your cum!</p>
-				<p i="slut18">\nI\'m becoming addicted to this!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="generalScene">\nMinha bucetinha está toda fogosa com essa melequeira!</p>
+				<p i="generalScene">\nO que Toadsworth faria se me visse assim?</p>
+				<p i="generalScene">\nEi....O que você está fazendo...</p>
+				<p i="generalScene">\nEi, NÃO me toque aí!</p>
+				<p i="generalScene">\nPor favor NÃO!</p>
+				<p i="generalScene">\nNÃO OLHE!</p>
+				<p i="generalScene">\nEu preciso mesmo fazer isso?</p>
+				<p i="generalScene">\nAh, ah aaah!</p>
+				<p i="generalScene">\nOH!</p>
+				<p i="generalScene">Eu seria\numa exibicionista ao fazer tudo isso em público?</p>
+				<p i="generalScene">Não deveríamos\nfazer isso ao menos num local escondido?</p>
+				<p i="generalScene">\nNãoooo!</p>
+				<p i="generalScene">\nOhh não!</p>
+				<p i="generalScene">\nÉée... SIM!</p>
+				<p i="generalScene">\nEstou com tanta vergonha!</p>
+				<p i="generalScene">\nPor que eu não experimentei isso antes?</p>
+				<p i="generalScene">\nNunca tive tanto prazer assim!</p>
+				<p i="generalScene">\nEspero que ninguem mais...ooh..esteja nos vendo!</p>
+				<p i="generalScene">\nHummm! Minha racha está tão tarada!</p>
+				<p i="generalScene">\nEu vou GOZAR! vou GOZAAAAR!</p>
+				<p i="generalScene">\nEstá escorregadio!</p>
+				<p i="generalScene">\nEstá fedendo!</p>
+				<p i="generalScene">\nMinha xana...está coçando!</p>
+				<p i="generalScene">\nEstou agindo como uma puta sacana!</p>
+				<p i="generalScene">\nNão posso esperar para tê-lo dentro de mim!</p>
+				<p i="generalScene">\nN-Nãaao!</p>
 				
-				<p i="climax1">\nOhhhhhhh! ♥</p>
-				<p i="climax2">\nAhhhh!</p>
-				<p i="climax3">\nI\'ts...hot\ninside my.....honey pot! ♥</p>
-				<p i="climax4">\nOhhh he doesn\'t stop cumming!</p>
-				<p i="climax5">\nThe smell is making me so horny!</p>
-				<p i="climax6">\nHow embarrassing! It\'s filthy!</p>
-				<p i="climax7">\nThat smell is really making me dizzy!</p>
-				<p i="climax8">\nIt\'s steamy all over there!</p>
-				<p i="climax9">\nI\'m a dirty princess!</p>
-				<p i="climax10">\nHaaah...I could use a shower soon.</p>
-				<p i="climax11">\nI wonder if this will drip out while I\'m walking...</p>
-				<p i="climax12">\nAhhh I LOVE you! ♥</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="generalSceneSlut">\nNão esqueça de meu buraquinho!</p>
+				<p i="generalSceneSlut">\nSim! SIM!</p>
+				<p i="generalSceneSlut">\nPor favor me coma! Com safadeza!</p>
+				<p i="generalSceneSlut">\nPor favor me fode!</p>
+				<p i="generalSceneSlut">\nOh, céus! É tãaaao bom!</p>
+				<p i="generalSceneSlut">\nUau! Que piroca!</p>
+				<p i="generalSceneSlut">\nQue cogumelinho gracioso! ♥</p>
+				<p i="generalSceneSlut">\nÉ tão viciante! Oooh!</p>
+				<p i="generalSceneSlut">\nPreciso fazer isso TODOS os dias!</p>
+				<p i="generalSceneSlut">\nTão maravilhoso!</p>
+				<p i="generalSceneSlut">Não me seguro vendo essa piroca solta por aí!</p>
+				<p i="generalSceneSlut">Estou agindo como uma vadia mas isso é tão bom!</p>
+				<p i="generalSceneSlut">\nQue tal no meu cuzinho?</p>
+				<p i="generalSceneSlut">\nQuero isso\ndentro de mim todinha!</p>
+				<p i="generalSceneSlut">\nHumm! Isso é tãaao bom!</p>
+				<p i="generalSceneSlut">\nIsso me deixa tão fogosa!</p>
+				<p i="generalSceneSlut">\nApresse-se e me dê sua porra!</p>
+				<p i="generalSceneSlut">\nEstou ficiando viciadinha nisso!</p>
 				
-				<p i="climaxSlut1">\nThis smell just makes me want to go WILD! ♥</p>
-				<p i="climaxSlut2">\nHe\'s making me cum harder than I\'ve ever cum before!</p>
-				<p i="climaxSlut3">\nGod, I need more of that pleasure!</p>
-				<p i="climaxSlut4">Mm! That was\ngood!  I may want to search for more of these guys!</p>
-				<p i="climaxSlut5">\nYou\'re MY king and I\'m YOUR slut!</p>
-				<p i="climaxSlut6">\nI want you\ninside me much more!</p>
-				<p i="climaxSlut7">\nWith cocks like these, who needs Mario?</p>
-				<p i="climaxSlut8">\nAhhh! It feels so good inside me! ♥</p>
-				<p i="climaxSlut9">\nI want you more inside my holes!</p>
-				<p i="climaxSlut10">\nThere\'s so much cum inside me now!</p>
-				<p i="climaxSlut11">\nOh god! The cum is starting to overflow!</p>
-				<p i="climaxSlut12">\nAll this cum is making me so horny!</p>
-				<p i="climaxSlut13">\nMmmm...I never knew saving the kingdom was this much fun...</p>
-				<p i="climaxSlut14">\nKeep it cumming! ♥</p>
-				<p i="climaxSlut15">\nYes! Cum all over my slutty body!</p>
-				<p i="climaxSlut16">\nI want more cum! I NEED more cum!</p>
-				<p i="climaxSlut17">\nI need this dick all the time! ♥</p>
-				<p i="climaxSlut18">\nThis is causing me to shiver with odor!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="climax">\nOhhhhhhh! ♥</p>
+				<p i="climax">\nAhhhh!</p>
+				<p i="climax">\nEstá...quen-\ntinho no meu favo de mel! ♥</p>
+				<p i="climax">\nOhhh eke não para de gozaaar!</p>
+				<p i="climax">\nO odor esté me fazendo excitada!</p>
+				<p i="climax">\nQue vergonha! Que odor de macho!</p>
+				<p i="climax">\nEste cheiro está me deixando tonta!</p>
+				<p i="climax">\nEstá uma fumaça de amor por aqui!</p>
+				<p i="climax">\nEu sou uma princesa safada!</p>
+				<p i="climax">\nHaaah...Preciso tomar um banho!</p>
+				<p i="climax">\nEspero que essa porra não fique pingando quando andar por aí...</p>
+				<p i="climax">\nAhhh EU TE AMO! ♥</p>
 				
-				<p i="boob1">\nOoh, my boobies\nare sooo dirty!</p>
-				<p i="boob2">\nWheck! My tits\nare in the cake!</p>
-				<p i="boob3">\nOh, no! I let my\nbare boobies leak!</p>
-				<p i="boob4">\nIt\'s too much for\n my melons!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="climaxSlut">\nEste odor me faz ficar SELVAGEM! ♥</p>
+				<p i="climaxSlut">\nEle está me fazendo gozar como nunca antes!</p>
+				<p i="climaxSlut">\nOh Rainha cogumelo, quero mais desse prazer!</p>
+				<p i="climaxSlut">Humm! Isto é\ndelicioso! Quero achar mais caras assim!</p>
+				<p i="climaxSlut">\nVocê é MEU rei e eu sou SUA PUTINHA!</p>
+				<p i="climaxSlut">\nQuero vo-\ncê sempre rolando dentro de mim!</p>
+				<p i="climaxSlut">\nCom pirocas assim, quem precisa do Mário?</p>
+				<p i="climaxSlut">\nAhhh! Que delícia dentro de meu buraquinho! ♥</p>
+				<p i="climaxSlut">\nQuero você lá dentro de minha rachinha!</p>
+				<p i="climaxSlut">\nEstou REPLETINHA de porra!</p>
+				<p i="climaxSlut">\nOh céus! A porra está respingando de tão abundante!</p>
+				<p i="climaxSlut">\nToda essa PORRA está me fazendo LOUCA!</p>
+				<p i="climaxSlut">\nHummm...NUNCA pensei que salvar o Reino seria tão divertido...</p>
+				<p i="climaxSlut">\nContinue gozando! Vai! ♥</p>
+				<p i="climaxSlut">\nSim! Goze em meu corpo safado!</p>
+				<p i="climaxSlut">\nQuero mais porra! Eu PRECISO de porra!</p>
+				<p i="climaxSlut">\nQuero esse pau sempre se mexendo aí ♥</p>
+				<p i="climaxSlut">\nFico toda arrepiadinha com esse cheiro de sexo!</p>
 				
-				<p i="sexVaginal1">\nHe\'s eating...mee!</p>
-				<!--More to be done later-->
-				<p i="sexAnal1">He\'s eating...my ass!</p>
-				<!--More to be done later-->
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="boob">\nOoh, meus peitos\nestremessem de prazer!</p>
+				<p i="boob">\nUau! Meus seios\nestão no seu bolo!</p>
+				<p i="boob">\nOh, não! Deixei\nmeus seios nus vazarem!</p>
+				<p i="boob">\nÉ porra demais\npara meus melões!</p>
+				
+				<!--A ser feito depois-->
+				<p i="sexVaginal">\nEle está...me comendo!</p>
+				<p i="sexAnal">\nEle está...comendo meu cuzinho!</p>
 			</scenes>
 			
 			<scenes scene="powerup">
@@ -6093,31 +6101,31 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	<!-- HUD-->
 		<text name="HUD1">HUD: cant zoom when not focusing anything!</text>
 		
-	<!--TIPS (you can add or remove lines below, in case you want much more tips or just a few)-->
-		<text name="tip">TIP:Upon starting a level, you can go back to worldmap if you enter inside the brown keep, a white door or just by walking left.</text>
-		<text name="tip">TIP:Pressing BACKSPACE hides the HUD!</text>
-		<text name="tip">TIP:Walking bobombs will tease you and eventually fuck your pussy. BUT the running ones who can blow might fuck you earlier, be warned!</text>
-		<text name="tip">TIP:If you are using a key in your bumhole, creatures will spare it (no anal sex). So, be relieved!</text>
-		<text name="tip">TIP:If the game is lagging, you can press the \'=\' to change the quality and the \'-\' to change zoom.</text>
-		<text name="tip">TIP:Google Chrome or \'Flash Projector\' (standalone app from adobe) may boost game performance.</text>
-		<text name="tip">TIP:Certain levels only appear in certain days, like the Shyguy Village in world 3.</text>
-		<text name="tip">TIP:Is the game slow? Blame Flash and its way to render vectors, not your machine. You can try to activate Stationary camera in the options.</text>
-		<text name="tip">TIP:Bugs may appear. If the princess locks up, try SPACE/SHIFT many times. If not, press DEL (she will lose a life). You can also load a saved game.</text>
-		<text name="tip">TIP:If you\'re using \'Dont make scenes require SKIP presses\', there are creatures you have to fill the bar up, so disable it in those places!</text>
-		<text name="tip">TIP:You can grab Koopa and buzzy beetle shells. Just pass over a NON-MOVING shell while pressing RUN key.</text>
-		<text name="tip">TIP:You can survive physical harm as long as your horny bar is up.</text>
-		<text name="tip">TIP:Press keys 0 to 9 while touching a laid enemy to choose a scene. Then press \'DO-OVER\' key. Not all enemies have this feature.</text>
-		<text name="tip">TIP:Press ENTER for PANIC mode! CTRL returns to the game. Then press / in the keypad to re-enable sounds.</text>
-		<text name="tip">TIP:You can use the inventory only in the worldmap. Press \'attack key\' to open it and click on any item with the mouse. Maximum of 5 items!</text>
-		<text name="tip">TIP:Bob-Ombs have different scenes. It depends on when you catch them!</text>
-		<text name="tip">TIP:If you find a bug, try to reproduce it, press PAGE DOWN key and take a screenshot, then post in LOK or Aedler site. Luigi will fix it!</text>
-		<text name="tip">TIP:To exit a level, you either enter the door at the fort, get an item, or walk past the edges of the screen.</text>
-		<text name="tip">TIP:If you\'re dirty, you can clean yourself off in the bath or at checkpoints. If \'Clean Cum while Underwater\' in ON, just get underwater!</text>
-		<text name="tip">TIP:Sockhops are green bag-like enemies. Although they are not enemies exactly, they can harm you, but you can also make them happy!</text>
-		<text name="tip">TIP:You can use \'DEL\' key to make the princess lose a life if you\'re stuck!</text>
-		<text name="tip">TIP:Remember the princess will only wear a custom outfit if you set a given powerup to it, then search for it in the game!</text>
-		<text name="tip">TIP:You can have bigger bellies depending on the amount of cum in a vaginal/anal scene, or by taking certain potions.</text>
-		<text name="tip">TIP:Don\'t forget to check the key confgurations in PAUSE MENU (CTRL key!) You will check the keys to zoom in, for example.</text>
+	<!--TIPS (você pode adicionar até 200 entradas abaixo!)-->
+		<text name="tip">DICA: Ao começar uma fase, você pode voltar ao mapa-mundi ao entrar no castelo marrom, porta branca ou ao caminhar para a esquerda!</text>
+		<text name="tip">DICA: Pressionando BACKSPACE esconderá o HUD (que é a tela de informações em tempo real)</text>
+		<text name="tip">DICA: Bobombs que caminham por aí (não os que correm) podem ficar de pau duro do nada. Os outros correm e já podem explodir em você!</text>
+		<text name="tip">DICA: Se estiver com uma chave enfiadinha no seu cu, criaturas podem deixar de fodê-lo. Então, fique tranquila!</text>
+		<text name="tip">DICA: Se o jogo estiver lento, é porque sua CPU não é potente o bastante. Tecle \'=\' para mudar qualidade, \'-\' para zoom, ou vá nas opções para mais configurações!</text>
+		<text name="tip">DICA: Usar o Google Chrome ou o \'Flash Projector\' (aplicação standalone do site da Adobe) podem aumentar a performance do jogo!</text>
+		<text name="tip">DICA: Certas fases escondidas só aparecem em certos dias, como a Vila Shyguy do mundo 3.</text>
+		<text name="tip">DICA: O jogo está lento? Culpe o Flash e sua forma de renderizar vetores, e não apenas sua máquina. Teste \'Câmera Estacionária\' nas Opções Avançadas!</text>
+		<text name="tip">DICA: Defeitos de jogo podem aparecer. Se a princesa TRAVAR, tecle {NEXTKEY} várias vezes, ou DEL para perder uma vida. Ou ENTER para modo PÂNICO. Ou carregue um jogo salvo.</text>
+		<text name="tip">DICA: Se estiver com execução de cenas a cada loop, ou 2x, ou 3x ativa, existem criaturas que só abrirão novas áreas se houver mais repetições, assim, desabilite essa automação caso ache que não tem saída!</text>
+		<text name="tip">DICA: Você pode segurar os cascos de criaturas como Koopa e Buzzy! Passe por um casco e tecle CORRER.</text>
+		<text name="tip">DICA: Você pode sobreviver a ataques (como quando toca em alfinetes e fogo) se mantiver-se excitada (barra de excitação não vazia)</text>
+		<text name="tip">DICA: Pressione 0 a 9 enquanto tocar um inimigo caído para repetir uma cena já vista antes. Pressione a tecla \'REPETIR\'. Não são todas as criaturas que tem essa habilidade.</text>
+		<text name="tip">DICA: Pressione ENTER para entrar na tela PÂNICO. Após isso, tecle CTRL para tornar ao jogo. Pressione / para reativar sons e música.</text>
+		<text name="tip">DICA: Você pode usar o inventário apenas no mapa-mundi. Tecle \'ATACAR\' para abrí-lo e clique em um item com o mouse. Pode ter até cinco itens ali!</text>
+		<text name="tip">DICA: Os BobOmbs possuem diferentes cenas. Depende de QUANDO ele te captura, enquanto está correndo ou caminhando. Se demorar muito, o que corre explodirá.</text>
+		<text name="tip">DICA: Se achar um erro grave do jogo (ou mesmo os que já incomodam), pressione PAGE DOWN e tire uma foto, daí envie para o site Legend of Krystal (tópico MIM PUT), caso ainda exista.</text>
+		<text name="tip">DICA: Para finalizar uma fase, você pode simplesmente entrar na porta do castelo marrom, ou pegar um dado item (como pérola rosa do Birdo), ou simplesmente caminhar para a direita, até desaparecer.</text>
+		<text name="tip">DICA: Se você estiver toda sujinha e pervertida, pode-se limpar no banheiro ou nos pontos de controle (mastro com bandeira rosa). Se a opção de se limpar debaixo dágua estiver ativa, basta afundar!</text>
+		<text name="tip">DICA: Sockhops são criaturas que parecem sacos verdes. Não são exatamente inimigos, mas podem te ferir ou te engolir numa bela cena de sexo!</text>
+		<text name="tip">DICA: Você pode teclar \'DEL\' para fazer a princesa perder uma vida, caso esteja preso numa área da fase!</text>
+		<text name="tip">DICA: Lembre-se de que a princesa SÓ VESTIRÁ UMA ROUPA (ou transformará em RAPOSA, etc), se você achar o item pela fase. A tela de Roupas só configura os cogumelos e itens FUTUROS!</text>
+		<text name="tip">DICA: Sua barriga pode aumentar dependendo das fodidas em seu cu ou vagina, ou se pegar certas frutas e venenos.</text>
+		<text name="tip">DICA: Não se esqueça de checar suas configurações do teclado escolhido no MENU PAUSAR (tecla CTRL). Por exemplo, a tecla PÂNICO é ENTER, e para mudar qualidade, é \'-\'.</text>
 		
 		<!--FOR THE FUTURE or TO BE DEPRECATED:Cherbil is a cute small testicle or butt like creature who can fart aphrodisiacs. You will love playing with them (soon).
 		TIP:If you get any bugs, please contact the developer in Legend of Krystal forums, or...erhm...Luigi?

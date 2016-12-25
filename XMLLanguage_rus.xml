@@ -3875,92 +3875,102 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="die2">Attempt failed! Please press ENTER (Panic Screen) and click to \'Go Back to Worldmap\'</f>
 				
 				<!--BALLOONS (random dialogues depending on her state)-->
-				<p i="restrain1">\nMy cherryslit is acting funny with this gooey thing!</p>
-				<p i="restrain2">\nWhat if Toadsworth sees me like that?</p>
-				<p i="restrain3">\nHey....What are you doing...</p>
-				<p i="restrain4">\nHey, don\'t touch me there!</p>
-				<p i="restrain5">\nPlease DON\'T!</p>
-				<p i="restrain6">\nDon\'t look!</p>
-				<p i="restrain7">\nDo I really need to do this?</p>
-				<p i="restrain8">\nAh, ah aaah!</p>
-				<p i="restrain9">\nOH!</p>
-				<p i="restrain10">Am I an\nexhibitionist doing this all in the open?</p>
-				<p i="restrain11">Shouldn\'t we\ndoing this at least in an hidden place?</p>
-				<p i="restrain12">\nNooooo!</p>
-				<p i="restrain13">\nOhh no!</p>
-				<p i="restrain14">\nErhm, YES!</p>
-				<p i="restrain15">\nI\'m so ashamed!</p>
-				<p i="restrain16">\nWhy haven\'t I experienced this before?</p>
-				<p i="restrain17">\nI\'ve never had it this good!</p>
-				<p i="restrain18">\nI hope nobody else ...ooh..is watching!</p>
-				<p i="restrain19">\nMmm! My pussy feels so good!</p>
-				<p i="restrain20">\nI\'m gonna cum! I\'m gonna cum!</p>
-				<p i="restrain21">\nIt\'s slippery!</p>
-				<p i="restrain22">\nIt\'s stinky!</p>
-				<p i="restrain23">\nMy...pussy is...itching!</p>
-				<p i="restrain24">\nI\'m acting like a dirty slut!</p>
-				<p i="restrain25">\nI can\'t wait to have this in my pussy!</p>
-				<p i="restrain26">\nDon\'t!</p>
+				<!--YOU CAN ADD MORE ITEMS BELOW!-->
+				<p i="look">\nWhat?? This is making me dizzy!</p>
+				<p i="look">\nBut...what\'s that? My godness, I... Ooh...</p>
 				
-				<p i="slut1">\nDon\'t dare forgetting my hole!</p>
-				<p i="slut2">\nYes! Yes!</p>
-				<p i="slut3">\nPlease Fuck me! Do it dirty!</p>
-				<p i="slut4">\nPound me more!</p>
-				<p i="slut5">\nOh God! It\'s so good!</p>
-				<p i="slut6">\nWow! What a dick!</p>
-				<p i="slut7">\nWhat a cute little mushroom! ♥</p>
-				<p i="slut8">\nIt\'s so addictive! Oooh!</p>
-				<p i="slut9">\nI may need to repeat this all day!</p>
-				<p i="slut10">\nSo wonderful!</p>
-				<p i="slut11">I can\'t stand still\n seeing this dick banging along!</p>
-				<p i="slut12">I\'m acting\nlike a dirty slut but it feels so good!</p>
-				<p i="slut13">\nHow about this in my ass!</p>
-				<p i="slut14">\nI want this\ninside of me so bad!</p>
-				<p i="slut15">\nMmm! This is sooo good!</p>
-				<p i="slut16">\nThis is making me so hot!</p>
-				<p i="slut17">\nHurry up and give me your cum!</p>
-				<p i="slut18">\nI\'m becoming addicted to this!</p>
+				<!--YOU CAN ADD MORE ITEMS!-->
+				<p i="generalScene">\nMy cherryslit is acting funny with this gooey thing!</p>
+				<p i="generalScene">\nWhat if Toadsworth sees me like this?</p>
+				<p i="generalScene">\nHey....What are you doing...</p>
+				<p i="generalScene">\nHey, don\'t touch me there!</p>
+				<p i="generalScene">\nPlease DON\'T!</p>
+				<p i="generalScene">\nDon\'t look!</p>
+				<p i="generalScene">\nDo I really need to do this?</p>
+				<p i="generalScene">\nAh, ah aaah!</p>
+				<p i="generalScene">\nOH!</p>
+				<p i="generalScene">Am I an\nexhibitionist doing this all in the open?</p>
+				<p i="generalScene">Shouldn\'t we\ndoing this at least in an hidden place?</p>
+				<p i="generalScene">\nNooooo!</p>
+				<p i="generalScene">\nOhh no!</p>
+				<p i="generalScene">\nErhm, YES!</p>
+				<p i="generalScene">\nI\'m so ashamed!</p>
+				<p i="generalScene">\nWhy haven\'t I experienced this before?</p>
+				<p i="generalScene">\nI\'ve never had it this good!</p>
+				<p i="generalScene">\nI hope nobody else ...ooh..is watching!</p>
+				<p i="generalScene">\nMmm! My pussy feels so good!</p>
+				<p i="generalScene">\nI\'m gonna cum! I\'m gonna cum!</p>
+				<p i="generalScene">\nIt\'s slippery!</p>
+				<p i="generalScene">\nIt\'s stinky!</p>
+				<p i="generalScene">\nMy...pussy is...itching!</p>
+				<p i="generalScene">\nI\'m acting like a dirty slut!</p>
+				<p i="generalScene">\nI can\'t wait to have this in my pussy!</p>
+				<p i="generalScene">\nDon\'t!</p>
 				
-				<p i="climax1">\nOhhhhhhh! ♥</p>
-				<p i="climax2">\nAhhhh!</p>
-				<p i="climax3">\nI\'ts...hot\ninside my.....honey pot! ♥</p>
-				<p i="climax4">\nOhhh he doesn\'t stop cumming!</p>
-				<p i="climax5">\nThe smell is making me so horny!</p>
-				<p i="climax6">\nHow embarrassing! It\'s filthy!</p>
-				<p i="climax7">\nThat smell is really making me dizzy!</p>
-				<p i="climax8">\nIt\'s steamy all over there!</p>
-				<p i="climax9">\nI\'m a dirty princess!</p>
-				<p i="climax10">\nHaaah...I could use a shower soon.</p>
-				<p i="climax11">\nI wonder if this will drip out while I\'m walking...</p>
-				<p i="climax12">\nAhhh I LOVE you! ♥</p>
+				<!--YOU CAN ADD MORE ITEMS!-->
+				<p i="generalSceneSlut">\nDon\'t dare forgetting my hole!</p>
+				<p i="generalSceneSlut">\nYes! Yes!</p>
+				<p i="generalSceneSlut">\nPlease fuck me! Do it dirty!</p>
+				<p i="generalSceneSlut">\nPlease pound me!</p>
+				<p i="generalSceneSlut">\nOh God! It\'s so good!</p>
+				<p i="generalSceneSlut">\nWow! What a dick!</p>
+				<p i="generalSceneSlut">\nWhat a cute little mushroom! ♥</p>
+				<p i="generalSceneSlut">\nIt\'s so addictive! Oooh!</p>
+				<p i="generalSceneSlut">\nI may need to repeat this all day!</p>
+				<p i="generalSceneSlut">\nSo wonderful!</p>
+				<p i="generalSceneSlut">I can\'t stand still\n seeing this dick banging along!</p>
+				<p i="generalSceneSlut">I\'m acting\nlike a dirty slut but it feels so good!</p>
+				<p i="generalSceneSlut">\nHow about this in my ass!</p>
+				<p i="generalSceneSlut">\nI want this\ninside of me so bad!</p>
+				<p i="generalSceneSlut">\nMmm! This is sooo good!</p>
+				<p i="generalSceneSlut">\nThis is making me so hot!</p>
+				<p i="generalSceneSlut">\nHurry up and give me your cum!</p>
+				<p i="generalSceneSlut">\nI\'m becoming addicted to this!</p>
 				
-				<p i="climaxSlut1">\nThis smell just makes me want to go WILD! ♥</p>
-				<p i="climaxSlut2">\nHe\'s making me cum harder than I\'ve ever cum before!</p>
-				<p i="climaxSlut3">\nGod, I need more of that pleasure!</p>
-				<p i="climaxSlut4">Mm! That was\ngood!  I may want to search for more of these guys!</p>
-				<p i="climaxSlut5">\nYou\'re MY king and I\'m YOUR slut!</p>
-				<p i="climaxSlut6">\nI want you\ninside me much more!</p>
-				<p i="climaxSlut7">\nWith cocks like these, who needs Mario?</p>
-				<p i="climaxSlut8">\nAhhh! It feels so good inside me! ♥</p>
-				<p i="climaxSlut9">\nI want you more inside my holes!</p>
-				<p i="climaxSlut10">\nThere\'s so much cum inside me now!</p>
-				<p i="climaxSlut11">\nOh god! The cum is starting to overflow!</p>
-				<p i="climaxSlut12">\nAll this cum is making me so horny!</p>
-				<p i="climaxSlut13">\nMmmm...I never knew saving the kingdom was this much fun...</p>
-				<p i="climaxSlut14">\nKeep it cumming! ♥</p>
-				<p i="climaxSlut15">\nYes! Cum all over my slutty body!</p>
-				<p i="climaxSlut16">\nI want more cum! I NEED more cum!</p>
-				<p i="climaxSlut17">\nI need this dick all the time! ♥</p>
-				<p i="climaxSlut18">\nThis is causing me to shiver with odor!</p>
+				<!--YOU CAN ADD MORE ITEMS!-->
+				<p i="climax">\nOhhhhhhh! ♥</p>
+				<p i="climax">\nAhhhh!</p>
+				<p i="climax">\nIt\'s...hot\ninside my.....honey pot! ♥</p>
+				<p i="climax">\nOhhh he doesn\'t stop cumming!</p>
+				<p i="climax">\nThe smell is making me so horny!</p>
+				<p i="climax">\nHow embarrassing! It\'s filthy!</p>
+				<p i="climax">\nThat smell is really making me dizzy!</p>
+				<p i="climax">\nIt\'s steamy all over there!</p>
+				<p i="climax">\nI\'m a dirty princess!</p>
+				<p i="climax">\nHaaah...I could use a shower soon.</p>
+				<p i="climax">\nI wonder if this will drip out while I\'m walking...</p>
+				<p i="climax">\nAhhh I LOVE you! ♥</p>
 				
-				<p i="boob1">\nOoh, my boobies\nare sooo dirty!</p>
-				<p i="boob2">\nWheck! My tits\nare in the cake!</p>
-				<p i="boob3">\nOh, no! I let my\nbare boobies leak!</p>
-				<p i="boob4">\nIt\'s too much for\n my melons!</p>
+				<!--YOU CAN ADD MORE ITEMS!-->
+				<p i="climaxSlut">\nThis smell just makes me want to go WILD! ♥</p>
+				<p i="climaxSlut">\nHe\'s making me cum harder than I\'ve ever cum before!</p>
+				<p i="climaxSlut">\nGod, I need more of that pleasure!</p>
+				<p i="climaxSlut">Mm! That was\ngood!  I may want to search for more of these guys!</p>
+				<p i="climaxSlut">\nYou\'re MY king and I\'m YOUR slut!</p>
+				<p i="climaxSlut">\nI want you\ninside me much more!</p>
+				<p i="climaxSlut">\nWith cocks like these, who needs Mario?</p>
+				<p i="climaxSlut">\nAhhh! It feels so good inside me! ♥</p>
+				<p i="climaxSlut">\nI want more inside my holes!</p>
+				<p i="climaxSlut">\nThere\'s so much cum inside me now!</p>
+				<p i="climaxSlut">\nOh god! The cum is starting to overflow!</p>
+				<p i="climaxSlut">\nAll this cum is making me so horny!</p>
+				<p i="climaxSlut">\nMmmm...I never knew saving the kingdom was this much fun...</p>
+				<p i="climaxSlut">\nKeep it cumming! ♥</p>
+				<p i="climaxSlut">\nYes! Cum all over my slutty body!</p>
+				<p i="climaxSlut">\nI want more cum! I NEED more cum!</p>
+				<p i="climaxSlut">\nI need this dick all the time! ♥</p>
+				<p i="climaxSlut">\nThis is causing me to shiver with odor!</p>
 				
-				<p i="sexVaginal1">\nHe\'s eating...mee!</p>
+				<!--YOU CAN ADD MORE ITEMS!-->
+				<p i="boob">\nOoh, my boobies\nare sooo dirty!</p>
+				<p i="boob">\nWheck! My tits\nare in the cake!</p>
+				<p i="boob">\nOh, no! I let my\nbare boobies leak!</p>
+				<p i="boob">\nIt\'s too much for\n my melons!</p>
+				
+				<!--YET TO BE DONE-->
+				<p i="sexVaginal">\nHe\'s eating...mee!</p>
 				<!--More to be done later-->
-				<p i="sexAnal1">He\'s eating...my ass!</p>
+				<p i="sexAnal">He\'s eating...my ass!</p>
 				<!--More to be done later-->
 			</scenes>
 			
@@ -6119,7 +6129,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	<!-- HUD-->
 		<text name="HUD1">HUD: cant zoom when not focusing anything!</text>
 		
-	<!--TIPS (you can add or remove lines below, in case you want much more tips or just a few)-->
+	<!--TIPS (you can add or remove lines below, in case you want much more tips or just a few). -->
 		<text name="tip">TIP:Upon starting a level, you can go back to worldmap if you enter inside the brown keep, a white door or just by walking left.</text>
 		<text name="tip">TIP:Pressing BACKSPACE hides the HUD!</text>
 		<text name="tip">TIP:Walking bobombs will tease you and eventually fuck your pussy. BUT the running ones who can blow might fuck you earlier, be warned!</text>

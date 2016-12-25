@@ -3874,93 +3874,101 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="die2">TENTATIVA FALHOU! Por favor pressione ENTER (Tela de Pânico) e clique  \'Voltar ao mapa-mundi\'!</f>
 				
 				<!--BALÕES DE TEXTO (diálogos aleatórios dependendo do estado dela: restrain, slut, climax...)-->
-				<p i="restrain1">\nMinha bucetinha está toda fogosa com essa melequeira!</p>
-				<p i="restrain2">\nO que Toadsworth faria se me visse assim?</p>
-				<p i="restrain3">\nEi....O que você está fazendo...</p>
-				<p i="restrain4">\nEi, NÃO me toque aí!</p>
-				<p i="restrain5">\nPor favor NÃO!</p>
-				<p i="restrain6">\nNÃO OLHE!</p>
-				<p i="restrain7">\nEu preciso mesmo fazer isso?</p>
-				<p i="restrain8">\nAh, ah aaah!</p>
-				<p i="restrain9">\nOH!</p>
-				<p i="restrain10">Eu seria\numa exibicionista ao fazer tudo isso em público?</p>
-				<p i="restrain11">Não deveríamos\nfazer isso ao menos num local escondido?</p>
-				<p i="restrain12">\nNãoooo!</p>
-				<p i="restrain13">\nOhh não!</p>
-				<p i="restrain14">\nÉée... SIM!</p>
-				<p i="restrain15">\nEstou com tanta vergonha!</p>
-				<p i="restrain16">\nPor que eu não experimentei isso antes?</p>
-				<p i="restrain17">\nNunca tive tanto prazer assim!</p>
-				<p i="restrain18">\nEspero que ninguem mais...ooh..esteja nos vendo!</p>
-				<p i="restrain19">\nHummm! Minha racha está tão tarada!</p>
-				<p i="restrain20">\nEu vou GOZAR! vou GOZAAAAR!</p>
-				<p i="restrain21">\nEstá escorregadio!</p>
-				<p i="restrain22">\nEstá fedendo!</p>
-				<p i="restrain23">\nMinha xana...está coçando!</p>
-				<p i="restrain24">\nEstou agindo como uma puta sacana!</p>
-				<p i="restrain25">\nNão posso esperar para tê-lo dentro de mim!</p>
-				<p i="restrain26">\nN-Nãaao!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS ABAIXO!-->
+				<p i="look">\nO quê?? Isto está me deixando... excitada!</p>
+				<p i="look">\nMas o que é isso? Minha nossa! Eu... Er...</p>
 				
-				<p i="slut1">\nNão esqueça de meu buraquinho!</p>
-				<p i="slut2">\nSim! SIM!</p>
-				<p i="slut3">\nPor favor me coma! Com safadeza!</p>
-				<p i="slut4">\nBombeia mais!</p>
-				<p i="slut5">\Oh, céus! É tãaaao bom!</p>
-				<p i="slut6">\nUau! Que piroca!</p>
-				<p i="slut7">\nQue cogumelinho gracioso! ♥</p>
-				<p i="slut8">\nÉ tão viciante! Oooh!</p>
-				<p i="slut9">\nPreciso fazer isso TODOS os dias!</p>
-				<p i="slut10">\nTão maravilhoso!</p>
-				<p i="slut11">Não me seguro vendo essa piroca solta por aí!</p>
-				<p i="slut12">Estou agindo como uma vadia mas isso é tão bom!</p>
-				<p i="slut13">\nQue tal no meu cuzinho?</p>
-				<p i="slut14">\nQuero isso\ndentro de mim todinha!</p>
-				<p i="slut15">\nHumm! Isso é tãaao bom!</p>
-				<p i="slut16">\nIsso me deixa tão fogosa!</p>
-				<p i="slut17">\nApresse-se e me dê sua porra!</p>
-				<p i="slut18">\nEstou ficiando viciadinha nisso!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="generalScene">\nMinha bucetinha está toda fogosa com essa melequeira!</p>
+				<p i="generalScene">\nO que Toadsworth faria se me visse assim?</p>
+				<p i="generalScene">\nEi....O que você está fazendo...</p>
+				<p i="generalScene">\nEi, NÃO me toque aí!</p>
+				<p i="generalScene">\nPor favor NÃO!</p>
+				<p i="generalScene">\nNÃO OLHE!</p>
+				<p i="generalScene">\nEu preciso mesmo fazer isso?</p>
+				<p i="generalScene">\nAh, ah aaah!</p>
+				<p i="generalScene">\nOH!</p>
+				<p i="generalScene">Eu seria\numa exibicionista ao fazer tudo isso em público?</p>
+				<p i="generalScene">Não deveríamos\nfazer isso ao menos num local escondido?</p>
+				<p i="generalScene">\nNãoooo!</p>
+				<p i="generalScene">\nOhh não!</p>
+				<p i="generalScene">\nÉée... SIM!</p>
+				<p i="generalScene">\nEstou com tanta vergonha!</p>
+				<p i="generalScene">\nPor que eu não experimentei isso antes?</p>
+				<p i="generalScene">\nNunca tive tanto prazer assim!</p>
+				<p i="generalScene">\nEspero que ninguem mais...ooh..esteja nos vendo!</p>
+				<p i="generalScene">\nHummm! Minha racha está tão tarada!</p>
+				<p i="generalScene">\nEu vou GOZAR! vou GOZAAAAR!</p>
+				<p i="generalScene">\nEstá escorregadio!</p>
+				<p i="generalScene">\nEstá fedendo!</p>
+				<p i="generalScene">\nMinha xana...está coçando!</p>
+				<p i="generalScene">\nEstou agindo como uma puta sacana!</p>
+				<p i="generalScene">\nNão posso esperar para tê-lo dentro de mim!</p>
+				<p i="generalScene">\nN-Nãaao!</p>
 				
-				<p i="climax1">\nOhhhhhhh! ♥</p>
-				<p i="climax2">\nAhhhh!</p>
-				<p i="climax3">\nEstá...quen-\ntinho no meu favo de mel! ♥</p>
-				<p i="climax4">\nOhhh eke não para de gozaaar!</p>
-				<p i="climax5">\nO odor esté me fazendo excitada!</p>
-				<p i="climax6">\nQue vergonha! Que odor de macho!</p>
-				<p i="climax7">\nEste cheiro está me deixando tonta!</p>
-				<p i="climax8">\nEstá uma fumaça de amor por aqui!</p>
-				<p i="climax9">\nEu sou uma princesa safada!</p>
-				<p i="climax10">\nHaaah...Preciso tomar um banho!</p>
-				<p i="climax11">\nEspero que essa porra não fique pingando quando andar por aí...</p>
-				<p i="climax12">\nAhhh EU TE AMO! ♥</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="generalSceneSlut">\nNão esqueça de meu buraquinho!</p>
+				<p i="generalSceneSlut">\nSim! SIM!</p>
+				<p i="generalSceneSlut">\nPor favor me coma! Com safadeza!</p>
+				<p i="generalSceneSlut">\nPor favor me fode!</p>
+				<p i="generalSceneSlut">\Oh, céus! É tãaaao bom!</p>
+				<p i="generalSceneSlut">\nUau! Que piroca!</p>
+				<p i="generalSceneSlut">\nQue cogumelinho gracioso! ♥</p>
+				<p i="generalSceneSlut">\nÉ tão viciante! Oooh!</p>
+				<p i="generalSceneSlut">\nPreciso fazer isso TODOS os dias!</p>
+				<p i="generalSceneSlut">\nTão maravilhoso!</p>
+				<p i="generalSceneSlut">Não me seguro vendo essa piroca solta por aí!</p>
+				<p i="generalSceneSlut">Estou agindo como uma vadia mas isso é tão bom!</p>
+				<p i="generalSceneSlut">\nQue tal no meu cuzinho?</p>
+				<p i="generalSceneSlut">\nQuero isso\ndentro de mim todinha!</p>
+				<p i="generalSceneSlut">\nHumm! Isso é tãaao bom!</p>
+				<p i="generalSceneSlut">\nIsso me deixa tão fogosa!</p>
+				<p i="generalSceneSlut">\nApresse-se e me dê sua porra!</p>
+				<p i="generalSceneSlut">\nEstou ficiando viciadinha nisso!</p>
 				
-				<p i="climaxSlut1">\nEste odor me faz ficar SELVAGEM! ♥</p>
-				<p i="climaxSlut2">\nEle está me fazendo gozar como nunca antes!</p>
-				<p i="climaxSlut3">\nOh Rainha cogumelo, quero mais desse prazer!</p>
-				<p i="climaxSlut4">Humm! Isto é\ndelicioso! Quero achar mais caras assim!</p>
-				<p i="climaxSlut5">\nVocê é MEU rei e eu sou SUA PUTINHA!</p>
-				<p i="climaxSlut6">\nQuero vo-\ncê sempre rolando dentro de mim!</p>
-				<p i="climaxSlut7">\nCom pirocas assim, quem precisa do Mário?</p>
-				<p i="climaxSlut8">\nAhhh! Que delícia dentro de meu buraquinho! ♥</p>
-				<p i="climaxSlut9">\nQuero você lá dentro de minha rachinha!</p>
-				<p i="climaxSlut10">\nEstou REPLETINHA de porra!</p>
-				<p i="climaxSlut11">\nOh céus! A porra está respingando de tão abundante!</p>
-				<p i="climaxSlut12">\nToda essa PORRA está me fazendo LOUCA!</p>
-				<p i="climaxSlut13">\nHummm...NUNCA pensei que salvar o Reino seria tão divertido...</p>
-				<p i="climaxSlut14">\nContinue gozando! Vai! ♥</p>
-				<p i="climaxSlut15">\nSim! Goze em meu corpo safado!</p>
-				<p i="climaxSlut16">\nQuero mais porra! Eu PRECISO de porra!</p>
-				<p i="climaxSlut17">\nQuero esse pau sempre se mexendo aí ♥</p>
-				<p i="climaxSlut18">\nFico toda arrepiadinha com esse cheiro de sexo!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="climax">\nOhhhhhhh! ♥</p>
+				<p i="climax">\nAhhhh!</p>
+				<p i="climax">\nEstá...quen-\ntinho no meu favo de mel! ♥</p>
+				<p i="climax">\nOhhh eke não para de gozaaar!</p>
+				<p i="climax">\nO odor esté me fazendo excitada!</p>
+				<p i="climax">\nQue vergonha! Que odor de macho!</p>
+				<p i="climax">\nEste cheiro está me deixando tonta!</p>
+				<p i="climax">\nEstá uma fumaça de amor por aqui!</p>
+				<p i="climax">\nEu sou uma princesa safada!</p>
+				<p i="climax">\nHaaah...Preciso tomar um banho!</p>
+				<p i="climax">\nEspero que essa porra não fique pingando quando andar por aí...</p>
+				<p i="climax">\nAhhh EU TE AMO! ♥</p>
 				
-				<p i="boob1">\nOoh, meus peitos\nestremessem de prazer!</p>
-				<p i="boob2">\nUau! Meus seios\nestá no seu bolo!</p>
-				<p i="boob3">\nOh, não! Deixei\nmeus seios nus vazarem!</p>
-				<p i="boob4">\nÉ porra demais\npara meus melões!</p>
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="climaxSlut">\nEste odor me faz ficar SELVAGEM! ♥</p>
+				<p i="climaxSlut">\nEle está me fazendo gozar como nunca antes!</p>
+				<p i="climaxSlut">\nOh Rainha cogumelo, quero mais desse prazer!</p>
+				<p i="climaxSlut">Humm! Isto é\ndelicioso! Quero achar mais caras assim!</p>
+				<p i="climaxSlut">\nVocê é MEU rei e eu sou SUA PUTINHA!</p>
+				<p i="climaxSlut">\nQuero vo-\ncê sempre rolando dentro de mim!</p>
+				<p i="climaxSlut">\nCom pirocas assim, quem precisa do Mário?</p>
+				<p i="climaxSlut">\nAhhh! Que delícia dentro de meu buraquinho! ♥</p>
+				<p i="climaxSlut">\nQuero você lá dentro de minha rachinha!</p>
+				<p i="climaxSlut">\nEstou REPLETINHA de porra!</p>
+				<p i="climaxSlut">\nOh céus! A porra está respingando de tão abundante!</p>
+				<p i="climaxSlut">\nToda essa PORRA está me fazendo LOUCA!</p>
+				<p i="climaxSlut">\nHummm...NUNCA pensei que salvar o Reino seria tão divertido...</p>
+				<p i="climaxSlut">\nContinue gozando! Vai! ♥</p>
+				<p i="climaxSlut">\nSim! Goze em meu corpo safado!</p>
+				<p i="climaxSlut">\nQuero mais porra! Eu PRECISO de porra!</p>
+				<p i="climaxSlut">\nQuero esse pau sempre se mexendo aí ♥</p>
+				<p i="climaxSlut">\nFico toda arrepiadinha com esse cheiro de sexo!</p>
 				
-				<p i="sexVaginal1">\nHe\'s eating...mee!</p>
-				<!--More to be done later-->
-				<p i="sexAnal1">He\'s eating...my ass!</p>
-				<!--More to be done later-->
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="boob">\nOoh, meus peitos\nestremessem de prazer!</p>
+				<p i="boob">\nUau! Meus seios\nestão no seu bolo!</p>
+				<p i="boob">\nOh, não! Deixei\nmeus seios nus vazarem!</p>
+				<p i="boob">\nÉ porra demais\npara meus melões!</p>
+				
+				<!--A ser feito depois-->
+				<p i="sexVaginal">\nEle está...me comendo!</p>
+				<p i="sexAnal">\nEle está...comendo meu cuzinho!</p>
 			</scenes>
 			
 			<scenes scene="powerup">
@@ -6120,7 +6128,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 	<!-- HUD-->
 		<text name="HUD1">HUD: não pode aproximar/afastar se não ficar em nada primeiro!</text>
 		
-	<!--TIPS (you can add or remove lines below, in case you want much more tips or just a few)-->
+	<!--TIPS (você pode adicionar até 200 entradas abaixo!)-->
 		<text name="tip">DICA: Ao começar uma fase, você pode voltar ao mapa-mundi ao entrar no castelo marrom, porta branca ou ao caminhar para a esquerda!</text>
 		<text name="tip">DICA: Pressionando BACKSPACE esconderá o HUD (que é a tela de informações em tempo real)</text>
 		<text name="tip">DICA: Bobombs que caminham por aí (não os que correm) podem ficar de pau duro do nada. Os outros correm e já podem explodir em você!</text>
