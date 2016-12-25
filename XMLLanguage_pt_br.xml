@@ -6128,7 +6128,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 	<!-- HUD-->
 		<text name="HUD1">HUD: não pode aproximar/afastar se não ficar em nada primeiro!</text>
 		
-	<!--TIPS (você pode adicionar até 200 entradas abaixo!)-->
+	<!--TIPS (você pode adicionar mais itens abaixo!)-->
 		<text name="tip">DICA: Ao começar uma fase, você pode voltar ao mapa-mundi ao entrar no castelo marrom, porta branca ou ao caminhar para a esquerda!</text>
 		<text name="tip">DICA: Pressionando BACKSPACE esconderá o HUD (que é a tela de informações em tempo real)</text>
 		<text name="tip">DICA: Bobombs que caminham por aí (não os que correm) podem ficar de pau duro do nada. Os outros correm e já podem explodir em você!</text>
