@@ -6062,6 +6062,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_BellyCanIncrease">El vientre puede crecer</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Probabilidad de embarazo</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
+			<text name="ScreenOptions_Header_Timeout">Tempo Limite (segundos)</text>
+				<text name="ScreenOptions_SheWillBePunished">(Ela pagará uma prenda a cada X segundos)</text>
 			<text name="ScreenOptions_Header_SameDialoguesIf">Dialogos Iguales si la Escena se Repite</text>
 				<text name="ScreenOptions_IfNotNymphSameThingScenes">(Si es SI y Peach no es nynfomana, ella siempre dira lo mismo en las escenas)</text>
 			<text name="ScreenOptions_Header_FunnyDialogue">Modo de Dialogos Divertido</text>

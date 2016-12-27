@@ -6088,6 +6088,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_BellyCanIncrease">Barriga aumentará</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Change de Gravidez</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
+			<text name="ScreenOptions_Header_Timeout">Tempo Limite (segundos)</text>
+				<text name="ScreenOptions_SheWillBePunished">(Ela pagará uma prenda a cada X segundos)</text>
 			<text name="ScreenOptions_Header_SameDialoguesIf">Mesmos diálogos se cena se repetir</text>
 				<text name="ScreenOptions_IfNotNymphSameThingScenes">(Se SIM e ela não for PUTA, ela sempre dirá as mesmas coisas nas cenas)</text>
 			<text name="ScreenOptions_Header_FunnyDialogue">Modo ENGRAÇADO</text>

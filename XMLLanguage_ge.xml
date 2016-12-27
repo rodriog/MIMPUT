@@ -243,7 +243,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="goomba1">
 				<p i="1">Oh!!! Is that a...\nmanhood? Its...embarassing! I must do something!</p>
 				<p i="2">Well, er... Is this\nwhat a Goomba cock is like? It\'s so... big... and... thick...</p>
-				<p i="3">Oh! There\'s so much cum! But I can\'t do this anymore! The smell is making me so horny...</p>
+				<p i="3">Oh! There\'s so\nmuch cum on my face... This smell is overpowering...</p>
 			</scenes>
 			<scenes scene="goomba2">
 				<p i="1">Ooh! I never\ndreamed goomba dick would taste this good! I guess I can do this!</p>
@@ -6075,6 +6075,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_BellyCanIncrease">Belly can increase</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Pregnancy Chance</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
+			<text name="ScreenOptions_Header_Timeout">Timeout (seconds)</text>
+				<text name="ScreenOptions_SheWillBePunished">(She will be punished if X seconds are reached)</text>
 			<text name="ScreenOptions_Header_SameDialoguesIf">Same dialogues if the scene is replayed</text>
 				<text name="ScreenOptions_IfNotNymphSameThingScenes">(If YES and she is not a nymph, she will always say the same thing in scenes)</text>
 			<text name="ScreenOptions_Header_FunnyDialogue">Funny Dialogue Mode</text>
