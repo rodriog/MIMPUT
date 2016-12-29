@@ -5924,6 +5924,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOutfit_Heels">Sapatos</text>
 			<text name="ScreenOutfit_Garter">Presilhas</text>
 			<text name="ScreenOutfit_Character">Personagem</text>
+			<text name="ScreenOutfit_EarringsSize">Tamanho dos brincos</text>
 			<text name="ScreenOutfit_DropEarrings">Tirar Brincos</text>
 			<text name="ScreenOutfit_DropCrown">Tirar Coroa</text>
 			<text name="ScreenOutfit_BellyPiercing">Piercing no Umbigo</text>

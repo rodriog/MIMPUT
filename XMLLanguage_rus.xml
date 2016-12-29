@@ -5925,6 +5925,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_Heels">Каблуки</text>
 			<text name="ScreenOutfit_Garter">Подвя3ки</text>
 			<text name="ScreenOutfit_Character">Характeр</text>
+			<text name="ScreenOutfit_EarringsSize">Ра3мeр Сeрьги</text>
 			<text name="ScreenOutfit_DropEarrings">Снять Сeрьги</text>
 			<text name="ScreenOutfit_DropCrown">СнятьКорону</text>
 			<text name="ScreenOutfit_BellyPiercing">Пирсинг живота</text>

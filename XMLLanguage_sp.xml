@@ -5898,6 +5898,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_Heels">Tacones</text>
 			<text name="ScreenOutfit_Garter">Ligas</text>
 			<text name="ScreenOutfit_Character">Personaje</text>
+			<text name="ScreenOutfit_EarringsSize">Tamaño de Pendienes</text>
 			<text name="ScreenOutfit_DropEarrings">Pendientes</text>
 			<text name="ScreenOutfit_DropCrown">Corona</text>
 			<text name="ScreenOutfit_BellyPiercing">Piercing de Vientre</text>
