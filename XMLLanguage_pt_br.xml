@@ -835,7 +835,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="4">Ahhhhhh! Estou\ngozando tanto! E ele não para de me lamber!</p>
 			</scenes>
 			<scenes scene="mario5">
-				<p i="1">Meu cavaleiro\nda mardura brilhante! Foda minha buceta devagar!</p>
+				<p i="1">Meu cavaleiro\nda amardura brilhante! Foda minha buceta devagar!</p>
 				<p i="1a">Oh, estou\nsendo fodida com carícias de meu amor!</p>
 				<p i="2">Ohhh, Sinto\nseus dois nuguetes! Sou toda sua! Aaaah!</p>
 				<p i="2a">Ohhh, Mário!\nTrepa-me, foda-me sem parar! Preciso de muita carícia!</p>
@@ -1746,14 +1746,14 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="7">Osama: Oi, querida! Ohh...Mil desculpas,</f>
 				<f i="8">Você está pronta para subir até o navio voador?</f>
 				<p i="9">(ESCOLHA UM NÚMERO)\n1) Princesa: Nãaao! \n2) Princesa: Sim, temos que nos livrar deles!</p>
-				<f i="9">Osama: Obrigado, princesa! Ficarei aguardando!</f>
-				<f i="9">Osama: O que você quer, donzela? Eu já disse, você precisa subir a corda para chegar ao navio voador!</f>
-				<p i="9">(ESCOLHA UM NÚMERO)\n1) Fazê-lo sentir-se melhor (bater uma bronha)\n2) Sair</p>
-				<f i="9">Osama: Oh, querida, OBRIGADO!! Estou tão aliviado! Nosso reinado por aqui está a SALVO!</f>
-				<p i="9">1) Eu quero...humm..te masturbar, meu Rei!\n2) Quero mostrar meus peitos!\n3) Sair (Dica: nova cena de Osama se revisitar esta fase bem excitada)</p>
-				<p i="9">Ooooh, hummm.... O que aconteceu? Ele está mais nu ainda! E o que é este pote azul?</p>
-				<p i="9">E...essa piroca está enorme! É hipnotizante! Minhas... minhas pernas estão tremendo! Oooh! Será que devo fazer algo para ajudá-lo com isso?</p>
-				<p i="9">(ESCOLHA UM NÚMERO)\n1) Sente sua bundinha nele</p>
+				<f i="10">Osama: Obrigado, princesa! Ficarei aguardando!</f>
+				<f i="11">Osama: O que você quer, donzela? Eu já disse, você precisa subir a corda para chegar ao navio voador!</f>
+				<p i="12">(ESCOLHA UM NÚMERO)\n1) Fazê-lo sentir-se melhor (bater uma bronha)\n2) Sair</p>
+				<f i="13">Osama: Oh, querida, OBRIGADO!! Estou tão aliviado! Nosso reinado por aqui está a SALVO!</f>
+				<p i="14">1) Eu quero...humm..te masturbar, meu Rei!\n2) Quero mostrar meus peitos!\n3) Sair (Dica: nova cena de Osama se revisitar esta fase bem excitada)</p>
+				<p i="15">Ooooh, hummm.... O que aconteceu? Ele está mais nu ainda! E o que é este pote azul?</p>
+				<p i="16">E...essa piroca está enorme! É hipnotizante! Minhas... minhas pernas estão tremendo! Oooh! Será que devo fazer algo para ajudá-lo com isso?</p>
+				<p i="17">(ESCOLHA UM NÚMERO)\n1) Sente sua bundinha nele</p>
 			</scenes>
 			
 			<scenes scene="osama1">
@@ -3676,7 +3676,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="dialogueMario">
 				<p i="1">Voltar ao castelo (FIM)</p>
 				<p i="2">Perder a virgindade (sexo)</p>
-				<p i="3">Deixá-lo comer sua bucetinh!</p>
+				<p i="3">Deixá-lo comer sua bucetinha!</p>
 				<p i="4">Fazer a Dança do Poste</p>
 				<p i="5">Ajoelhar enquando ele fode sua bundinha</p>
 				<p i="6">Mário! Estou...tãaao excitada!</p>
@@ -3910,14 +3910,14 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="generalSceneSlut">\nSim! SIM!</p>
 				<p i="generalSceneSlut">\nPor favor me coma! Com safadeza!</p>
 				<p i="generalSceneSlut">\nPor favor me fode!</p>
-				<p i="generalSceneSlut">\Oh, céus! É tãaaao bom!</p>
+				<p i="generalSceneSlut">\nOh, céus! É tãaaao bom!</p>
 				<p i="generalSceneSlut">\nUau! Que piroca!</p>
 				<p i="generalSceneSlut">\nQue cogumelinho gracioso! ♥</p>
 				<p i="generalSceneSlut">\nÉ tão viciante! Oooh!</p>
 				<p i="generalSceneSlut">\nPreciso fazer isso TODOS os dias!</p>
 				<p i="generalSceneSlut">\nTão maravilhoso!</p>
 				<p i="generalSceneSlut">Não me seguro vendo essa piroca solta por aí!</p>
-				<p i="generalSceneSlut">Estou agindo como uma vadia mas isso é tão bom!</p>
+				<p i="generalSceneSlut">Estou agindo como\numa vadia mas isso é tão bom!</p>
 				<p i="generalSceneSlut">\nQue tal no meu cuzinho?</p>
 				<p i="generalSceneSlut">\nQuero isso\ndentro de mim todinha!</p>
 				<p i="generalSceneSlut">\nHumm! Isso é tãaao bom!</p>
@@ -5529,7 +5529,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="OutfitRoom">Sala de Roupas</text>
 			<text name="CurrentGame">Jogo Atual</text>
 			<text name="QuickWarpToActiveLevel">Teleportar para Fase Ativa</text>
-			<text name="LostHerVirginity">Perder a Virgindade!</text>
+			<text name="LostHerVirginity">perdeu a Virgindade!</text>
 			
 			<text name="Diary">Diário</text>
 			<text name="MyMushroomDiary">Meu Diário Cogumelo</text>
@@ -5598,6 +5598,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="D_AssBack">Bunda Costas</text>
 			<text name="D_PussyFront">Xana Frente</text>
 			<text name="D_Lay">Deitar</text>
+			<text name="D_Butt">Bunda</text>
+			<text name="D_ArmsLegs">Braços/\nPernas</text>
+			<text name="D_FaceHair">Rosto/\nCabelo</text>
 			
 			<text name="noMorePages">Não há páginas</text>
 			<text name="nextPage">Próxima Página</text>
@@ -5924,7 +5927,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOutfit_Heels">Sapatos</text>
 			<text name="ScreenOutfit_Garter">Presilhas</text>
 			<text name="ScreenOutfit_Character">Personagem</text>
-			<text name="ScreenOutfit_EarringsSize">Tamanho dos brincos</text>
+			<text name="ScreenOutfit_EarringsSize">Tamanho brinco</text>
 			<text name="ScreenOutfit_DropEarrings">Tirar Brincos</text>
 			<text name="ScreenOutfit_DropCrown">Tirar Coroa</text>
 			<text name="ScreenOutfit_BellyPiercing">Piercing no Umbigo</text>
@@ -5962,8 +5965,10 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			
 			<text name="ScreenPause_PrincessPregnant">A princesa está GRÁVIDA!</text>
 			<text name="ScreenPause_PrincessPregnant2">dias(s) para PARIR!</text>
-			<text name="ScreenPause_PrincessPregnant3">A princesa irá PARIR em QUALQUER MOMENTO!</text>
+			<text name="ScreenPause_PrincessPregnant3">A princesa irá PARIR (QUALQUER MOMENTO)</text>
 			
+			<text name="ScreenPause_PrincessScenesToCrazy">cenas para ficar louca por sexo</text>
+			<text name="ScreenPause_PrincessScenesToNymph">cenas p/ ser uma ninfomaníaca</text>
 			<text name="ScreenPause_PrincessStat1">A Princesa está decente na fase</text>
 			<text name="ScreenPause_PrincessStat2">A Princesa foi pervertida!</text>
 			<text name="ScreenPause_PrincessStat3">A Princesa está doida por sexo!</text>
@@ -5986,7 +5991,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		<text name="galleryUnlockedBobomb">A galeria para os BOBOMBS foi DESTRANCADA!</text>
 		<text name="galleryUnlockedLakitu">A galeria para os LAKITUS foi DESTRANCADA!</text>
 		<text name="galleryUnlockedBoss">A galeria para os CHEFÕES foi DESTRANCADA!</text>
-		<text name="galleryUnlockedFriend">A galeria para os AMIGOS foi DESTRANCADA!</text>
+		<text name="galleryUnlockedFriends">A galeria para os AMIGOS foi DESTRANCADA!</text>
 		<text name="galleryUnlockedPiranha">A galeria para as PIRANHAS foi DESTRANCADA!</text>
 		<text name="galleryUnlockedCreature">A galeria para esta criatura foi DESTRANCADA!</text>
 		

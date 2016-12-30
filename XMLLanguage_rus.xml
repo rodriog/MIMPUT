@@ -1751,14 +1751,14 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="7">Osama: Hi my Dear! Ohh...Sorry about that,</f>
 				<f i="8">Are you ready to go to the enemy airship?</f>
 				<p i="9">(Press a Number)\n1) Princess: Noooo! \n2) Princess: Yes, we need to get rid of them!</p>
-				<f i="9">Osama: Thank you, my dear! I\'ll wait here!</f>
-				<f i="9">Osama: What do you want, my dear? I\'ve already said, you need to climb there to go to the Airship!</f>
-				<p i="9">(Press a Number)\n1) Help you fell better (stroke him)\n2) Leave</p>
-				<f i="9">Osama: Oh my cute dear, THANK YOU!! I am so refreshed now. Our kingdom is SAVED!</f>
-				<p i="9">1) I want to...erhm...stroke you, my king!\n2) I want to show my boobs to you\n3) Leave (Hint: new scene if you revisit the level almost fully horny)</p>
-				<p i="9">Ooooh, hmmm.... what happened here? He\'s even more naked! What\'s with that bottle?</p>
-				<p i="9">And... his thing is now huge! It\'s...mesmerizing! My... my legs are getting weak! Shall I...erhm.... do something to help him?</p>
-				<p i="9">(Press a Number)\n1) Calm it down with your butt!</p>
+				<f i="10">Osama: Thank you, my dear! I\'ll wait here!</f>
+				<f i="11">Osama: What do you want, my dear? I\'ve already said, you need to climb there to go to the Airship!</f>
+				<p i="12">(Press a Number)\n1) Help you fell better (stroke him)\n2) Leave</p>
+				<f i="13">Osama: Oh my cute dear, THANK YOU!! I am so refreshed now. Our kingdom is SAVED!</f>
+				<p i="14">1) I want to...erhm...stroke you, my king!\n2) I want to show my boobs to you\n3) Leave (Hint: new scene if you revisit the level almost fully horny)</p>
+				<p i="15">Ooooh, hmmm.... what happened here? He\'s even more naked! What\'s with that bottle?</p>
+				<p i="16">And... his thing is now huge! It\'s...mesmerizing! My... my legs are getting weak! Shall I...erhm.... do something to help him?</p>
+				<p i="17">(Press a Number)\n1) Calm it down with your butt!</p>
 			</scenes>
 			
 			<scenes scene="osama1">
@@ -5599,6 +5599,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="D_AssBack">Попу сзади</text>
 			<text name="D_PussyFront">Клитор спереди</text>
 			<text name="D_Lay">Лечь</text>
+			<text name="D_Butt">Butt</text>
+			<text name="D_ArmsLegs">Arms/\nLegs</text>
+			<text name="D_FaceHair">Face/\nHair</text>
 			
 			<text name="noMorePages">No more pages</text>
 			<text name="nextPage">Слeд.страница</text>
@@ -5965,6 +5968,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenPause_PrincessPregnant2">day(s) to deliver!</text>
 			<text name="ScreenPause_PrincessPregnant3">The Princess will DELIVER at ANY moment!</text>
 			
+			<text name="ScreenPause_PrincessScenesToCrazy">scenes to be crazy for sex</text>
+			<text name="ScreenPause_PrincessScenesToNymph">scens to be a nymphomaniac</text>
 			<text name="ScreenPause_PrincessStat1">The Princess is decent in this level</text>
 			<text name="ScreenPause_PrincessStat2">The Princess did nasty things!</text>
 			<text name="ScreenPause_PrincessStat3">The Princess is craving for sex!</text>
@@ -5987,7 +5992,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="galleryUnlockedBobomb">The gallery for the bobombs has been UNLOCKED!</text>
 		<text name="galleryUnlockedLakitu">The gallery for the lakitus has been UNLOCKED!</text>
 		<text name="galleryUnlockedBoss">The gallery for the bosses has been UNLOCKED!</text>
-		<text name="galleryUnlockedFriend">The gallery for the princess\' friends has been UNLOCKED!</text>
+		<text name="galleryUnlockedFriends">The gallery for the princess\' friends has been UNLOCKED!</text>
 		<text name="galleryUnlockedPiranha">The gallery for the piranhas has been UNLOCKED!</text>
 		<text name="galleryUnlockedCreature">The gallery for this creature has been UNLOCKED!</text>
 		
