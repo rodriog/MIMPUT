@@ -5596,7 +5596,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="open">Abrir</text>
 			<text name="close">Cerrar</text>
 			<text name="Exit">Salir</text>
+			
+			<text name="Month">Mês</text>
 			<text name="days">dias</text>
+			<text name="Day">dia</text>
 			<text name="DAY">DIA</text>
 			<text name="DaysToDeliver">Dias para parir</text>
 			<text name="TOTAL">TOTAL</text>
@@ -6038,15 +6041,15 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="g_nymph">Are you a...NYMPH?</text>
 		
 	<!--SCREEN: ENDINGS in the CASTLE-->
-			<text name="EndingMoreSex">ENDING: \'PRINCESS DISCOVERING MORE SEX\'</text>
-				<text name="EndingMoreSexDesc">explores her growing sexuality every day with the Toads of her kingdom and all of her very horny friends!</text>
-			<text name="EndingOsamaQueen">ENDING: \'PRINCESS AS OSAMA\' S QUEEN\'</text>
-				<text name="EndingOsamaQueenDesc">finishes her quest as being the Queen of Osama! The princess is Pregnant and both are going to fulfill their desires!</text>
-			<text name="EndingVirginLover">ENDING: \'A VIRGIN PRINCESS WITH HER LOVER\'</text>
-				<text name="EndingVirginLoverDesc">finishes her quest VIRGIN!</text>
-				<text name="EndingVirginLoverDesc2">decides to Marry her (and fuck her relentlessly with love!)</text>
-			<text name="EndingDirtySlut">ENDING: \'DIRTY SLUT\'</text>
-				<text name="EndingDirtySlutDesc">finishes her slutty quest being fucked by all races of creatures of the kingdom, day by day!</text>
+			<text name="EndingMoreSex">FINAL: \'PRINCESA DESCOBRE MAIS SEXO\'</text>
+				<text name="EndingMoreSexDesc">explora sua sexualidade a cada dia com os Toads e todos ser amiguinhos pervertidos do reino!</text>
+			<text name="EndingOsamaQueen">FINAL: \'PRINCESA COMO RAINHA DE OSAMA'</text>
+				<text name="EndingOsamaQueenDesc">termina sua aventura como a Rainha! A princesa está grávida e ambos se atolarão em desejos!</text>
+			<text name="EndingVirginLover">FINAL: \'UMA PRINCESA VIRGEM E SEU AMOR\'</text>
+				<text name="EndingVirginLoverDesc">termina o jogo VIRGEM!</text>
+				<text name="EndingVirginLoverDesc2">decide casar-se com ela (e fodê-la sem parar, como coelhos!)</text>
+			<text name="EndingDirtySlut">FINAL: \'NINFOMANIACA ou PUTA\'</text>
+				<text name="EndingDirtySlutDesc">termina sua aventura pervertida send fodida por quase todas as espécies de criaturas do reino, dia após dia!</text>
 		
 	<!--SCREEN: NAKED-->
 			<text name="ScreenNaked_Careful">Ten cuidado! Vas\a salir a tu busqueda DESNUDA!</text>

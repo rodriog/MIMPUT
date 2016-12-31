@@ -5596,7 +5596,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="close">Close</text>
 			<text name="Exit">Exit</text>
 			
+			<text name="Month">Month</text>
 			<text name="days">days</text>
+			<text name="Day">Day</text>
 			<text name="DAY">DAY</text>
 			<text name="DaysToDeliver">Days to deliver</text>
 			<text name="TOTAL">TOTAL</text>

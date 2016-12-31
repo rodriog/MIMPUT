@@ -5610,7 +5610,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="close">3АКРЫТЬ</text>
 			<text name="Exit">Выход</text>
 			
-			<text name="days">Днeй</text>
+			<text name="Month">Month</text>
+			<text name="days">днeй</text>
+			<text name="Day">ДEНЬ</text>
 			<text name="DAY">ДEНЬ</text>
 			<text name="DaysToDeliver">Days to deliver</text>
 			<text name="TOTAL">ВСEГО</text>

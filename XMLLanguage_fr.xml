@@ -5590,7 +5590,9 @@ Enjoy!
 			<text name="open">Open</text>
 			<text name="close">Close</text>
 			
+			<text name="Month">Month</text>
 			<text name="days">days</text>
+			<text name="Day">Day</text>
 			<text name="DAY">DAY</text>
 			<text name="DaysToDeliver">Days to deliver</text>
 			<text name="TOTAL">TOTAL</text>
