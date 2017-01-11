@@ -4323,6 +4323,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Hmmm? What are you doing here in this despicable world?</p>
 			</scenes>
 			
+			<scenes scene="level8-6">
+				<p i="1">Oh my Mushrooms! I think I finally reached the Bowser Castle level! It\'s HUGE!</p>
+			</scenes>
+
 			<scenes scene="level9-1">
 				<p i="1">There are many buttons. I\'ve pressed some of them but nothing happens.</p>
 				<p i="2">Erhhhm...You dont suppose I know how to operate those computers... Right?</p>
