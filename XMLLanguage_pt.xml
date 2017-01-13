@@ -4333,8 +4333,11 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Hummm? O que você está fazendo aqui neste mundo deplorável, amiguinho?</p>
 			</scenes>
 			
-			<scenes scene="level8-6">
+			<scenes scene="level8-7">
 				<p i="1">Oh meus Cogumelos! Finalmente alcancei a área do Castelo do Bowser! Ele é...IMENSO!</p>
+				<p i="2">Esta estátua é...tão pervertida! Veja essa...piroca! A cabeça parece de carne! Minha nossa!</p>
+				<p i="3">Esta estátua está fazendo uma pose muito excitante! Eu...não consigo me segurar!</p>
+				<p i="4">Esta estátua está com vergonha! Hehe. Ou...talvez se prepare para '\pular\' em cima de mim!!</p>
 			</scenes>
 
 			<scenes scene="level9-1">
