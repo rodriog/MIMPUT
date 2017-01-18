@@ -976,7 +976,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="drybone2">
 				<p i="1">Hmm, pilha de ossos,\nQuero domesticar você, hihi! (espero que se quebre logo!)</p>
 				<p i="2">Ainda não? Vejamos\nse seus ossos precisam de carinho...</p>
-				<p i="3">Hein? Você gozou! Mas\nnão vejo nada meladinho!</p>
+				<p i="3">Você gozou! Mas\nnão vejo nada meladinho!</p>
 			</scenes>
 			<scenes scene="drybone3">
 				<p i="1">Eii, pare!\nDeixe meus peitos em paz! Ooooh, não! Eles estão chupando como bebês!</p>
@@ -4336,7 +4336,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="1">Oh meus Cogumelos! Finalmente alcancei a área do Castelo do Bowser! Ele é...IMENSO!</p>
 				<p i="2">Esta estátua é...tão pervertida! Veja essa...piroca! A cabeça parece de carne! Minha nossa!</p>
 				<p i="3">Esta estátua está fazendo uma pose muito excitante! Eu...não consigo me segurar!</p>
-				<p i="4">Esta estátua está com vergonha! Hehe. Ou...talvez se prepare para '\pular\' em cima de mim!!</p>
+				<p i="4">Esta estátua está com vergonha! Hehe. Ou...talvez se prepare para \'pular\' em cima de mim!!</p>
 			</scenes>
 
 			<scenes scene="level9-1">
@@ -5665,6 +5665,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="TrainExpress">Trem Expresso</text>
 			
 			<text name="HardModeCantMasturbate">JOGO DIFÍCIL! Você NÃO pode se masturbar assim!</text>
+			<text name="LockerDestroyed">Um bloqueador dourado foi destruído. A princesa poderá passar por esta área!</text>
 			<text name="AutoSavedToSlot">Auto Salvo ao Item</text>
 			<text name="SavedToSlot">SALVO\nNO ITEM!</text>
 			<text name="SAVED">SALVO</text>
