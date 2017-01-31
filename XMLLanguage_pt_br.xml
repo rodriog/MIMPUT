@@ -3199,12 +3199,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="bed4">Mário!! Oh, meu amor\nonde você está agora! Estou batendo uma para você!</p>
 				<p i="bed5">Ahhhh! GOZEI!\nJorre porra no meu corpinho, meu bigodudinho!</p>
 				<f i="treasure">Princesa, você\npode abrir uma dessas arcas, caso queira um bônus.</f>
-				<f i="helpLocked">Princesa! Olha para cá!\nAjude-me! Socorro!! Vem cá!</f>
+				<f i="helpLocked">Princesa! Olha\npara cá!Ajude-me! Socorro!! Vem cá!</f>
 				<f i="lockedPrisonBowser1">Olá, minha princesa amável! Estou tão feliz em vê-la por aqui! Eles removeram minhas roupas e estou com frio! Por favor me tire daqui!</f>
-				<p i="lockedPrisonBowser2">(ESCOLHA UM NÚMERO): 1) Ok mas...cadê a chave?\n2) Me desculpa, tenho que salvar o Mário!</p>
+				<p i="lockedPrisonBowser2">(ESCOLHA UM NÚMERO):\n1) Ok mas...cadê a chave?\n2) Me desculpa, tenho que salvar o Mário!</p>
 				<f i="lockedPrisonBowser3">Não há chaves! Existe uma maçanela ali! Ela é mágica! Lembro que eles usaram minha...bunda para excitar a porta até abrí-la. Você precisa ficar...erhm..pelada, e ...você sabe.</f>
-				<p i="lockedPrisonBowser4">(ESCOLHA UM NÚMERO): 1) Ééé...ok, vou esfregar minha...bundinha nele, mas NÃO OLHE PARA CÁ!\n2) Mas nem MORTA! Chega disso!</p>
-				<p i="lockedPrisonBowser4Nymph">(ESCOLHA UM NÚMERO): 1) Tudo bem sim! Que excitante! Eu vou amar, hihi! Só um instante!\n2) Não, não quero!</p>
+				<p i="lockedPrisonBowser4">(ESCOLHA UM NÚMERO):\n1) Ééé...ok, vou esfregar minha...bundinha nele, mas NÃO OLHE PARA CÁ!\n2) Mas nem MORTA! Chega disso!</p>
+				<p i="lockedPrisonBowser4Nymph">(ESCOLHA UM NÚMERO):\n1) Tudo bem sim! Que excitante! Eu vou amar, hihi! Só um instante!\n2) Não, não quero!</p>
 				<f i="lockedPrisonBowser5">Muito obrigado, princesa! Aqui estão algumas moedas para você! Você merece muito mais! Beijão!!!</f>
 			</scenes>
 			
