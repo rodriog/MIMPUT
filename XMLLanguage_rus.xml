@@ -3087,7 +3087,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="6">Whooopsie!\nMy butt has... touched your head! I am sorry!</p>
 				<f i="6">Dun... De... Dun....\nHmmmmm!</f>
 				<f i="7">This one is harder,\nplease stand still!</f>
-				<f i="8">Ohhh, I...Mhhhmph!\nHmmm! Mmph Ahhh!</f>
+				<p i="8">Ohhh, I...Mhhhmph!\nHmmm! Mmph Ahhh!</p>
 			</scenes>			
 
 			<scenes scene="dialogueCharlieton">

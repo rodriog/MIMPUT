@@ -3074,7 +3074,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="6">Whooopsie!\nMy butt has... touched your head! I am sorry!</p>
 				<f i="6">Dun... De... Dun....\nHmmmmm!</f>
 				<f i="7">This one is harder,\nplease stand still!</f>
-				<f i="8">Ohhh, I...Mhhhmph!\nHmmm! Mmph Ahhh!</f>
+				<p i="8">Ohhh, I...Mhhhmph!\nHmmm! Mmph Ahhh!</p>
 			</scenes>			
 			
 			<scenes scene="dialogueCharlieton">
@@ -5948,7 +5948,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="9-3">Na Lua abismal</text>
 	
 	<!--SCREENS: PROLOGUE -->
-		<text name="PrologueOnceUpon">Era uma vez um reinado de cogumelos, um local de muita paz.\nUma princesa reinava todos os habitantes em uma vasta terra distante.</text>
+		<text name="PrologueOnceUpon">Era uma vez um reinado de cogumelos, um local de muita paz.\nUma princesa reinava a todos os habitantes em uma vasta terra distante.</text>
 		<text name="PrologueAmongToads">A princesa sempre vivia ao lado dos toads, pequenas criaturas que a protegiam, bem como o castelo.\nEles eram inúmeros, ajudando-a toda vez que necessitava.</text>
 		<text name="PrologueLewdToads">Às vezes...devido a suas necessidades da puberdade, ela acabava fazendo bem mais do que acariciá-los...</text>
 		<text name="PrologueCallingToads">A princesa começou a chamá-los antes do café-da-manhã, no almoço, durante a tarde e antes de dormir...\nAté que um final de semana especial chegou...</text>
