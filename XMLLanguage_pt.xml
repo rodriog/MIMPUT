@@ -3985,6 +3985,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="4">Oh...tem certeza que deseja que eu fique pelada? (ESCOLHA UM NÚMERO)\n1) SIM!\n2) NÃO!</p>
 					<p i="4a">Aiii, que CALOR! Preciso retirar estas roupas. (ESCOLHA UM NÚMERO)\n1) FICAR PELADA!\n2) NÃO!</p>
 				<p i="5">Agora você é a Princesa de Fogo! Tecle \'botão ataque\' para lançar bolas de fogo!</p>
+					<p i="5a">Agora você é a Princesa de Fogo, e ela foi queimadinha! (Isto pode ser mudado nas OPÇÕES). Tecle \'botão ataque\' para lançar bolas de fogo!</p>
 				<p i="6">Você agora é um Guaxinim! Tecle \'Correr\' para voar ou \'Ataque\' para virar estátua!</p>
 				<p i="7">Você agora tem rabo e orelha de Guaximim! Corra e pule quando todas as setas forem vermelhas para poder voar!</p>
 				<p i="8">Agora você é um SAPO! Tecle \'CIMA\' ou \'BAIXO\' enquanto na água!</p>
@@ -4331,8 +4332,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			</scenes>
 			
 			<scenes scene="level7-6">
-				<f i="1">Oh! Uma castelo no céu! Mas sinto um mau presságio... Devo explorá-lo mesmo?</f>
-				<f i="2">Oh, mamãe pelada! Este castelo é tão perigoso! Mas ouvi falar sobre os tesouros! Só seja cautelosa, tá?</f>
+				<p i="1">Oh! Uma castelo no céu! Mas sinto um mau presságio... Devo explorá-lo mesmo?</f>
+				<f i="2">Oh, mamãe pelada! Este castelo é tão perigoso! Mas ouvi falar sobre os tesouros! Só seja cautelosa, tá?</p>
 				<f i="3">Princesa, Este castelo é tão perigoso! Mas ouvi falar sobre os tesouros! Só seja cautelosa, tá?</f>
 			</scenes>
 			
@@ -5960,6 +5961,11 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		<text name="9-3">Na Lua abismal</text>
 	
 	<!--SCREENS: PROLOGUE -->
+		<text name="PrologueOnceUpon">Era uma vez um reinado de cogumelos, um local de muita paz.\nUma princesa reinava todos os habitantes em uma vasta terra distante.</text>
+		<text name="PrologueAmongToads">A princesa sempre vivia ao lado dos toads, pequenas criaturas que a protegiam, bem como o castelo.\nEles eram inúmeros, ajudando-a toda vez que necessitava.</text>
+		<text name="PrologueLewdToads">Às vezes...devido a suas necessidades da puberdade, ela acabava fazendo bem mais do que acariciá-los...</text>
+		<text name="PrologueCallingToads">A princesa começou a chamá-los antes do café-da-manhã, no almoço, durante a tarde e antes de dormir...\nAté que um final de semana especial chegou...</text>
+		<text name="ScreenTrain_MarioAfter">Mário, depois da última aventura, finalmente chama a princesa para um jantar no trem!</text>
 		<text name="PeachInvites">A princesa convida o Mário para seu castelo... Ela finalmente terá sua primeira experiência...</text>
 		<text name="ButSomethingBad">Mas algo ruim está prestes\na acontecer ao reino....</text>
 		<text name="PeachInvitesAgain">A princesa convida o Mário para seu\ncastelo novamente...</text>
@@ -5989,9 +5995,6 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		<text name="ScreenKeyboard_LeftHanded">Canhoto (2 mãos)</text>
 		<text name="ScreenKeyboard_SingleLeftHand">Canhoto (Só uma mão)</text>
 	
-	<!--SCREEN:TRAIN-->
-			<text name="ScreenTrain_MarioAfter">Mário, depois da última aventura, finalmente chama a princesa para um jantar no trem!</text>
-		
 	<!--SCREEN: CHAR-->
 			<text name="CHOOSECHARACTER">ESCOLHA A PERSONAGEM</text>
 			
@@ -6183,6 +6186,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<text name="ScreenOptions_SluttyWalkClassic">(Se SIM e ela tiver PUTA, sua caminhada mudará)</text>
 			<text name="ScreenOptions_Header_Protection">Proteção (Pisca)</text>
 				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(Se NÃO, não haverá proteção depois de usar portas, canos ou depois de cenas)</text>
+			<text name="ScreenOptions_Header_FirePeachBurned">Fire Peach ao se queimar (volta a Peach se morrer)</text>
+				<text name="ScreenOptions_FirePeachBurnedDescription">O fogo irá deixá-la com a pele escura até que perca uma vida.</text>
 			<text name="ScreenOptions_Header_LingerieCanShred">Lingerie podem rasgar</text>
 				<text name="ScreenOptions_LingerieCanShredDescription">(Se NÃO, ela não pederá luvas, sapatos, meiões, etc. Mas ela PODE PERDER VIDA se tiver só com eles com a excitação em 0%)</text>
 			<text name="ScreenOptions_Header_NewPeachPortrait">Novo Avatar da Peach</text>

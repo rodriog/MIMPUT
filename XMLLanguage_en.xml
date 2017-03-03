@@ -3974,6 +3974,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="4">Oh...are you sure you want me to remove my outfit? (CHOOSE A NUMBER)\n1) YES!\n2) NO!</p>
 					<p i="4a">I...I really need to remove this outfit... I am on fire! (CHOOSE A NUMBER)\n1) REMOVE IT!\n2) NO!</p>
 				<p i="5">You\'re now Fire Princess! Press attack button to throw fireballs!</p>
+					<p i="5a">You\'re now Fire Princess and Peach was burnt! (That can be changed in the options). Press attack button to throw fireballs!</p>
 				<p i="6">You\'re now a Furry Raccoon! Press \'Run\' in order to fly or \'Attack\' for a statue!</p>
 				<p i="7">You\'re now a Raccoon! Run in order to fly!</p>
 				<p i="8">You\'re now a frog! Use UP/DOWN while in the water!</p>
@@ -4320,7 +4321,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>
 			
 			<scenes scene="level7-6">
-				<f i="1">Oh! A castle in the sky! But I feel a bad omen...Am I going to explore it?</f>
+				<p i="1">Oh! A castle in the sky! But I feel a bad omen...Am I going to explore it?</p>
 				<f i="2">Oh, my naked mom! This castle is dangerous! But I\'ve heard about treasures there! Be careful!</f>
 				<f i="3">Princess, This castle is dangerous! But I\'ve heard about treasures there! Be careful!</f>
 			</scenes>
@@ -5947,6 +5948,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="9-3">Moon Abyss</text>
 	
 	<!--SCREENS: PROLOGUE -->
+		<text name="PrologueOnceUpon">Once upon a time, Mushroom Kingdom was a very calm place.\n The princess was the ruler of all inhabitants of this distant land.</text>
+		<text name="PrologueAmongToads">The princess was always among toads, little beings that protected her and the Castle.\nThey are everywhere, helping the princess everytime she needs a hand.</text>
+		<text name="PrologueLewdToads">Sometimes...Due to her pubescent urges, she ended up doing more than caressing the toads...</text>
+		<text name="PrologueCallingToads">The princess was then calling the toads before breakfast, before lunch, during the afternoon and before bed...\nUntil a special weekend arrived...</text>
+		<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess Peach for a dinner in the Train.</text>
 		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
 		<text name="ButSomethingBad">But something bad is about\nto happen....</text>
 		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>
@@ -5976,9 +5982,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="ScreenKeyboard_LeftHanded">lefthanded</text>
 		<text name="ScreenKeyboard_SingleLeftHand">single left hand</text>
 	
-	<!--SCREEN:TRAIN-->
-			<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess Peach for a dinner in the Train.</text>
-		
 	<!--SCREEN: CHAR-->
 			<text name="CHOOSECHARACTER">CHOOSE YOUR CHARACTER</text>
 			
@@ -6170,6 +6173,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="ScreenOptions_SluttyWalkClassic">(If YES, her \'slutty\' walk will change to classic)</text>
 			<text name="ScreenOptions_Header_Protection">Protection (Blink)</text>
 				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(If NO, no protection after using doors, pipes, or after a erotic scene. Doesn\'t affect Starman)</text>
+			<text name="ScreenOptions_Header_FirePeachBurned">Fire Peach if \'burned\', back to Peach if lost.</text>
+				<text name="ScreenOptions_FirePeachBurnedDescription">Touching fire will \'BURN\' Peach until she loses a life.</text>
 			<text name="ScreenOptions_Header_LingerieCanShred">Lingerie can be shred</text>
 				<text name="ScreenOptions_LingerieCanShredDescription">(If NO, she won\'t lose her garter, heels, stockings and gloves when hit. BEWARE, she will lose a life if hit while her horny bar is zero)</text>
 			<text name="ScreenOptions_Header_NewPeachPortrait">Teen Peach Portrait</text>
