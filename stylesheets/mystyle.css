@@ -1,5 +1,13 @@
+@font-face {
+  font-family: Mario & Luigi;
+  src: local("Mario&Luigi2"),
+       local("Mario&Luigi2"),
+       url(Mario&Luigi2.ttf);
+  /*font-weight: bold;*/
+}
+
 body { 
-    font-family: Arial Narrow;
+    font-family: Mario & Luigi;
     background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
