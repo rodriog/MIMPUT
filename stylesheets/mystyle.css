@@ -6,10 +6,10 @@
   /*font-weight: bold;*/
 }
 
-/* Lucida Grande, Trebuchet MS, Verdana, Helvetica, Arial, sans-serif (Sans Serif, Helvetica and Arial were not so great*/
+/* Lucida Grande, Trebuchet MS, Verdana, Helvetica, Arial, sans-serif (Verdana, Sans Serif, Helvetica and Arial were not so great*/
 
 body { 
-	font-family: Verdana;
+	font-family: Times New Roman;
     background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
