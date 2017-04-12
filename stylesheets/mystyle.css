@@ -7,10 +7,14 @@
 }
 
 body { 
-    font-family: Mario Luigi;
+	font-family: Tahoma;
     background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+h3 {
+    font-family: Mario Luigi;
 }
 
 ul {
