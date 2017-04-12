@@ -6,8 +6,10 @@
   /*font-weight: bold;*/
 }
 
+/* Lucida Grande, Trebuchet MS, Verdana, Helvetica, Arial, sans-serif */
+
 body { 
-	font-family: Times New Roman;
+	font-family: sans-serif;
     background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
