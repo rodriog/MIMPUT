@@ -843,6 +843,48 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="7a">Oh, darling!\nFuck me!! I am your whore!! Ohhhh!</p>
 				<p i="8">Ahhh, I am cuming,\nmy pizza-sweaty flavoured darling!  Hmmmm!</p>
 			</scenes>
+			<scenes scene="mario7">
+				<e i="1">Olá, {CHARACTER_NAME}! Ainda em busca do Mário? Ou você caiu de paixão por mim?</e>
+				<p i="1">Talvez...talvez não... Devo estar apenas excitadainha e precisando de alguém para...</p>
+				<e i="1a">\nSou eu! Doo-pliss! *Psst* Quer que eu te coma?</e>
+				<p i="1a">Oh? Será que é...Mário?\nÉ realmente você? *sussurando* Vamos...fazer de novo?</p>
+				<e i="1b">\nSou eu! Máaaario!</e>
+				<p i="1b">\nOh? Estou mesmo acordada? É você, Mário?</p>
+				<e i="2">Apenas admita,\n{CHARACTER_NAME}! Você ama minha piroca a ponto de nunca me deixar!</e>
+				<p i="2">Hah! Você não acha que... poderia dividir esse pinto comigo? Enfia em mim!</p>
+				<e i="2a">\nCeeeeertooow!</e>
+				<p i="2a">\nHmm, bom, eu...</p>
+				<e i="3">Última chance, {CHARACTER_NAME}!\nQual piroca você quer?</e>
+				<p i="3">Aaahh, droga!\nEu quero o seu mastro agora! Foda-me AGORA com ...sua piroca GORDA!</p>
+				<e i="3a">\nVamos, então!</e>
+				<p i="3a">Oh não! Isto foi tão repentino! Não podíamos ir para um local...reservado?</p>
+				<e i="4">Oooh SIM! Adoro comer sua buceta, {CHARACTER_NAME}!</e>
+				<p i="4">\nSiiim! Eu amo taaanto! Foda-me, Doopliss!</p>
+				<e i="4a">\nMamma mia!</e>
+				<p i="4a">\nAaah! Está estucado lá dentro! Mário está dentro de mim! Ahh, é tãooo quentinho!</p>
+				<e i="5">Droga, {CHARACTER_NAME}!\nNão poderei manter essa forma por muito tempo!</e>
+				<p i="5">Que importa?\nFoda-me mais forte! OOOh! Seu pinto está me fazendo rebolar loucamente!</p>
+				<e i="5a">\nAqui vamos nós!</e>
+				<p i="5a">Oh, SIM! Foda-me,\nMário! Não estou nem aí se alguém nos vir... apenas foda-me!</p>
+				<e i="6">Oh, {CHARACTER_NAME}! Estou a gozar! Irei jorrar em sua buceta TODA a minha PORRA! Hahaha!</e>
+				<p i="6">Sim! SIM! Foda-me até derreter em porra, Doopliss! Sua piroca me fará gozar de novo!</p>
+				<e i="6a">Argh, {CHARACTER_NAME}!\nSua buceta é muito aperta! Irei explodí-la de porra agora!</e>
+				<p i="6a">\nSim! SIM! Bombeia na minha buceta! Foda-me mais! Irei GOZAR!</p>
+				<e i="6b">Argh! Estou te comendo, {CHARACTER_NAME}! Sua perereca está tão apertada abraçando meu pau!</e>
+				<p i="6b">\nSim! SIM! Hein? Sua...sua voz mudou? Ahh, que importa? Foda-me mais!</p>
+				<e i="6c">\nQue irado! Que puta!</e>
+				<p i="6c">\nSim! SIIM! Foda-me até o talo, Mário! Foda-me mais! Irei GOZAR! Ah, Mário!</p>
+				<e i="7">Oooh! Gozei\npara caramba! Não consigo mais derramar nenhuma gota!</e>
+				<p i="7">Hummm! Eu te amo,\nDoo--Oops! Até esqueci que preciso encontrar Mário!</p>
+				<e i="7a">Oooh! Gozei\ntanto! Ainda haveria espaço para mais porra dentro de mim? Hihi!</e>
+				<p i="7a">Oh! Oh, SIM!\nGozei taaaaaanto! Podemos ir novamente? Er...quero praticar mais!</p>
+				<e i="7b">Oooh! Gozei tan...\nOh! Uoops! Obrigado pela fodida, {CHARACTER_NAME}!</e>
+				<p i="7b">Oh! Siiiim!\nGozei muiiiito! Eu te amo, M--QUE?? QUEM É VOCÊ!?</p>
+				<e i="7c">\nObrigado por ter adorado minha piroca aí dentro!</e>
+				<p i="7c">Oh! Siiim!\nGozei tanto! Eu te amo... Sósia do meu Mário!</p>
+				<e i="7d">\nObrigado muito por... jogar meu jogo! Hehe!</e>
+				<p i="7d">\nOh! SIM! Gozei muuuuuuito! Eu te amo, Mário!</p>
+			</scenes>
 			
 	<!--CHOMPS-->
 			<scenes scene="chomp1">
@@ -3689,6 +3731,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="6">Mario! I am...sooo horny!</p>
 				<p i="7">(CHOOSE A NUMBER):\n1) Suck his balls     2) Prepare your ass for him     3) Kneel while he fucks your ass</p>
 				<p i="8">(CHOOSE A NUMBER):\n1) Suck his balls     2) Prepare your ass for him     3) Sit on him</p>
+				<p i="9">Ele é... Mário? Algo está...estranho...\n1) Abraçar \'Mario?\' \n{NEXTKEY}) Evitar \'Mario?\'</p>
+				<p i="10">Doopliss está fingindo ser Mário de novo!\n1) Divertir-se.\n{NEXTKEY}) Fique longe desse cara!</p>
 			</scenes>	
 			
 			<scenes scene="dialogueVegetable">

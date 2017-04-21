@@ -841,6 +841,48 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="7a">Oh, darling!\nFuck me!! I am your whore!! Ohhhh!</p>
 				<p i="8">Ahhh, I am cuming,\nmy pizza-sweaty flavoured darling!  Hmmmm!</p>
 			</scenes>
+			<scenes scene="mario7">
+				<e i="1">Hi, {CHARACTER_NAME}! Still looking for Mario? Or have you fallen for his impersonator?</e>
+				<p i="1">Maybe, maybe not. Maybe I\'m just horny and need someone to take the edge off.</p>
+				<e i="1a">\nIt\'sa me! Doo-pliss! *Psst* Do I have to?</e>
+				<p i="1a">Oh? Can it be?\nIs it really you, Mario? *whisper* Play along or I walk.</p>
+				<e i="1b">\nIt\'sa me! Mar-io!</e>
+				<p i="1b">\nOh? Can it be? Is it really you, Mario?</p>
+				<e i="2">Just admit it,\n{CHARACTER_NAME}! You love my dick too much to leave me!</e>
+				<p i="2">Hah! Aren\'t you\nfull of yourself? Just get your dick inside me already!</p>
+				<e i="2a">\nOkey-dokey!</e>
+				<p i="2a">\nHmm, well, I...</p>
+				<e i="3">Last chance, {CHARACTER_NAME}!\nWhose dick do you want right now?</e>
+				<p i="3">Aaahh, fuck it!\nI want it so bad! Fuck me right now with your big...fat...hard...COCK!</p>
+				<e i="3a">\nLet\'s-a go!</e>
+				<p i="3a">Oh my! This is all so sudden! I was hoping for something more, er, private?</p>
+				<e i="4">Oooh yeah! I love fucking your pussy, {CHARACTER_NAME}!</e>
+				<p i="4">\nYes! I love it so much! Fuck me hard, Doopliss!</p>
+				<e i="4a">\nMamma mia!</e>
+				<p i="4a">\nAaah! It\'s in! Mario is finally inside me! Oh, it feels so good!</p>
+				<e i="5">Fuck, {CHARACTER_NAME}!\nI can\'t hold this form much longer!</e>
+				<p i="5">Who cares?\nFuck me harder! Your dick is making me go crazy!</p>
+				<e i="5a">\nHere we go!</e>
+				<p i="5a">Oh, yes! Fuck me,\nMario! I don\'t care who sees us anymore! Just keep fucking me!</p>
+				<e i="6">Oh {CHARACTER_NAME}! I\'m gonna cum! I\'m gonna fill your pussy with all of my CUM!!</e>
+				<p i="6">Yes! YES! Fuck me, Doopliss! Your huge dick is gonna make me cum again!</p>
+				<e i="6a">Fuck, {CHARACTER_NAME}!\nYour pussy is so tight! I\'m gonna blow my load inside you!</e>
+				<p i="6a">\nYes! YES! Pound my pussy! Fuck me hard! I\'m gonna CUM!</p>
+				<e i="6b">Fuck! I\'m fucking you {CHARACTER_NAME}! Your pussy is so tight around my dick!</e>
+				<p i="6b">\nYes! YES! Huh? Did your voice change? Oh, who cares? Pound me harder!</p>
+				<e i="6c">\nHot-hot-hooooot!</e>
+				<p i="6c">\nYes! YES! Pound me, Mario! Fuck me hard! I\'m gonna cum! Mario!</p>
+				<e i="7">Oooh! I came so\nhard! I can\'t cum another drop!</e>
+				<p i="7">Oooh! I love you,\nDoo--Oops! I almost forgot I still need to find Mario!</p>
+				<e i="7a">Oooh! I came so\nhard! Is there still room for Mario\'s cum in there?</e>
+				<p i="7a">Oh! Oh yes!\nI came so much! Can we go again? I, er, want to practice for Mario!</p>
+				<e i="7b">Oooh! I came so\nhar...d. Oh! Whoops! Thanks for the fuck, {CHARACTER_NAME}!</e>
+				<p i="7b">Oh! Oh yes!\nI came so hard! I love you, M--WHO THE FUCK ARE YOU!?</p>
+				<e i="7c">\nThank you so much for-to-fucking my dick!</e>
+				<p i="7c">Oh! Oh yes!\nI came so hard! I love you--r Mario impression!</p>
+				<e i="7d">\nThank you so much for-to-playing my game!</e>
+				<p i="7d">\nOh! Oh yes! I came so hard! I love you, Mario!</p>
+			</scenes>
 			
 	<!--CHOMPS-->
 			<scenes scene="chomp1">
@@ -3686,6 +3728,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="6">Mario! I am...sooo horny!</p>
 				<p i="7">(CHOOSE A NUMBER):\n1) Suck his balls     2) Prepare your ass for him     3) Kneel while he fucks your ass</p>
 				<p i="8">(CHOOSE A NUMBER):\n1) Suck his balls     2) Prepare your ass for him     3) Sit on him</p>
+				<p i="9">Is that Mario? Something seems strange...\n1) Embrace \'Mario?\' \n{NEXTKEY}) Avoid \'Mario?\'</p>
+				<p i="10">Doopliss is pretending to be Mario again.\n1) Humor him.\n{NEXTKEY}) Keep away from that freak!</p>
 			</scenes>	
 			
 			<scenes scene="dialogueVegetable">
