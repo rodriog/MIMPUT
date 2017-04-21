@@ -3110,6 +3110,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="6">Wario: Princesa!! Vejo que tem moedas aí! Entregue algumas para mim AGORA!</f>
 			</scenes>			
 			
+			<scenes scene="dialogueDoopLiss">
+				<e i="1">Ei, Princesa {CHARACTER_NAME} Puta! Estou ainda procurando aquele Mário bundão! Ele DEVE permanecer como uma sombra o resto da vida dele! HAAAAHAHAHA!</e>
+				<p i="2">(ESCOLHA UM NÚMERO)\n1) Chute-o (perigoso!)\n2) Ignore-o (SAIR)</p>
+				<p i="3">*CENA AINDA A SER FEITA*</p>
+			</scenes>			
+			
 			<scenes scene="dialogueBubulber">
 				<f i="1">Dan di Dan....La la la</f>
 				<f i="2">Olá minha querida Princesa!</f>
@@ -3988,8 +3994,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="climax">\nOhhhhhhh! ♥</p>
 				<p i="climax">\nAhhhh!</p>
 				<p i="climax">\nEstá...quen-\ntinho no meu favo de mel! ♥</p>
-				<p i="climax">\nOhhh eke não para de gozaaar!</p>
-				<p i="climax">\nO odor esté me fazendo excitada!</p>
+				<p i="climax">\nOhhh ele não para de gozaaar!</p>
+				<p i="climax">\nO odor está me deixando excitada!</p>
 				<p i="climax">\nQue vergonha! Que odor de macho!</p>
 				<p i="climax">\nEste cheiro está me deixando tonta!</p>
 				<p i="climax">\nEstá uma fumaça de amor por aqui!</p>
@@ -3997,6 +4003,18 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="climax">\nHaaah...Preciso tomar um banho!</p>
 				<p i="climax">\nEspero que essa porra não fique pingando quando andar por aí...</p>
 				<p i="climax">\nAhhh EU TE AMO! ♥</p>
+				
+				<!--PODE-SE INCLUIR MAIS ITENS!-->
+				<p i="climaxFemale">\nOhhh, querida! ♥</p>
+				<p i="climaxFemale">\nAhhhh, amiga!</p>
+				<p i="climaxFemale">\nVocê...deixou minha buceta quentinha! ♥</p>
+				<p i="climaxFemale">\nOhhh ela não para de gozaaar!</p>
+				<p i="climaxFemale">\nO odor está me deixando excitada!</p>
+				<p i="climaxFemale">\nQue vergonha! Que fêmea tarada!</p>
+				<p i="climaxFemale">\nEste cheiro está me deixando tonta!</p>
+				<p i="climaxFemale">\nEstá uma fumaça de amor por aqui!</p>
+				<p i="climaxFemale">\nEu sou mesmo uma sapatão?</p>
+				<p i="climaxFemale">\nAhhh EU TE AMO! ♥</p>
 				
 				<!--PODE-SE INCLUIR MAIS ITENS!-->
 				<p i="climaxSlut">\nEste odor me faz ficar SELVAGEM! ♥</p>

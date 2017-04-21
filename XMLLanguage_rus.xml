@@ -3115,6 +3115,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="6">Wario: Princess!! I see you have some coins! Give them to Wario now!</f>
 			</scenes>			
 			
+			<scenes scene="dialogueDoopLiss">
+				<e i="1">Hey, Princess {CHARACTER_NAME} Cunt! I am still searching that dumbass Mario, he shall remain as a shadow for the rest of his life! BWAHAHAHA!</e>
+				<p i="2">(CHOOSE A NUMBER)\n1) Kick him out (dangerous)\n2) Do nothing (LEAVE)</p>
+				<p i="3">*NOT YET IMPLEMENTED*</p>
+			</scenes>			
+			
 			<scenes scene="dialogueBubulber">
 				<f i="1">Dun dee Dun....La la la</f>
 				<f i="2">Hello my dear Princess!</f>
@@ -3998,6 +4004,18 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="climax">\nHaaah...I could use a shower soon.</p>
 				<p i="climax">\nI wonder if this will drip out while I\'m walking...</p>
 				<p i="climax">\nAhhh I LOVE you! ♥</p>
+				
+				<!--YOU CAN ADD MORE ITEMS!-->
+				<p i="climaxFemale">\nOhhh, my dear! ♥</p>
+				<p i="climaxFemale">\nAhhhh, my girl!</p>
+				<p i="climaxFemale">\nYou...you let my pussy so hot! ♥</p>
+				<p i="climaxFemale">\nOhhh, she doesn\'t stop cumming!</p>
+				<p i="climaxFemale">\nHer smell is making me so horny!</p>
+				<p i="climaxFemale">\nHow embarrassing! She is so nasty!</p>
+				<p i="climaxFemale">\nHer smell is really making me dizzy!</p>
+				<p i="climaxFemale">\nIt\'s steamy all over there!</p>
+				<p i="climaxFemale">\nAm I really a lesbian?</p>
+				<p i="climaxFemale">\nAhhh I LOVE you, girl! ♥</p>
 				
 				<!--YOU CAN ADD MORE ITEMS!-->
 				<p i="climaxSlut">\nThis smell just makes me want to go WILD! ♥</p>
