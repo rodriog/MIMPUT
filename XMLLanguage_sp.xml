@@ -5805,6 +5805,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="PressRunGrab">Press RUN key to grab it</text>
 			<text name="PressRunGrabDecent">Press RUN key to grab it decently.</text>
 			<text name="CannotCarryTwoKeys">Cannot carry two keys at once. Remove one of them first!</text>
+			<text name="CantDoThatInWorldmap">Não é possível fazer isso na fase mapa mundi!</text>
 			<text name="CanOnlyScrollingWorldmap">You can only set the SCROLLING in the Worldmap or in Peach\'s Castle!</text>
 			<text name="StationaryOFFExiting">StationaryCamera is now off. Exiting Options Screen to activate changes.</text>
 			<text name="CanOnlyStationaryWorldmap">You can only set the STATIONARY CAMERA in the Worldmap!</text>

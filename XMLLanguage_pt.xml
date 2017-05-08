@@ -5569,7 +5569,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="DescribeIt">Mostrar/Esconder Estória da Cena</text>
 			<text name="PressMinusZoomArea">Pressione tecla \'-\' (menos) para aproximar/afastar esta área!</text>
 			<text name="PressRUNBackground">Pressione tecla CORRER para ir para o fundo ou voltar para a frente da tela!</text>
-			<text name="TECMonitorWords">PRÓX. EXECUÇÃO\nINICIALIZANDO...\n\nCHAVE NO LUGAR.....\n\n..........\n..........\nOK\n\nCHECANDO.......\nOK\n\nFAVOR ESPERAR.....\n\nENVIANDO.....\n\nNOVO DESTINO\nMUNDO</text>
+			<text name="TECMonitorWords">PRÓX. EXECUÇÃO\nINICIALIZANDO...\n\nCHAVE NO LUGAR.....\n\n..........\n..........\nOK\n\nCHECANDO.......\nOK\n\nDESTINO MUNDO</text>
 			<text name="Leave">Sair</text>
 			<text name="toLeave">para sair</text>
 			<text name="toUnmountLeave">para desmontá-lo e sair.</text>
@@ -5818,6 +5818,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="PressRunGrab">Pressione tecla \'CORRER\' para pegá-lo</text>
 			<text name="PressRunGrabDecent">Pressione tecla \'CORRER\' para pegá-lo descentemente</text>
 			<text name="CannotCarryTwoKeys">Não é possível carregar duas chaves ao mesmo tempo! Retire uma delas!</text>
+			<text name="CantDoThatInWorldmap">Não é possível fazer isso na fase mapa mundi!</text>
 			<text name="CanOnlyScrollingWorldmap">Você só pode configurar a AUTO ROLAGEM da fase no mapa-mundi ou no Castelo da Princesa Peach!</text>
 			<text name="StationaryOFFExiting">Câmera Estacionária agora está DESLIGADA. Saia da tela de opções para ativar mudanças.</text>
 			<text name="CanOnlyStationaryWorldmap">Você só pode ativar Câmera Estacionária no mapa-mundi!</text>
