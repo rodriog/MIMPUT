@@ -3167,8 +3167,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="10">Charlieton: Please choose the gloves color:\n1) White   2) Pink   3) Black</f>
 				<f i="11">Charlieton: Please choose the stockings color:\n1) White   2) Pink   3) Black</f>
 				<f i="12">Charlieton: Please choose the garter color:\n1) White   2) Pink   3) Black</f>
-				<f i="13">Charlieton: Sorry, I dont have any panties...do you want to dress it (erhm) right now, or keep in your inventory?</f>
-				<p i="14">(ВЫБEРИ НOМEР):\n1) Use it right now!\n2) Keep in your inventory</p>
+				<f i="13">Charlieton: Sorry, I don\'t have any panties...do you want to dress it (erhm) right now, or can I ask a delivery toad to send to your castle?</f>
+				<p i="14">(CHOOSE A NUMBER):\n1) Use it right now!\n2) Deliver to your closet (in up to a day)</p>
 				<f i="15">Charlieton: Sorry miss, you don\'t have enough coins.\n1) Look at more wares\n2) Try to Bargain  3) Leave</f>
 				<p i="16">Princess: Can\'t I pay in... \'another\'... way?</p>
 				<f i="17">Charlieton: What do you wish to pay with? Gold? Gems?</f>
@@ -5193,6 +5193,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="medal22">DRAGON QUEEN: The princess\' is Birdo\'s sucker companion!</f> <!--BIRDO-->
 					<f i="desc22">NOT YET!</f>
 
+				<f i="medal23">BLURP IN YOUR HOLES: The Squids got their tentacles over your dirty body!</f> <!--BLOOPERS-->
+					<f i="desc23">NOT YET!</f>
+
+				<f i="medal24">IMPREGNATED: The princess\' is a ditzy pregnant blonde!</f>
+					<f i="desc24">NOT YET!</f>
 					
 				<!--More Later-->
 			</scenes>
@@ -5606,6 +5611,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ClickOnce">Кликни один ра3</text>
 			<text name="ClickBothPressZoom">Нажми два ра3а \'-\' для увeличeния масштаба или {NEXTKEY} чтобы продолжить</text>
 			<text name="clickCreature">Кликни на сущeство или нажми \'-\' для увeличeния масштаба или {NEXTKEY} чтобы продолжить</text>
+			<text name="heWentAway">He went away!</text>
+			<text name="sheWentAway">She went away!</text>
+			<text name="ItemSentToYourCastle">The item was sent to your castle!</text>
 			<text name="OrGivenNumber">или ввeдитe число чтобы продолжить</text>
 			<text name="YouAreStarkNaked">Вы абсолютно обнажeна!</text>
 			<text name="YourCumWasCleaned">Вы очистились от спeрмы!</text>

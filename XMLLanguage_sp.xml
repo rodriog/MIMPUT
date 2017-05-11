@@ -3154,8 +3154,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="10">Charlieton: Please choose the gloves color:\n1) White   2) Pink   3) Black</f>
 				<f i="11">Charlieton: Please choose the stockings color:\n1) White   2) Pink   3) Black</f>
 				<f i="12">Charlieton: Please choose the garter color:\n1) White   2) Pink   3) Black</f>
-				<f i="13">Charlieton: Sorry, I dont have any panties...do you want to dress it (erhm) right now, or keep in your inventory?</f>
-				<p i="14">(CHOOSE A NUMBER):\n1) Use it right now!\n2) Keep in your inventory</p>
+				<f i="13">Charlieton: Desculpe, Não tenho calcinhas... quer vestir, errrr, agora? Ou quer que um entregador leve ao castelo?</f>
+				<p i="14">(ESCOLHA UM NÚMERO):\n1) Vestir-se com eles agora!\n2) Deixar para o entregador (levará ao seu quarto em 1 dia)</p>
 				<f i="15">Charlieton: Sorry miss, you don\'t have enough coins.\n1) Look at more wares\n2) Try to Bargain  3) Leave</f>
 				<p i="16">Princess: Can\'t I pay in... \'another\'... way?</p>
 				<f i="17">Charlieton: What do you wish to pay with? Gold? Gems?</f>
@@ -5177,6 +5177,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="medal22">DRAGON QUEEN: The princess' is Birdo's sucker companion!</f> <!--BIRDO-->
 					<f i="desc22">NOT YET!</f>
 
+				<f i="medal23">BLURP EM SEUS BURAQUINHOS: Os polvinhos sujaram seu corpinho!</f> <!--BLOOPERS-->
+					<f i="desc23">AINDA NÃO FEITO!</f>
+					
+				<f i="medal24">FECUNDADINHA: A Princesa é uma doidinha grávida!</f>
+					<f i="desc24">AINDA NÃO FEITO!</f>
 					
 				<!--More Later-->
 			</scenes>
@@ -5592,6 +5597,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="clickCreature">Click in the creature or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
 			<text name="heWentAway">Ele foi embora!</text>
 			<text name="sheWentAway">Ele foi embora!</text>
+			<text name="ItemSentToYourCastle">Este item foi enviado ao seu castelo!</text>
 			<text name="OrGivenNumber">or a given number to advance</text>
 			<text name="YouAreStarkNaked">You are stark naked!</text>
 			<text name="YourCumWasCleaned">Your cum was cleaned!</text>

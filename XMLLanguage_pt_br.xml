@@ -3162,8 +3162,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="10">Charlieton: Favor escolher a cor das luvas:\n1) Branca   2) Rosas   3) Preta</f>
 				<f i="11">Charlieton: Favor escolher a cor do dos meiões:\n1) Branco  2) Rosa   3) Preto</f>
 				<f i="12">Charlieton: Favor escolher a cor das presilhas:\n1) Branco   2) Rosa   3) Preto</f>
-				<f i="13">Charlieton: Desculpe, Não tenho calcinhas... quer vestir, errrr, agora? Ou quer guardar?</f>
-				<p i="14">(ESCOLHA UM NÚMERO):\n1) Vestir-se com eles agora!\n2) Guardar no inventário</p>
+				<f i="13">Charlieton: Desculpe, Não tenho calcinhas... quer vestir, errrr, agora? Ou quer que um entregador leve ao castelo?</f>
+				<p i="14">(ESCOLHA UM NÚMERO):\n1) Vestir-se com eles agora!\n2) Deixar para o entregador (levará ao seu quarto em 1 dia)</p>
 				<f i="15">Charlieton: Desculpe, senhorita, você não tem dinheiro suficiente.\n1) Ver outros itens\n2) Pechinchar  3) Sair</f>
 				<p i="16">Princess: Eu posso pagar de...de outra forma?</p>
 				<f i="17">Charlieton: Com o quê você vai pagar? Ouro? Joias?</f>
@@ -5186,6 +5186,11 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="medal22">RAINHA DRAGÃO: A princesa é a companhia dos chupantes Birdos!</f> <!--BIRDO-->
 					<f i="desc22">AINDA NÃO FEITO!</f>
 
+				<f i="medal23">BLURP EM SEUS BURAQUINHOS: Os polvinhos sujaram seu corpinho!</f> <!--BLOOPERS-->
+					<f i="desc23">AINDA NÃO FEITO!</f>
+					
+				<f i="medal24">FECUNDADINHA: A Princesa é uma doidinha grávida!</f>
+					<f i="desc24">AINDA NÃO FEITO!</f>
 					
 				<!--More Later-->
 			</scenes>
@@ -5603,6 +5608,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="clickCreature">Clique na criatura ou pressione a tecla \'-\' key para aproximar câmera, ou {NEXTKEY} para avançar</text>
 			<text name="heWentAway">Ele foi embora!</text>
 			<text name="sheWentAway">Ele foi embora!</text>
+			<text name="ItemSentToYourCastle">Este item foi enviado ao seu castelo!</text>
 			<text name="OrGivenNumber">ou um número desejado para avançar</text>
 			<text name="YouAreStarkNaked">Você está totalmente PE-LA-DA!</text>
 			<text name="YourCumWasCleaned">Seu corpinho cheio de porra foi limpo!</text>
