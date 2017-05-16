@@ -226,7 +226,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="1a">Erhm...Doc...\nDon\'t you..Ahhhh... have another way...to cure it? Ooooh!</p>
 				<f i="2">Sorry, Princess,\nit\'s the only way!</f>
 				<p i="2">I...(Ooooh!)\nneed to relax! He\'s a doctor, why be ashamed of this? Oooh!</p>
-				<p i="2a">Erhm...Doc...\nDon\'t you..Ahhhh... have another way...to cure it? Ooooh!</p>
 				<f i="2a">It was ordered\nby Toadsworth!</f>
 				<f i="2b">I know what\nI\'m doing, my princess! It\'s common to do it here!</f>
 				<p i="2a">I...(Ooooh!)\nthink you\'re...right! I\'ll let you use it!</p>
@@ -3314,7 +3313,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="3">Mario? He made Flavio angry! He owns me the red skull gem, the heirloom of the House of Flavio! That plumber had it lost!</f>
 				<p i="4">(CHOOSE A NUMBER)\n1) Mock his nose\n2) Leave him</p>
 				<p i="5">You...you have a very fancy nose! It\'s like a penis!</p>
-				<p i="6">What? What did you say? Why, you little WHORE! Flavio demands satisfaction! You! Me! FUCK in the sand!</p>
+				<f i="6">What? What did you say? Why, you little WHORE! Flavio demands satisfaction! You! Me! FUCK in the sand!</f>
 			</scenes>			
 			
 			<scenes scene="dialogueLuft">
@@ -3529,7 +3528,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 					<p i="8d">Why I am doing this again? Perhaps there something valuable inside?</p>
 					<p i="8e">I don\'t know why, but... I feel myself so exposed in this pose...</p>
 				<p i="9">It\'s a...toilet! But it\'s out of order!</p>
-				<p i="10">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing(YES/NO)   7) Fart (may diminish Belly size)  8) Exit</p>
+				<p i="10">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing (YES/NO)   7) Fart (may diminish Belly size)  8) Exit</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -3806,7 +3805,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 			<scenes scene="dialogueDuck">
 				<p i="1">It\'s...It\'s a rubber duck...but...It appears to be a... toilet for Toad kids!\n1) Use it!</p>
-				<p i="2">(Press a Number):\n 1) Just sit and feel your butt touching it   2) Swing butt\n3) Masturbate    4) Peeing(YES/NO)</p>
+				<p i="2">(Press a Number):\n 1) Just sit and feel your butt touching it   2) Swing butt\n3) Masturbate    4) Peeing (YES/NO)</p>
 				<p i="3">Leave the duck alone</p>
 				<p i="4">Ohhh, he\'s soo\nsmooth to sit on...</p>
 				<p i="5">I love to sit\non you, my little ducky!</p>

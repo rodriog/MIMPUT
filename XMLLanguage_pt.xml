@@ -239,7 +239,6 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="1a">Erm...Doutor...\nNão há outra...Ahhhh... forma de curar...isso aí? Ooooh!</p>
 				<f i="2">Desculpe, princesa\né a única forma!</f>
 				<p i="2">Eu...(Ooooh!)\npreciso relaxar! Ele é um médico, por que ficar tímida, né? Oooh, que gostoso!</p>
-				<p i="2a">Erm...Doutor...\nNão há outra...Ahhhh... forma de curar...isso aí? Ooooh!</p>
 				<f i="2a">Isto foi ordens\nde Toadsworth!</f>
 				<f i="2b">Eu sei o que\nestou fazendo, princesa! É comum este procedimento na enfermaria!</f>
 				<p i="2a">Eu...(Ooooh!)\nacho que você está...certo! Vou deixá-lo mexer aí!</p>
@@ -3326,7 +3325,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="3">Mário? Ele fez Flávio ter muita raiva! Ele me deve a jóia da caveira vermelha, a relíquia da casa dos Flavios! Este encanador perdeu esta pedra!</f>
 				<p i="4">(ESCOLHA UM NÚMERO)\n1) Caçoar de seu nariz\n2) Vá embora</p>
 				<p i="5">Você...você tem um nariz engraçado! É como um pênis!</p>
-				<p i="6">O quê? O que você disse? Por que faz isso, sua PUTA! Flavio pede satisfação! Você! Eu! Treparemos ali na areia!</p>
+				<f i="6">O quê? O que você disse? Por que faz isso, sua PUTA! Flavio pede satisfação! Você! Eu! Treparemos ali na areia!</f>
 			</scenes>			
 			
 			<scenes scene="dialogueLuft">
@@ -3541,7 +3540,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 					<p i="8d">Por que estou fazendo isso de novo? Talvez exista algo de valor aqui?</p>
 					<p i="8e">Não sei porquê,\n mas me sinto bem exposta nessa posição!</p>
 				<p i="9">É uma...privada! Mas...está quebrada!</p>
-				<p i="10">(ESCOLHA UM NÚMERO)\n1) Apena sentar  2,3,4,5) Masturbar-se\n6) Fazer xixi(SIM/NÃO)   7) Peidar (pode diminuir barriga)   {NEXTKEY}) Sair</p>
+				<p i="10">(ESCOLHA UM NÚMERO)\n1) Apena sentar  2,3,4,5) Masturbar-se\n6) Fazer xixi (SIM/NÃO)   7) Peidar (pode diminuir barriga)   {NEXTKEY}) Sair</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -3819,7 +3818,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			
 			<scenes scene="dialogueDuck">
 				<p i="1">Isto é... é um patinho de borracha... mas parece uma... privadinha de criança!\n1) Sente-se nele!</p>
-				<p i="2">(ESCOLHA UM NÚMERO):\n 1) Manter-se sentada sentindo sua bundinha nele   2) Rebole o bumbum\n3) Tocar siririca    4) Fazer xixi(SIM/NÃO)</p>
+				<p i="2">(ESCOLHA UM NÚMERO):\n 1) Manter-se sentada sentindo sua bundinha nele   2) Rebole o bumbum\n3) Tocar siririca    4) Fazer xixi (SIM/NÃO)</p>
 				<p i="3">para deixar o pato em paz</p>
 				<p i="4">Ohhh, ele é\ntão macio, que delícia sentar...</p>
 				<p i="5">Eu ADORO sen-\ntar em você, Pato Donald!</p>
