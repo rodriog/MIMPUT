@@ -14,6 +14,7 @@
 		<br/>If you have errors downloading, like 'invalid key', please use another browser. Firefox sometimes has problems when clicking below!-->
 		<br/>
 		<!--Initial game version for comparison and fun (I've thought it was enough): [url=http://aedler.com/Mario%20is%20Missing%20CS5%20AE%201.0j.swf]VERSION 1.0j (MAY 2012)[/url] (jump key is UP)-->
+		<br/>- Version 3.35 <a class="postlink" href="https://mega.nz/#!c4sgSRSb!mGmUpCN1DnQlrzy1mAbEVPAw_RXIoayF7S8afLYxWTo" target="_blank">here!</a>
 		<br/>- Version 3.34 <a class="postlink" href="https://mega.nz/#!E5sSzSiD!fqPNlH1ayhypqlY7L7pXTjJqF0ScbZbHiNbSCXAj0xU" target="_blank">here!</a>
 		<br/>- Version 3.33 <a class="postlink" href="https://mega.nz/#!IxdxzYRD!o4K5cg9O0YRRAdWT5ZAeItB67V6aigtimGp7IrvdKcM" target="_blank">here!</a>
 		<br/>- Version 3.32 <a class="postlink" href="https://mega.nz/#!c1MDRJrB!Ky10qU0RD8br3JtgG85pJw3h2SQVbjh0FjPPyEsCuPw" target="_blank">here!</a>
@@ -21,14 +22,20 @@
 		<br/>- Version 3.30 <a class="postlink" href="https://mega.nz/#!J4dXwZ7Q!k0I90h5jG-YXZKSi-AO1xGmHo5c_DS8sijVEE8f-wcA" target="_blank">here!</a>
 		<!--http://www.aedler.com/Mario%20is%20Missing%20PUT%20AS3.swf-->
 		<h3><span style="color: #000080;">LATEST CHANGELOGs:</span></h3>
-			<b>Update 3.34 (17th May 2017)</b>
+			<b>Update 3.35 (21th May 2017)</b>
 			<br/>- Please reload an external XML (english or other) to refresh the language of the game! Use the ones in my <a class="postlink" href="https://github.com/ivanaedler/MIMPUT/" target="_blank">GITHUB</a>. Or you can just click RESET SAVES in the first screen if you dont have saved games and you dont want to mess around the XML files (English only!)
+			<br/>- Feature: Now you can use one of the sewer pipes to go to a given world you visited at least once with the cannon. If not, the princess will just go outside (Red Pipe).
+			<br/>- Glitch Fix: if 'ALWAYS A NYMPH' Personality option is set, she was still 'shaking herself with her hand in her head' when she stops walking.
+			<br/>- Glitch Fix: when time is up, a creature was appearing all of a sudden during another creature action on the princess. Actually, the creature should only appear if the princess is 'available'.
+			<br/>- Glitch Fix: when you set a custom DRESS Powerup in the OUTFIT screen, then you restart the game, the princess was in her bed with that outfit. Actually, the princess should be with her dress, as she returned from the train like this.
+			<br/><br/>
+			<b>Update 3.34 (17th May 2017)</b>
 			<br/>- NEW: Level 8-2 (underground level). It's a new themed level (it's not a level based on another). Some new textures. There are also interesting features like the rotate platforms and the crushing trunks.
 			<br/>- NEW cheat codes: 'HOLD 1, then left or right' to change outfits, and 'HOLD Y, then press 3' to be pregnant. You need to activate the master cheat first (1 and 0).
 			<br/>- NEW: 'Load Game' and 'Options' buttons in the intro screen!
 			<br/>- ADDED Waluigi in some levels (tip: where he is, Wario might be with him or not), and if you are continuing the game (if you finished it at least once), they will appear all the time in the toad town bar. Waluigi can be in 'Smoothie Depot level too' (with Mona!) She's not a playable character yet. No Waluigi scenes yet.
 			<br/>- Rule change: in skull rocks scene in 6-6 level, if the princess sucks their dicks 'in a non lewd way', it wont count as a sexual act (laid countdown). E.g. If its 48 left to be a pure nymph, it will remain as 48.
-			<br/>- BUG FIX: In 6-4 level, in delfino streets, when using a given green pipe, the game was throwing the princess to a blue void area. Also, the trampiline wasn't working. Finally, the toads was going to the front of a wooden table in certain scenes.
+			<br/>- BUG FIX: In 6-4 level, in delfino streets, when using a given green pipe, the game was throwing the princess to a blue void area. Also, the trampoline wasn't working. Finally, the toads were going to the front of a wooden table in certain scenes.
 			<br/>- Glitch Fix: When restarting the game in certain circunstances, odd problems happened with outfits and its current situation, like shred vagina/butt areas. Tech info: 'Flags.SAVED*' not being reset in _reset().
 			<br/>- Glitch Fix: When using the PANIC screen (ENTER key) if in the 'corridor pipe' area (like when using a pipe in the worldmap), the princess was reappearing in the same (or different) worldmap, but zoomed out and with some functions not working. Now she will be warped to 'peach castle campus area' if Panic Screen is used SPECIFICALLY from those specific inner level areas, as there is no way to find out which worldmap she came from (in order to return her to it).
 			<br/>- Glitch Fix: In 6-4 level, XML fix in Pole scene.
@@ -70,17 +77,6 @@
 			<br/>- Glitch Fix: The 'Train' occurrence that the princess wrote in her diary is being kept in the diary BEFORE the Toadsworth event.
 			<br/>- Glitch Fix: The princess' eyes (Frontside dialogue model) was not red when the princess is a fire princess.
 			<br/>- Glitch Fix: The female princesses that are friend of Peach (like Daisy and the Shygirl) is with red eyes when you are playing a Fire Peach character.
-			<br/><br/>
-			<b>Update 3.32 (29th April 2017) - SERVICE FIXES (Flash Player 25 or later recommended!)</b>
-			<br/>- IMPROVED Princess pose code. Less CPU usage! (You can notice in DEBUG screen: Zero EP Listeners most of the time!) But tests still being made. Some glitches are expected, like the princess not losing/dressing a crown or part of her clothing until some seconds later or when you change her pose (like walking). If this happens, please create an issue in my GITHUB or just notice me in LOK site.
-			<br/>- Rule Change: The princess wont die from Yux rings in 9-1 level. Thats because this level wasnt made for the princess to lose a life. She is captive, but the level is itself 'secure' enough for her.
-			<br/>- Glitch Fix: The princess was regaining her garters and stockings (what?) after certain scenes. Tech info:  'frame 0 STOP! instead of 4' (F0SI4 or 'FOSIA') syndrome.
-			<br/>- Glitch Fix: 2 strange 'yellow block with eyes' in Peach's castle. Actually they were leftovers of my several tests to fix certain bugs with them.
-			<br/>- Glitch Fix: In 9-1, the princess was not getting invisible after taking the right tube combinations in the concoctionator room.
-			<br/>- Glitch Fix: In 9-1, Sir Grodus was not talking when Peach used the TEC cable.
-			<br/>- Glitch Fix: when the princess crushed brown blocks without nothing in it (no coins, etc), there is no animation or sound anymore. They just disappear.
-			<br/>- Glitch Fix: when the princess is invisible, at some animations (like jumping), strange blue hands appear in.
-			<br/>- Glitch Fix: Frog walk/hopping animation weren't 'going on' (she only do it once), so that we have to push the arrow key again and again (Tech info: gravity when touching the ground interfering with poses (going to 'standing frog' instead of remaining 'walking frog' when LEFT or RIGHT remained pressed. The code was remade).
 		<h3><span style="color: #000080;">REQUIREMENTS:</span></h3>
 		<p>- <b>A faster processor</b> (Pentium Core 2 Duo or higher recommended) . You can surely play it in slower PCs and even mobile phones but you will need to tweak graphic settings (OPTIONS SCREEN in the game), or even overclock your device. The game relies more on CPU speed (MHZ/GHZ) than GPU, as Flash uses almost 100% of its code in CPU.</p>
 		<p>- <b>Flash Player 12 up to 25</b> (The recommended version is 12 up to 17, but you can check if the latest versions are better for you). <!--Faster versions is 12, 17 or 21, but be careful about those versions (due to SAVE/LOAD slot bug). You can get Flash versions (standalone player) BELOW!-->
