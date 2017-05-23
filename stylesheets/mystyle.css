@@ -56,17 +56,6 @@ li.dropdown {
     display: inline-block;
 }
 
-.accordion-heading .accordion-toggle {
-    /* display: block; */
-    padding: 8px 15px;
-}
-
-.accordion-toggle:after {
-    /* font-family: 'FontAwesome';*/
-    content: "\f078";
-    float: left;
-}
-	
 .dropdown-content {
     display: none;
     position: absolute;
@@ -88,3 +77,8 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+/*Accordion based on http://www.lingulo.com/snippets-downloads/super-simple-jquery-accordion-snippet*/
+#lingulo-accordion>div{width:100%;height:35px;overflow:hidden;cursor:pointer;}
+#lingulo-accordion>div h3{color:#fff;padding:4px 2px 4px 10px;margin:0 0 20px 0;font-size:130%;background-color:#666055;}
+#lingulo-accordion>div h3:hover{background-color:#FF7173;}
