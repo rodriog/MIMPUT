@@ -79,6 +79,7 @@ li.dropdown {
 }
 
 /*Accordion based on http://www.lingulo.com/snippets-downloads/super-simple-jquery-accordion-snippet*/
+#lingulo-accordion{padding:10px;}
 #lingulo-accordion>div{width:100%;height:35px;overflow:hidden;cursor:pointer;}
 #lingulo-accordion>div h3{color:#fff;padding:4px 2px 4px 10px;margin:0 0 20px 0;background-color:#365037;} /*font-size:130%*/
 #lingulo-accordion>div h3:hover{background-color:#242647;}
