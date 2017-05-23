@@ -56,6 +56,17 @@ li.dropdown {
     display: inline-block;
 }
 
+.accordion-heading .accordion-toggle {
+    /* display: block; */
+    padding: 8px 15px;
+}
+
+.accordion-toggle:after {
+    /* font-family: 'FontAwesome';*/
+    content: "\f078";
+    float: left;
+}
+	
 .dropdown-content {
     display: none;
     position: absolute;
