@@ -1,5 +1,20 @@
 /* W3Data ver 1.31 by W3Schools.com */
 var w3DataObject = {};
+
+/**
+ * EFECTO PARA FLECHAS EN ACORDEON
+ */
+
+$(document).on('show','.accordion', function (e) {
+	 //$('.accordion-heading i').toggleClass(' ');
+	 $(e.target).prev('.accordion-heading').addClass('accordion-opened');
+});
+
+$(document).on('hide','.accordion', function (e) {
+	$(this).find('.accordion-heading').not($(e.target)).removeClass('accordion-opened');
+	//$('.accordion-heading i').toggleClass('fa-chevron-right fa-chevron-down');
+});
+	
 function w3DisplayData(id, data) {
     var htmlObj, htmlTemplate, html, arr = [], a, l, rowClone, x, j, i, ii, cc, repeat, repeatObj, repeatX = "";
     htmlObj = document.getElementById(id);
@@ -111,6 +126,7 @@ function w3DisplayData(id, data) {
         a.innerHTML = a.innerHTML.replace(r, result);
     }
 }
+
 function w3IncludeHTML() {
   var z, i, elmnt, file, xhttp;
   z = document.getElementsByTagName("*");
@@ -132,6 +148,7 @@ function w3IncludeHTML() {
     }
   }
 }
+
 function w3Http(target, readyfunc, xml, method) {
     var httpObj;
     if (!method) {method = "GET"; }
