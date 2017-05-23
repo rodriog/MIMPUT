@@ -1,18 +1,25 @@
 /* W3Data ver 1.31 by W3Schools.com */
 var w3DataObject = {};
 
-/**
- * EFECTO PARA FLECHAS EN ACORDEON
- */
-
-$(document).on('show','.accordion', function (e) {
-	 //$('.accordion-heading i').toggleClass(' ');
-	 $(e.target).prev('.accordion-heading').addClass('accordion-opened');
-});
-
-$(document).on('hide','.accordion', function (e) {
-	$(this).find('.accordion-heading').not($(e.target)).removeClass('accordion-opened');
-	//$('.accordion-heading i').toggleClass('fa-chevron-right fa-chevron-down');
+//lingulo-accordion
+$('lingulo-accordion > div').on('click', function () {
+	if ($(".clicked")[0])
+		$('lingulo-accordion > div').removeClass('clicked'); //close the former clicked class
+	$(this).addClass('clicked');
+	
+	/*
+	//method1:
+	var parent = document.querySelector('.parent');
+	if (parent.querySelector('.child') !== null) {
+		// .. it exists as a child
+	}
+	
+	//method2:
+	var parent = document.querySelector('.parent'),
+    var child = document.querySelector('.child');
+	if (parent.contains(child)) {
+		// .. it exists as a child
+	}*/
 });
 	
 function w3DisplayData(id, data) {
