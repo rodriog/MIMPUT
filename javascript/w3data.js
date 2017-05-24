@@ -2,7 +2,7 @@
 var w3DataObject = {};
 
 function scrollTo(div_id) {
-            $('html, body').animate({ scrollTop: $(div_id).offset().top }, 'slow');
+            $('html, body').animate({ scrollTop: $(div_id).offset().top+50 }, 'slow');
             return false;
 }
 
