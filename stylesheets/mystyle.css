@@ -88,5 +88,5 @@ li.dropdown {
 /*.lingulo-accordion>div:active{height:initial;}*/
 .lingulo-accordion .clicked{height:initial;}
 .lingulo-accordion .clicked:hover{height:initial;}
-.lingulo-accordion>div h4:hover{background-color:#587259;}
-.lingulo-accordion>div h3:hover{background-color:#464989;}
+.lingulo-accordion>div h3:hover{background-color:#587259;}
+.lingulo-accordion>div h4:hover{background-color:#464989;}
