@@ -1,29 +1,31 @@
 /* W3Data ver 1.31 by W3Schools.com */
 var w3DataObject = {};
 
-//lingulo-accordion
-$('.lingulo-accordion > div').on('click', function () {
-	//alert ("OK");
-	if ($(".clicked")[0]) {
-		//alert ("clicked exists");
-		$('.lingulo-accordion > div').removeClass('clicked'); //close the former clicked class
-	}
-	$(this).addClass('clicked');
-	
-	/*
-	//method1:
-	var parent = document.querySelector('.parent');
-	if (parent.querySelector('.child') !== null) {
-		// .. it exists as a child
-	}
-	
-	//method2:
-	var parent = document.querySelector('.parent'),
-    var child = document.querySelector('.child');
-	if (parent.contains(child)) {
-		// .. it exists as a child
-	}*/
-});
+function lingulo() {
+	//lingulo-accordion
+	$('.lingulo-accordion > div').on('click', function () {
+		//alert ("OK");
+		if ($(".clicked")[0]) {
+			//alert ("clicked exists");
+			$('.lingulo-accordion > div').removeClass('clicked'); //close the former clicked class
+		}
+		$(this).addClass('clicked');
+		
+		/*
+		//method1:
+		var parent = document.querySelector('.parent');
+		if (parent.querySelector('.child') !== null) {
+			// .. it exists as a child
+		}
+		
+		//method2:
+		var parent = document.querySelector('.parent'),
+		var child = document.querySelector('.child');
+		if (parent.contains(child)) {
+			// .. it exists as a child
+		}*/
+	});
+}
 	
 function w3DisplayData(id, data) {
     var htmlObj, htmlTemplate, html, arr = [], a, l, rowClone, x, j, i, ii, cc, repeat, repeatObj, repeatX = "";
