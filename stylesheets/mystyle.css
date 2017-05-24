@@ -86,5 +86,7 @@ li.dropdown {
 .lingulo-accordion>div h4{cursor:pointer; color:#fff;padding:3px 2px 3px 6px;margin:0 0 10px 0;background-color:#242647;width: -moz-fit-content;} /*font-size:130%*/
 /*.lingulo-accordion>div h4:hover{background-color:#242647;}*/
 /*.lingulo-accordion>div:active{height:initial;}*/
-.lingulo-accordion .clicked{height:initial;background-color:#000000;}
-.lingulo-accordion .clicked:hover{height:initial;background-color:#000000;}
+.lingulo-accordion .clicked{height:initial;}
+.lingulo-accordion .clicked:hover{height:initial;}
+.lingulo-accordion>div h4:hover{background-color:#587259;}
+.lingulo-accordion>div h3:hover{background-color:#464989;}
