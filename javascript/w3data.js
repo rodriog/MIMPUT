@@ -5,29 +5,29 @@ function lingulo() {
 	//lingulo-accordion
 	$('.lingulo-accordion > div h3').on('click', function () {
 		//alert ("OK");
-		//alert ($(parent).className); //DOESNT WORK with jquery
-		//alert ($(parent).attr('class'));
-		if ($(this.parent).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
+		//alert ($(this.parentNode).className); //DOESNT WORK with jquery
+		//alert ($(this.parentNode).attr('class'));
+		if ($(this.parentNode).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
 		}else {
 			//if ($(".clicked")[0]) { // CLOSE ANY, but ADD a current one, as its an DIFFERENT one that is clicked!
 			//alert ("clicked exists");
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
-			$(this.parent).addClass('clicked');
+			$(this.parentNode).addClass('clicked');
 		}
 	});
 
 	$('.lingulo-accordion > div h4').on('click', function () {
 		//alert ("OK");
-		//alert ($(parent).className); //DOESNT WORK with jquery
-		//alert ($(parent).attr('class'));
-		if ($(this.parent).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
+		//alert ($(this.parentNode).className); //DOESNT WORK with jquery
+		//alert ($(this.parentNode).attr('class'));
+		if ($(this.parentNode).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
 		}else {
 			//if ($(".clicked")[0]) { // CLOSE ANY, but ADD a current one, as its an DIFFERENT one that is clicked!
 			//alert ("clicked exists");
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
-			$(this.parent).addClass('clicked');
+			$(this.parentNode).addClass('clicked');
 		}
 		
 		/*
