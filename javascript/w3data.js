@@ -6,8 +6,8 @@ function lingulo() {
 	$('.lingulo-accordion > div').on('click', function () {
 		//alert ("OK");
 		//alert ($(this).className); //DOESNT WORK with jquery
-		//alert ($(obj).attr('class'));
-		if ($(obj).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
+		//alert ($(this).attr('class'));
+		if ($(this).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
 		}else {
 			//if ($(".clicked")[0]) { // CLOSE ANY, but ADD a current one, as its an DIFFERENT one that is clicked!
