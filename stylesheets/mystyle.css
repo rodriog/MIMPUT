@@ -86,7 +86,7 @@ li.dropdown {
 .lingulo-accordion>div h4{color:#fff;padding:3px 2px 3px 6px;margin:0 0 10px 0;background-color:#000000;} /*font-size:130%*/
 /*.lingulo-accordion>div h4:hover{background-color:#242647;}*/
 /*.lingulo-accordion>div:active{height:initial;}*/
-.lingulo-accordion .h3 .clicked{height:initial;}
-.lingulo-accordion .h3 .clicked:hover{height:initial;}
-.lingulo-accordion .h4 .clicked{height:initial;}
-.lingulo-accordion .h4 .clicked:hover{height:initial;}
+.lingulo-accordion>div .h3 .clicked{height:initial;}
+.lingulo-accordion>div .h3 .clicked:hover{height:initial;}
+.lingulo-accordion>div .h4 .clicked{height:initial;}
+.lingulo-accordion>div .h4 .clicked:hover{height:initial;}
