@@ -1,6 +1,11 @@
 /* W3Data ver 1.31 by W3Schools.com */
 var w3DataObject = {};
 
+function scrollTo(div_id) {
+            $('html, body').animate({ scrollTop: $(div_id).offset().top }, 'slow');
+            return false;
+}
+
 function lingulo() {
 	//lingulo-accordion
 	$('.lingulo-accordion > div h3').on('click', function () {
@@ -14,6 +19,7 @@ function lingulo() {
 			//alert ("clicked exists");
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
 			$(this.parentNode).addClass('clicked');
+			scrollTo($(this));
 		}
 	});
 
@@ -28,6 +34,7 @@ function lingulo() {
 			//alert ("clicked exists");
 			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
 			$(this.parentNode).addClass('clicked');
+			scrollTo($(this));
 		}
 		
 		/*
