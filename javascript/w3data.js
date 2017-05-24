@@ -3,7 +3,20 @@ var w3DataObject = {};
 
 function lingulo() {
 	//lingulo-accordion
-	$('.lingulo-accordion > div').on('click', function () {
+	$('.lingulo-accordion > div .h3').on('click', function () {
+		//alert ("OK");
+		//alert ($(this).className); //DOESNT WORK with jquery
+		//alert ($(this).attr('class'));
+		if ($(this).attr('class')==="clicked") { //if its the current div clicked - CLOSE IT ONLY.
+			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
+		}else {
+			//if ($(".clicked")[0]) { // CLOSE ANY, but ADD a current one, as its an DIFFERENT one that is clicked!
+			//alert ("clicked exists");
+			$('.lingulo-accordion > div').removeClass('clicked'); //close any former clicked class
+			$(this).addClass('clicked');
+		}
+
+	$('.lingulo-accordion > div .h4').on('click', function () {
 		//alert ("OK");
 		//alert ($(this).className); //DOESNT WORK with jquery
 		//alert ($(this).attr('class'));
