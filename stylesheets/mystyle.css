@@ -81,9 +81,11 @@ li.dropdown {
 /*Accordion based on http://www.lingulo.com/snippets-downloads/super-simple-jquery-accordion-snippet but without its javascript and improved active (setting as 'hover' was not so great) with height initial*/
 .lingulo-accordion{padding:10px;}
 .lingulo-accordion>div{width:100%;height:35px;overflow:hidden;}
-.lingulo-accordion>div h3{cursor:pointer; color:#fff;padding:4px 2px 4px 10px;margin:0 0 20px 0;background-color:#365037;width: -moz-fit-content;} /*font-size:130%*/
+.lingulo-accordion>div:nth-child(odd) h3{cursor:pointer; color:#fff;padding:4px 2px 4px 10px;margin:0 0 20px 0;background-color:#365037;width: -moz-fit-content;} /*font-size:130%*/
+.lingulo-accordion>div:nth-child(even) h3{cursor:pointer; color:#fff;padding:4px 2px 4px 10px;margin:0 0 20px 0;background-color:#566047;width: -moz-fit-content;} /*font-size:130%*/
 /*.lingulo-accordion>div h3:hover{background-color:#242647;}*/
-.lingulo-accordion>div h4{cursor:pointer; color:#fff;padding:3px 2px 3px 6px;margin:0 0 10px 0;background-color:#242647;width: -moz-fit-content;} /*font-size:130%*/
+.lingulo-accordion>div:nth-child(odd) h4{cursor:pointer; color:#fff;padding:3px 2px 3px 6px;margin:0 0 10px 0;background-color:#242647;width: -moz-fit-content;} /*font-size:130%*/
+.lingulo-accordion>div:nth-child(even) h4{cursor:pointer; color:#fff;padding:3px 2px 3px 6px;margin:0 0 10px 0;background-color:#444657;width: -moz-fit-content;} /*font-size:130%*/
 /*.lingulo-accordion>div h4:hover{background-color:#242647;}*/
 /*.lingulo-accordion>div:active{height:initial;}*/
 .lingulo-accordion .clicked{height:initial;}
