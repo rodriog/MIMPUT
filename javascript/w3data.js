@@ -3,9 +3,9 @@ var w3DataObject = {};
 
 //lingulo-accordion
 $('.lingulo-accordion > div').on('click', function () {
-	alert ("OK");
+	//alert ("OK");
 	if ($(".clicked")[0]) {
-		alert ("clicked exists");
+		//alert ("clicked exists");
 		$('.lingulo-accordion > div').removeClass('clicked'); //close the former clicked class
 	}
 	$(this).addClass('clicked');
