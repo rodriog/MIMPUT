@@ -1901,6 +1901,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="4a">Melhor chupar...\nAhhh estou sendo FODIDA pelo outro!</p>
 				<p i="5">Ahhhhh! Ahhh!\nQue gozada!!! Eles não param de esborrifar porra!</p>
 			</scenes>			
+			<scenes scene="jabbi3">
+				<p i="1">Eii! O que vocês\nestão faz... estou ficando tontinha!</p>
+				<p i="2">(Oooh!! Huuummnph!\nEles estão excitando meus buraquinhos! Preciso ir!</p>
+				<p i="3">(Aaaah!! Isto é\nMUITO excitante! Estou sendo...comida por dentro!)</p>
+				<p i="3a">(Ahhhh! Eles estão\npuxando meu corpo! Estão travados em mim, quero sair!)</p>
+			</scenes>			
 
 	<!--YUX (X-like creatures from Paper Mário II)-->
 			<scenes scene="yux1">
@@ -5765,6 +5771,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="Days">Dias</text>
 			<text name="DAY">DIA</text>
 			<text name="DaysToDeliver">Dias para parir</text>
+			<text name="ThePrincessCummedWhileMoving">A princessa GOZOU enquanto se mexia! Suas coxas estão pingando!</text>
+			<text name="YoureAboutToDeliver">Você está prestes a PARIR! Pressione \'BAIXO\' para conceber!</text>
 			<text name="TOTAL">TOTAL</text>
 
 			<text name="SetupAllSoundsOFF">Configurar: Todos os Sons OFF</text>

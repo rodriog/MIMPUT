@@ -1892,7 +1892,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="4a">Better suck and...\nAhhh that one is fucking me!</p>
 				<p i="5">Ahhhhh! Ahhh!\nI am cumming! They don\'t stop gushing out!</p>
 			</scenes>			
-
+			<scenes scene="jabbi3">
+				<p i="1">Eii! O que vocês\nestão faz... estou ficando tontinha!</p>
+				<p i="2">(Oooh!! Huuummnph!\nEles estão excitando meus buraquinhos! Preciso ir!</p>
+				<p i="3">(Aaaah!! Isto é\nMUITO excitante! Estou sendo...comida por dentro!)</p>
+				<p i="3a">(Ahhhh! Eles estão\npuxando meu corpo! Estão travados em mim, quero sair!)</p>
+			</scenes>			
 	<!--YUX (X-like creatures from Paper Mario II)-->
 			<scenes scene="yux1">
 				<p i="1">Hey! Ahhh!\nStop licking by bum!</p>
@@ -5752,6 +5757,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Day">dia</text>
 			<text name="DAY">DIA</text>
 			<text name="DaysToDeliver">Dias para parir</text>
+			<text name="ThePrincessCummedWhileMoving">A princessa GOZOU enquanto se mexia! Suas coxas estão pingando!</text>
+			<text name="YoureAboutToDeliver">Você está prestes a PARIR! Pressione \'BAIXO\' para conceber!</text>
 			<text name="TOTAL">TOTAL</text>
 
 			<text name="SetupAllSoundsOFF">Setup: ALL SOUNDS OFF</text>
