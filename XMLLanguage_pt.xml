@@ -1531,8 +1531,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 
 	<!--THWOMPS (big rocks with spikes, since SMB1)-->
 			<scenes scene="thwomp1">
-				<p i="1">Hein?! Até um\nThwomp tem uma pirocona!? É muito grande, mais duro que rocha, não vai caber!</p>
-				<p i="1a">Ohhh...De novo\nnão! Minha boca já está entalada desse pauzão! Melhor fazê-lo sentir-se bem...</p>
+				<p i="1">Hein?! Até um\nThwomp tem uma pirocona!? É mais duro que rocha, não vai caber!</p>
+				<p i="1a">Ohhh...De novo\nnão! Minha boca já está entalada desse pauzão! Melhor seguir...</p>
 				<p i="2">*glut* Aaah! (Já\nestá em minha garganta!) Mnnnhmp! (Não acredito que engoli todo esse mamute!)</p>
 				<p i="3">*glut* *glut*\n(Engoli horrores! Mnnhmph!\n(É demais para poder beber tudinho!)</p>
 			</scenes>			
@@ -1906,6 +1906,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">(Oooh!! Huuummnph!\nEles estão excitando meus buraquinhos! Preciso ir!</p>
 				<p i="3">(Aaaah!! Isto é\nMUITO excitante! Estou sendo...comida por dentro!)</p>
 				<p i="3a">(Ahhhh! Eles estão\npuxando meu corpo! Estão travados em mim, quero sair!)</p>
+				<p i="4">Ahhhhh! Ahhh!\nEstou gozadinha em todos meus buraquinhos!</p>
 			</scenes>			
 
 	<!--YUX (X-like creatures from Paper Mário II)-->
@@ -4348,6 +4349,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="6">Eii, vocês dois! Parem, seus pervertidos! Direi tudo para Toadsworth!</p>
 				<f i="7">Vendedor: Olá, Princesinha! Quer comprar alguma coisa?</f>
 				<p i="8">Ooooh não, vista isso! Como posso comprar alguma coisa olhando para...esse pinto aí?</p>
+				<p i="9">Ohhh, sua piroca é...\'glande e glossa\'! (*Hi hi hi*). Quero tocá-lo...posso, POSSO?</p>
 			</scenes>
 			
 			<scenes scene="level6-3">
