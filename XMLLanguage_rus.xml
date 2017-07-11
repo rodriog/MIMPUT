@@ -1936,6 +1936,23 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="luma2">
 				<p i="1">Hey! Calm\ndown...My boobies aren\'t there!</p>
 			</scenes>			
+			<scenes scene="luma3">
+				<p i="1">\nCome here, my little babies. Mommy\'s here!</p>
+				<p i="1a">\nOh! Lumas! Are you looking for your mommy?</p>
+				<p i="2">\nMmmm!</p>
+				<p i="2a">\nHey wait!</p>
+				<p i="3">*giggle*\nSo amusing!\nYes, dance for me!</p>
+				<p i="3a">\nUmmm...\nWhat are you--?</p>
+				<p i="4">\nOoh! Yes, babies!\nCome play with mommy!</p>
+				<p i="4a">\nOh my! Stay out of there! Aah! Stop sucking!</p>
+				<p i="5">\nOoh! That\ntickles! Feels nice!</p>
+				<p i="5a">\nAah! My ass! What\'s going on?</p>
+				<p i="6">\nYes! Keep going!\nI\'m gonna--!!</p>
+				<p i="6a">\nOoh! What did Rosalina teach you? Feels good!</p>
+				<p i="7">\nMfff!!\nMnaah!!</p>
+				<p i="8">Mmmm!\nYou make mommy cum so hard when you play like that!</p>
+				<p i="8a">Oooh! Those Lumas knew all the right places! Unnh! Cumming again!</p>
+			</scenes>			
 
 	<!--PUNIO (and punies) - bug-like creatures from PAPER MARIO II-->
 			<scenes scene="punio1"> <!--helping the princess to enter the hole-->
@@ -4192,6 +4209,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="89">Принцeсса! Осторожнeй! Эти Goombas ужe вeздe! О БОЖE!</f>
 				<p i="90">Мнe пока нe разрeшаeтся входить.</p>
 				<p i="91">Закрыто! Но я чувствую запах спeрмы поступающий от туда! Какой головокружитeльный запах...</p>
+				<p i="92">Select your hair style:\n1) Normal        2) Ponytail\n3) Leave</p>
 				
 				<f i="poochie1">Arf Woof! (Мнe нравится это мeсто, хозяин даeт мнe вкусняшки всe врeмя...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (Мнe нравится лeгкий вeтeрок, я чувствую сeбя так свободно...)</f>
@@ -5589,6 +5607,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="TECMonitorWords">СЛEД.ЦИКЛ\nИНИЦИАЛИ3АЦИЯ...\n\nЧТEНИE.....\n\n..........\n..........\nГОТОВО\n\nПРОВEРКА .......\nГОТОВО\n\nПОЖАЛУЙСТА ЖДИТE.....\n\nОТПРАВКА.....\n\nНОВЫЙ УРОВEНЬ\n: WORLD</text>
 			<text name="Leave">Выйти</text>
 			<text name="toLeave">чтобы Выйти</text>
+			<text name="NotAllowed">Not Allowed!</text>
 			<text name="toUnmountLeave">исполь3овать и оставить eго.</text>
 			<text name="YouLostYoshi">Вы потeряли Yoshi!</text>
 			<text name="HintAnchorDown">Подска3ка: Якорь упал! Поднимитeсь по нeму, чтобы попасть на дeрижабль.</text>
@@ -6242,7 +6261,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_MusicVolume">Music Volume</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Sounds ON/OFF</text>
 			<text name="ScreenOptions_Header_Shoes">Shoes/Feet sounds</text>
-			<text name="ScreenOptions_Header_Fart">Fart sounds</text>
+			<text name="ScreenOptions_Header_Fart">Allow Farting</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Replace Boeing sounds with Semen sounds</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Waterfall ambient sounds</text>
 		<text name="ScreenOptions_Title_TEXT">TEXT and INFO</text>
@@ -6263,6 +6282,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_ShredBraIf">Shred Bra if...</text>
 			<text name="ScreenOptions_Header_BellyCanIncrease">Belly can increase</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Pregnancy Chance</text>
+			<text name="ScreenOptions_Header_NPCBoobBelly">NPC Boob/Belly</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
 			<text name="ScreenOptions_Header_Timeout">Timeout (seconds)</text>
 				<text name="ScreenOptions_SheWillBePunished">(She will be punished if X seconds are reached)</text>

@@ -1922,6 +1922,23 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="luma2">
 				<p i="1">Hey! Calm\ndown...My boobies aren\'t there!</p>
 			</scenes>			
+			<scenes scene="luma3">
+				<p i="1">\nVenha cá, meus bebês! Mamãe está aqui!</p>
+				<p i="1a">\nOh! Lumas! Estão procurando pela mamãe?</p>
+				<p i="2">\nHumnmm!</p>
+				<p i="2a">\nEi, espere!</p>
+				<p i="3">*risos*\nÉ incrível!\nSim, dancem para mim!</p>
+				<p i="3a">\nHummm...\nO que estão fa--?</p>
+				<p i="4">\nOoh! Sim, bebês!\nVenha brincar com mamãe!</p>
+				<p i="4a">\nOh nossa! Saiam... Er...parecem de...mamar!</p>
+				<p i="5">\nOoh! Isto faz\ncócegas! É...tão gostoso...</p>
+				<p i="5a">\nAah! Minha bunda! O que está havendo aí?</p>
+				<p i="6">\nSim! Continuem!\nAssim irei...!!</p>
+				<p i="6a">\nOoh! O que Rosalina ensinou a vocês? Que delícia!</p>
+				<p i="7">\nHumph!!\nAaaaah!!</p>
+				<p i="8">Hummm!\nVocês fizeram mamãe gozar tão gostoso ao me tocarem assim!</p>
+				<p i="8a">Oooh! Estes Lumas sabem exatamente onde me bulinar! Aaaaah, estou gozando!</p>
+			</scenes>			
 
 	<!--PUNIO (and punies) - bug-like creatures from PAPER MARIO II-->
 			<scenes scene="punio1"> <!--helping the princess to enter the hole-->
@@ -4176,6 +4193,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="89">Princess! Be careful! They\'re in all places! The goombas! OMG!</f>
 				<p i="90">I am not allowed to go in yet!</p>
 				<p i="91">It\'s locked! There are nasty... scents coming from it! Oh I am being dizzy...</p>
+				<p i="92">Escolha su estilo de cabello:\n1) Normal        2) Rabo de caballo\n3) Salir</p>
 				
 				<f i="poochie1">Arf Woof! (I like this corridor, the toads give me cookies all the time...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (I like the breeze of the roof, I feel so free...)</f>
@@ -5572,6 +5590,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="TECMonitorWords">NEXT LOOP\nINITIALIZING...\n\nREADING KEY.....\n\n..........\n..........\nOK\n\nCHECKING .......\nOK\n\nPLEASE WAIT.....\n\nSENDING.....\n\nNEW TARGET\nTO: WORLD</text>
 			<text name="Leave">Leave</text>
 			<text name="toLeave">to leave</text>
+			<text name="NotAllowed">No permitido!</text>
 			<text name="toUnmountLeave">to unmount and leave it.</text>
 			<text name="YouLostYoshi">You lost Yoshi!</text>
 			<text name="HintAnchorDown">Hint: the anchor went down! Climb it to go to Airship level!</text>
@@ -6225,7 +6244,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_MusicVolume">Volumen de la Musica</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Sonidos ON/OFF</text>
 			<text name="ScreenOptions_Header_Shoes">Sonidos de zapatos/pisadas</text>
-			<text name="ScreenOptions_Header_Fart">Fart sounds</text>
+			<text name="ScreenOptions_Header_Fart">Peidos</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Remplazar sonidos Boing con sonidos de Semen</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Sonidos de cascada ambientales</text>
 		<text name="ScreenOptions_Title_TEXT">TEXT and INFO</text>
@@ -6246,6 +6265,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_ShredBraIf">Desgarrar sujetador si...</text>
 			<text name="ScreenOptions_Header_BellyCanIncrease">El vientre puede crecer</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Probabilidad de embarazo</text>
+			<text name="ScreenOptions_Header_NPCBoobBelly">Barriga/Peito NPC</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
 			<text name="ScreenOptions_Header_Timeout">Tempo Limite (segundos)</text>
 				<text name="ScreenOptions_SheWillBePunished">(Ela pagará uma prenda a cada X segundos)</text>

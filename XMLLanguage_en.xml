@@ -1920,6 +1920,23 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="luma2">
 				<p i="1">Hey! Calm\ndown...My boobies aren\'t there!</p>
 			</scenes>			
+			<scenes scene="luma3">
+				<p i="1">\nCome here, my little babies. Mommy\'s here!</p>
+				<p i="1a">\nOh! Lumas! Are you looking for your mommy?</p>
+				<p i="2">\nMmmm!</p>
+				<p i="2a">\nHey wait!</p>
+				<p i="3">*giggle*\nSo amusing!\nYes, dance for me!</p>
+				<p i="3a">\nUmmm...\nWhat are you--?</p>
+				<p i="4">\nOoh! Yes, babies!\nCome play with mommy!</p>
+				<p i="4a">\nOh my! Stay out of there! Aah! Stop sucking!</p>
+				<p i="5">\nOoh! That\ntickles! Feels nice!</p>
+				<p i="5a">\nAah! My ass! What\'s going on?</p>
+				<p i="6">\nYes! Keep going!\nI\'m gonna--!!</p>
+				<p i="6a">\nOoh! What did Rosalina teach you? Feels good!</p>
+				<p i="7">\nMfff!!\nMnaah!!</p>
+				<p i="8">Mmmm!\nYou make mommy cum so hard when you play like that!</p>
+				<p i="8a">Oooh! Those Lumas knew all the right places! Unnh! Cumming again!</p>
+			</scenes>			
 
 	<!--PUNIO (and punies) - bug-like creatures from PAPER MARIO II-->
 			<scenes scene="punio1"> <!--helping the princess to enter the hole-->
@@ -4175,6 +4192,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="89">Princess! Be careful! The goombas are everywhere! OMG!</f>
 				<p i="90">I\'m not allowed to go in yet!</p>
 				<p i="91">It\'s locked! There are nasty... scents coming from it! Oh I\'m getting dizzy...</p>
+				<p i="92">Select your hair style:\n1) Normal        2) Ponytail\n3) Leave</p>
 				
 				<f i="poochie1">Arf Woof! (I like this corridor, the toads give me cookies all the time...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (I like the breeze of the roof, I feel so free...)</f>
@@ -5572,6 +5590,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="TECMonitorWords">NEXT LOOP\nINITIALIZING...\n\nREADING KEY.....\n\n..........\n..........\nOK\n\nCHECKING .......\nOK\n\nPLEASE WAIT.....\n\nSENDING.....\n\nNEW TARGET\nTO: WORLD</text>
 			<text name="Leave">Leave</text>
 			<text name="toLeave">to leave</text>
+			<text name="NotAllowed">Not Allowed!</text>
 			<text name="toUnmountLeave">to unmount and leave it.</text>
 			<text name="YouLostYoshi">You lost Yoshi!</text>
 			<text name="HintAnchorDown">Hint: the anchor went down! Climb it to go to Airship level!</text>
@@ -6226,7 +6245,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_MusicVolume">Music Volume</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Sounds ON/OFF</text>
 			<text name="ScreenOptions_Header_Shoes">Shoes/Feet sounds</text>
-			<text name="ScreenOptions_Header_Fart">Fart sounds</text>
+			<text name="ScreenOptions_Header_Fart">Allow Farting</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Replace Boeing sounds with Semen sounds</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Waterfall ambient sounds</text>
 		<text name="ScreenOptions_Title_TEXT">TEXT and INFO</text>
@@ -6247,6 +6266,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_ShredBraIf">Shred Bra if...</text>
 			<text name="ScreenOptions_Header_BellyCanIncrease">Belly can increase</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Pregnancy Chance</text>
+			<text name="ScreenOptions_Header_NPCBoobBelly">NPC Boob/Belly</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
 			<text name="ScreenOptions_Header_Timeout">Timeout (seconds)</text>
 				<text name="ScreenOptions_SheWillBePunished">(She will be punished if X seconds are reached)</text>

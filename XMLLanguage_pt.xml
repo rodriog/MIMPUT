@@ -1932,6 +1932,23 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="luma2">
 				<p i="1">Eii! Calma\naí! Meus peitos...não ficam aí! Ahh!</p>
 			</scenes>			
+			<scenes scene="luma3">
+				<p i="1">\nVenha cá, meus bebês! Mamãe está aqui!</p>
+				<p i="1a">\nOh! Lumas! Estão procurando pela mamãe?</p>
+				<p i="2">\nHumnmm!</p>
+				<p i="2a">\nEi, espere!</p>
+				<p i="3">*risos*\nÉ incrível!\nSim, dancem para mim!</p>
+				<p i="3a">\nHummm...\nO que estão fa--?</p>
+				<p i="4">\nOoh! Sim, bebês!\nVenha brincar com mamãe!</p>
+				<p i="4a">\nOh nossa! Saiam... Er...parecem de...mamar!</p>
+				<p i="5">\nOoh! Isto faz\ncócegas! É...tão gostoso...</p>
+				<p i="5a">\nAah! Minha bunda! O que está havendo aí?</p>
+				<p i="6">\nSim! Continuem!\nAssim irei...!!</p>
+				<p i="6a">\nOoh! O que Rosalina ensinou a vocês? Que delícia!</p>
+				<p i="7">\nHumph!!\nAaaaah!!</p>
+				<p i="8">Hummm!\nVocês fizeram mamãe gozar tão gostoso ao me tocarem assim!</p>
+				<p i="8a">Oooh! Estes Lumas sabem exatamente onde me bulinar! Aaaaah, estou gozando!</p>
+			</scenes>			
 
 	<!--PUNIO (and punies) - bug-like creatures from PAPER MARIO II-->
 			<scenes scene="punio1"> <!--helping the princess to enter the hole-->
@@ -4186,6 +4203,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="89">Princesa! Tenha cuidado! Eles estão em todos os lugares! Os goombas! Minha nossa!</f>
 				<p i="90">Não tenho permissão de entrar ainda!</p>
 				<p i="91">Está trancado! Sinto cheiro de... odores sexuais ali! Ahh, estou ficando tonta...</p>
+				<p i="92">Escolha seu estilo de cabelo:\n1) Normal        2) Rabo de cavalo\n3) Sair</p>
 				
 				<f i="poochie1">Arf Woof! (Eu gosto desse corredor, os Toads me dão biscoitos toda a hora...)</f> <!--POOCHY DOG-->
 				<f i="poochie2">Woof Afff! (Eu gosto da brisa do telhado, sinto-me livre...)</f>
@@ -5585,6 +5603,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="TECMonitorWords">PRÓX. EXECUÇÃO\nINICIALIZANDO...\n\nCHAVE NO LUGAR.....\n\n..........\n..........\nOK\n\nCHECANDO.......\nOK\n\nDESTINO MUNDO</text>
 			<text name="Leave">Sair</text>
 			<text name="toLeave">para sair</text>
+			<text name="NotAllowed">Não permitido!</text>
 			<text name="toUnmountLeave">para desmontá-lo e sair.</text>
 			<text name="YouLostYoshi">Você perdeu o Yoshi!</text>
 			<text name="HintAnchorDown">Dica: a âncora desceu! Agora você pode subir até a fase do navio voador!</text>
@@ -6239,7 +6258,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_MusicVolume">Voume Música</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Som LIG/DESL</text>
 			<text name="ScreenOptions_Header_Shoes">Sons Sapato/Pés</text>
-			<text name="ScreenOptions_Header_Fart">Sons de Peido</text>
+			<text name="ScreenOptions_Header_Fart">Peidos</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Mudar som \'Boeing\' para os de Sêmen</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Sons de Cachoeiras</text>
 		<text name="ScreenOptions_Title_TEXT">TEXTOS e INFO</text>
@@ -6259,7 +6278,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<text name="ScreenOptions_CanOnlyIfPregnant">(Só podem desabilitar se não estiver grávida!)</text>
 			<text name="ScreenOptions_Header_ShredBraIf">Sutiãs rasgam se...</text>
 			<text name="ScreenOptions_Header_BellyCanIncrease">Barriga aumentará</text>
-			<text name="ScreenOptions_Header_PregnancyChance">Change de Gravidez</text>
+			<text name="ScreenOptions_Header_PregnancyChance">Chance de Gravidez</text>
+			<text name="ScreenOptions_Header_NPCBoobBelly">Barriga/Peito NPC</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
 			<text name="ScreenOptions_Header_Timeout">Tempo Limite (segundos)</text>
 				<text name="ScreenOptions_SheWillBePunished">(Ela pagará uma prenda a cada X segundos)</text>
